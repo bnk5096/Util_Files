@@ -1,0 +1,237 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+Snakemake,/src/99-systemd.rules,99-systemd.rules,28,6,16,6,0,1210,22
+License,/LICENSE,LICENSE,339,281,0,58,0,17987,281
+Systemd,/test2/a.service,a.service,7,6,0,1,0,88,7
+m4,/m4/acx_libwrap.m4,acx_libwrap.m4,19,18,1,0,0,457,20
+m4,/m4/attributes.m4,attributes.m4,311,275,0,36,0,10338,200
+C Header,/src/linux/auto_dev-ioctl.h,auto_dev-ioctl.h,229,145,33,51,0,5186,145
+C,/src/automount.c,automount.c,792,542,36,214,123,22086,400
+C Header,/src/automount.h,automount.h,65,29,19,17,0,1603,45
+Systemd,/test2/b.service,b.service,6,5,0,1,0,68,6
+Systemd,/units/basic.target,basic.target,14,12,0,2,0,505,13
+Shell,/bootstrap.sh,bootstrap.sh,72,43,17,12,9,1919,55
+Systemd,/test2/c.service,c.service,6,5,0,1,0,71,6
+C,/src/cgroup-util.c,cgroup-util.c,694,476,31,187,175,17585,254
+C Header,/src/cgroup-util.h,cgroup-util.h,54,22,19,13,0,2249,38
+C,/src/cgroup.c,cgroup.c,352,226,29,97,49,9448,179
+C Header,/src/cgroup.h,cgroup.h,80,32,25,23,0,2288,54
+C,/src/cgroups-agent.c,cgroups-agent.c,72,39,19,14,8,2136,47
+C,/src/conf-parser.c,conf-parser.c,468,341,23,104,53,11638,191
+C Header,/src/conf-parser.h,conf-parser.h,56,21,26,9,0,2966,44
+Systemd,/test2/d.service,d.service,8,7,0,1,0,111,8
+XML,/man/daemon.xml,daemon.xml,317,252,18,47,0,15959,248
+C,/src/dbus-automount.c,dbus-automount.c,49,23,19,7,0,2074,39
+C Header,/src/dbus-automount.h,dbus-automount.h,33,7,19,7,0,991,23
+C,/src/dbus-device.c,dbus-device.c,49,23,19,7,0,2090,39
+C Header,/src/dbus-device.h,dbus-device.h,33,7,19,7,0,979,23
+C,/src/dbus-execute.c,dbus-execute.c,28,5,19,4,0,973,21
+C Header,/src/dbus-execute.h,dbus-execute.h,83,56,19,8,0,5923,72
+C,/src/dbus-job.c,dbus-job.c,245,161,21,63,30,7954,140
+C Header,/src/dbus-job.h,dbus-job.h,34,8,19,7,0,1003,24
+C,/src/dbus-manager.c,dbus-manager.c,732,536,27,169,137,31322,329
+C Header,/src/dbus-manager.h,dbus-manager.h,31,6,19,6,0,921,22
+C,/src/dbus-mount.c,dbus-mount.c,139,96,20,23,27,5902,88
+C Header,/src/dbus-mount.h,dbus-mount.h,33,7,19,7,0,975,23
+C,/src/dbus-path.c,dbus-path.c,52,25,19,8,0,2173,41
+C Header,/src/dbus-path.h,dbus-path.h,33,7,19,7,0,971,23
+C,/src/dbus-service.c,dbus-service.c,85,55,21,9,0,5445,73
+C Header,/src/dbus-service.h,dbus-service.h,33,7,19,7,0,983,23
+C,/src/dbus-snapshot.c,dbus-snapshot.c,80,43,19,18,5,2912,57
+C Header,/src/dbus-snapshot.h,dbus-snapshot.h,33,7,19,7,0,987,23
+C,/src/dbus-socket.c,dbus-socket.c,91,62,20,9,0,6026,79
+C Header,/src/dbus-socket.h,dbus-socket.h,33,7,19,7,0,979,23
+C,/src/dbus-swap.c,dbus-swap.c,78,45,20,13,6,2980,61
+C Header,/src/dbus-swap.h,dbus-swap.h,34,7,20,7,0,1006,24
+C,/src/dbus-target.c,dbus-target.c,47,21,19,7,0,1898,37
+C Header,/src/dbus-target.h,dbus-target.h,33,7,19,7,0,979,23
+C,/src/dbus-timer.c,dbus-timer.c,52,25,19,8,0,2182,41
+C Header,/src/dbus-timer.h,dbus-timer.h,33,7,19,7,0,975,23
+C,/src/dbus-unit.c,dbus-unit.c,463,315,24,124,71,13714,203
+C Header,/src/dbus-unit.h,dbus-unit.h,130,100,19,11,0,10197,107
+C,/src/dbus.c,dbus.c,1526,1070,64,392,226,48167,664
+C Header,/src/dbus.h,dbus.h,109,70,19,20,1,5388,79
+Systemd,/units/session/default.target,default.target,11,9,0,2,0,348,10
+Systemd,/units/dev-hugepages.automount,dev-hugepages.automount,13,11,0,2,0,397,12
+Systemd,/units/dev-hugepages.mount,dev-hugepages.mount,14,12,0,2,0,385,13
+Systemd,/units/dev-mqueue.automount,dev-mqueue.automount,13,11,0,2,0,403,12
+Systemd,/units/dev-mqueue.mount,dev-mqueue.mount,14,12,0,2,0,385,13
+C,/src/device.c,device.c,468,332,24,112,80,12853,246
+C Header,/src/device.h,device.h,53,20,21,12,0,1374,38
+Systemd,/test2/e.service,e.service,8,7,0,1,0,108,8
+Systemd,/units/emergency.service,emergency.service,18,15,0,3,0,462,16
+Systemd,/test1/exec-demo.service,exec-demo.service,9,8,0,1,0,197,9
+C,/src/execute.c,execute.c,1841,1269,139,433,298,57156,1056
+C Header,/src/execute.h,execute.h,231,152,37,42,0,6646,184
+Autoconf,/units/session/exit.service.in,exit.service.in,8,7,0,1,0,138,8
+Systemd,/test2/f.service,f.service,5,4,0,1,0,52,5
+C,/src/fdset.c,fdset.c,162,94,27,41,14,3842,97
+C Header,/src/fdset.h,fdset.h,40,12,19,9,0,1087,28
+Systemd,/test1/fifo-demo.service,fifo-demo.service,8,7,0,1,0,201,8
+Systemd,/test1/fifo-demo.socket,fifo-demo.socket,6,5,0,1,0,180,6
+Systemd,/test2/g.service,g.service,6,5,0,1,0,72,6
+Systemd,/units/getty.target,getty.target,9,8,0,1,0,316,9
+m4,/units/getty@.service.m4,getty@.service.m4,33,24,6,3,0,1143,31
+m4,/units/graphical.target.m4,graphical.target.m4,28,18,7,3,0,690,22
+Systemd,/test2/h.service,h.service,6,5,0,1,0,68,6
+Systemd,/units/arch/halt.service,halt.service,18,16,0,2,0,592,17
+Systemd,/units/fedora/halt.service,halt.service,19,17,0,2,0,657,18
+Systemd,/units/suse/halt.service,halt.service,19,17,0,2,0,625,18
+Systemd,/units/gentoo/halt.service,halt.service,19,17,0,2,0,668,18
+Systemd,/units/halt.target,halt.target,16,13,0,3,0,423,14
+XML,/man/halt.xml,halt.xml,181,127,18,36,0,7155,110
+C,/src/hashmap.c,hashmap.c,543,354,25,164,77,12568,230
+C Header,/src/hashmap.h,hashmap.h,85,43,23,19,3,3298,63
+C,/src/hostname-setup.c,hostname-setup.c,169,108,19,42,29,3956,110
+C Header,/src/hostname-setup.h,hostname-setup.h,27,4,19,4,0,829,20
+C,/src/initctl.c,initctl.c,405,290,19,96,46,11136,242
+C Header,/src/initreq.h,initreq.h,77,44,24,9,0,2076,57
+C,/src/install.c,install.c,585,414,22,149,92,15819,299
+C Header,/src/ioprio.h,ioprio.h,57,32,14,11,1,1497,39
+C,/src/job.c,job.c,592,404,57,131,142,18862,339
+C Header,/src/job.h,job.h,151,91,25,35,0,4144,109
+Systemd,/units/fedora/killall.service,killall.service,16,14,0,2,0,442,15
+Systemd,/units/gentoo/killall.service,killall.service,16,14,0,2,0,444,15
+C,/src/kmod-setup.c,kmod-setup.c,108,65,19,24,12,3109,76
+C Header,/src/kmod-setup.h,kmod-setup.h,27,4,19,4,0,817,20
+C Header,/src/list.h,list.h,119,76,29,14,21,6186,82
+C,/src/load-dropin.c,load-dropin.c,117,66,21,30,13,3124,76
+C Header,/src/load-dropin.h,load-dropin.h,31,5,20,6,0,906,22
+C,/src/load-fragment.c,load-fragment.c,1774,1375,46,353,185,65483,776
+C Header,/src/load-fragment.h,load-fragment.h,33,6,20,7,0,966,23
+Systemd,/units/local-fs.target,local-fs.target,11,9,0,2,0,359,10
+C,/src/log.c,log.c,531,369,30,132,72,13841,265
+C Header,/src/log.h,log.h,98,55,23,20,0,2906,67
+C,/src/logger.c,logger.c,602,419,37,146,85,16256,347
+C,/src/loopback-setup.c,loopback-setup.c,278,194,19,65,38,8384,156
+C Header,/src/loopback-setup.h,loopback-setup.h,27,4,19,4,0,829,20
+C Header,/src/macro.h,macro.h,132,89,21,22,7,5153,99
+Systemd,/units/mail-transfer-agent.target,mail-transfer-agent.target,11,9,0,2,0,360,10
+C,/src/main.c,main.c,868,610,52,206,159,29473,525
+C,/src/manager.c,manager.c,2344,1522,200,622,396,71203,1135
+C Header,/src/manager.h,manager.h,246,138,47,61,0,7540,180
+C Header,/src/missing.h,missing.h,50,20,20,10,0,1325,33
+C,/src/mount-setup.c,mount-setup.c,166,106,25,35,14,4942,115
+C Header,/src/mount-setup.h,mount-setup.h,31,6,19,6,0,886,22
+C,/src/mount.c,mount.c,1577,1129,57,391,316,47495,806
+C Header,/src/mount.h,mount.h,110,64,21,25,0,3021,82
+m4,/units/multi-user.target.m4,multi-user.target.m4,30,20,7,3,0,712,24
+Systemd,/test1/multiuser.target,multiuser.target,2,2,0,0,0,37,3
+C,/src/namespace.c,namespace.c,331,225,31,75,44,9073,210
+C Header,/src/namespace.h,namespace.h,34,10,19,5,0,1013,26
+Systemd,/units/network.target,network.target,11,9,0,2,0,348,10
+C,/src/notify.c,notify.c,199,137,19,43,16,5641,131
+Systemd,/units/nss-lookup.target,nss-lookup.target,13,11,0,2,0,395,12
+Systemd,/src/org.freedesktop.systemd1.service,org.freedesktop.systemd1.service,11,10,0,1,0,355,11
+C,/src/pam-module.c,pam-module.c,513,340,55,118,106,17158,299
+XML,/man/pam_systemd.xml,pam_systemd.xml,302,239,18,45,0,14172,213
+C,/src/path-lookup.c,path-lookup.c,287,185,41,61,56,9204,168
+C Header,/src/path-lookup.h,path-lookup.h,38,12,19,7,0,1104,28
+C,/src/path.c,path.c,578,403,20,155,85,14696,284
+C Header,/src/path.h,path.h,85,44,21,20,0,2047,62
+Systemd,/test1/permissions.service,permissions.service,11,10,0,1,0,213,11
+Systemd,/test1/postfix.service,postfix.service,7,6,0,1,0,134,7
+Systemd,/test1/postfix.socket,postfix.socket,13,12,0,1,0,416,13
+Systemd,/units/fedora/poweroff.service,poweroff.service,18,16,0,2,0,635,17
+Systemd,/units/gentoo/poweroff.service,poweroff.service,18,16,0,2,0,646,17
+Systemd,/units/suse/poweroff.service,poweroff.service,17,15,0,2,0,580,16
+Systemd,/units/arch/poweroff.service,poweroff.service,18,16,0,2,0,597,17
+Systemd,/units/poweroff.target,poweroff.target,17,14,0,3,0,459,15
+Systemd,/units/fedora/prefdm.service,prefdm.service,19,16,0,3,0,548,17
+Systemd,/units/proc-sys-fs-binfmt_misc.automount,proc-sys-fs-binfmt_misc.automount,13,11,0,2,0,430,12
+Systemd,/units/proc-sys-fs-binfmt_misc.mount,proc-sys-fs-binfmt_misc.mount,14,12,0,2,0,422,13
+C,/src/ratelimit.c,ratelimit.c,62,26,22,14,3,1613,44
+C Header,/src/ratelimit.h,ratelimit.h,55,28,19,8,1,1921,44
+Systemd,/units/arch/rc-local.service,rc-local.service,20,18,0,2,0,541,19
+Systemd,/units/fedora/rc-local.service,rc-local.service,24,21,0,3,0,692,22
+Systemd,/units/fedora/reboot.service,reboot.service,18,16,0,2,0,634,17
+Systemd,/units/suse/reboot.service,reboot.service,17,15,0,2,0,579,16
+Systemd,/units/gentoo/reboot.service,reboot.service,17,15,0,2,0,608,16
+Systemd,/units/arch/reboot.service,reboot.service,18,16,0,2,0,594,17
+Systemd,/units/reboot.target,reboot.target,17,14,0,3,0,452,15
+m4,/units/remote-fs.target.m4,remote-fs.target.m4,17,8,7,2,0,501,16
+Systemd,/units/rescue.target,rescue.target,17,14,0,3,0,452,15
+Systemd,/units/rpcbind.target,rpcbind.target,11,9,0,2,0,356,10
+Systemd,/units/rtc-set.target,rtc-set.target,11,9,0,2,0,348,10
+XML,/man/runlevel.xml,runlevel.xml,154,104,18,32,0,5598,94
+C,/src/sd-daemon.c,sd-daemon.c,448,313,31,104,111,11826,226
+C Header,/src/sd-daemon.h,sd-daemon.h,257,35,204,18,0,10175,180
+XML,/man/sd-daemon.xml,sd-daemon.xml,162,121,18,23,0,7978,132
+XML,/man/sd_booted.xml,sd_booted.xml,122,85,18,19,0,5062,94
+XML,/man/sd_is_fifo.xml,sd_is_fifo.xml,199,154,18,27,0,9913,148
+XML,/man/sd_listen_fds.xml,sd_listen_fds.xml,197,151,18,28,0,9695,157
+XML,/man/sd_notify.xml,sd_notify.xml,295,229,18,48,0,13522,214
+C Header,/src/securebits.h,securebits.h,45,16,21,8,0,1976,38
+C,/src/service.c,service.c,2694,1880,155,659,631,89916,1349
+C Header,/src/service.h,service.h,164,105,21,38,0,4849,123
+C,/src/set.c,set.c,123,74,20,29,1,3240,70
+C Header,/src/set.h,set.h,69,31,24,14,2,2273,52
+Systemd,/units/shutdown.target,shutdown.target,12,10,0,2,0,370,11
+XML,/man/shutdown.xml,shutdown.xml,156,106,18,32,0,6039,101
+Systemd,/units/sigpwr.target,sigpwr.target,11,9,0,2,0,354,10
+C,/src/snapshot.c,snapshot.c,276,181,19,76,36,7442,154
+C Header,/src/snapshot.h,snapshot.h,52,21,19,12,0,1391,37
+C,/src/socket-util.c,socket-util.c,485,321,39,125,125,15777,261
+C Header,/src/socket-util.h,socket-util.h,85,46,22,17,0,2708,65
+C,/src/socket.c,socket.c,1602,1162,49,391,330,49517,801
+C Header,/src/socket.h,socket.h,145,88,26,31,0,3771,111
+Systemd,/units/sockets.target,sockets.target,11,9,0,2,0,348,10
+C Header,/src/special.h,special.h,73,37,25,11,0,3053,57
+C,/src/specifier.c,specifier.c,110,62,25,23,16,3463,80
+C Header,/src/specifier.h,specifier.h,37,11,19,7,0,1159,27
+C,/src/strv.c,strv.c,541,350,38,153,79,11211,230
+C Header,/src/strv.h,strv.h,69,32,19,18,5,2022,48
+C,/src/swap.c,swap.c,577,405,24,148,94,15043,316
+C Header,/src/swap.h,swap.h,71,34,20,17,0,1793,50
+Systemd,/units/swap.target,swap.target,11,9,0,2,0,345,10
+Systemd,/units/sys-kernel-debug.automount,sys-kernel-debug.automount,13,11,0,2,0,395,12
+Systemd,/units/sys-kernel-debug.mount,sys-kernel-debug.mount,14,12,0,2,0,379,13
+Systemd,/units/sys-kernel-security.automount,sys-kernel-security.automount,13,11,0,2,0,401,12
+Systemd,/units/sys-kernel-security.mount,sys-kernel-security.mount,14,12,0,2,0,391,13
+Systemd,/units/arch/sysinit.service,sysinit.service,19,17,0,2,0,540,18
+Systemd,/units/fedora/sysinit.service,sysinit.service,19,17,0,2,0,545,18
+m4,/units/sysinit.target.m4,sysinit.target.m4,24,15,7,2,0,662,20
+Systemd,/test1/syslog.service,syslog.service,5,4,0,1,0,97,5
+Systemd,/test1/syslog.socket,syslog.socket,8,7,0,1,0,156,8
+Autoconf,/units/syslog.target.in,syslog.target.in,13,4,7,2,0,412,12
+Vala,/src/systemadm.vala,systemadm.vala,963,730,18,215,80,38396,575
+XML,/man/systemadm.xml,systemadm.xml,111,71,18,22,0,4018,77
+C,/src/systemctl.c,systemctl.c,2514,1920,52,542,342,82449,960
+XML,/man/systemctl.xml,systemctl.xml,458,376,18,64,0,22799,295
+Autoconf,/units/systemd-initctl.service.in,systemd-initctl.service.in,14,4,7,3,0,436,12
+Systemd,/units/systemd-initctl.socket,systemd-initctl.socket,17,14,0,3,0,475,15
+XML,/man/systemd-install.xml,systemd-install.xml,176,124,18,34,0,7306,106
+Vala,/src/systemd-interfaces.vala,systemd-interfaces.vala,142,101,18,23,0,5973,105
+Systemd,/test1/systemd-logger.service,systemd-logger.service,13,12,0,1,0,223,13
+Autoconf,/units/systemd-logger.service.in,systemd-logger.service.in,15,5,7,3,0,447,13
+Systemd,/test1/systemd-logger.socket,systemd-logger.socket,5,4,0,1,0,99,5
+Systemd,/units/systemd-logger.socket,systemd-logger.socket,16,13,0,3,0,463,14
+XML,/man/systemd-notify.xml,systemd-notify.xml,200,144,18,38,0,8752,138
+Autoconf,/systemd.pc.in,systemd.pc.in,18,10,6,2,0,600,17
+XML,/man/systemd.service.xml,systemd.service.xml,213,174,18,21,0,10799,160
+Autoconf,/man/systemd.special.xml.in,systemd.special.xml.in,685,647,0,38,43,38385,370
+XML,/man/systemd.unit.xml,systemd.unit.xml,505,435,18,52,0,28120,403
+XML,/man/systemd.xml,systemd.xml,627,517,18,92,0,31578,382
+C,/src/target.c,target.c,195,124,21,50,11,5151,112
+C Header,/src/target.h,target.h,49,19,19,11,0,1256,35
+C,/src/tcpwrap.c,tcpwrap.c,68,38,19,11,5,1877,51
+C Header,/src/tcpwrap.h,tcpwrap.h,29,5,19,5,0,860,21
+XML,/man/telinit.xml,telinit.xml,195,141,18,36,0,8059,125
+C,/src/test-cgroup.c,test-cgroup.c,84,44,19,21,18,3105,54
+C,/src/test-daemon.c,test-daemon.c,37,12,19,6,0,1047,28
+C,/src/test-engine.c,test-engine.c,99,58,19,22,10,3743,64
+C,/src/test-job-type.c,test-job-type.c,84,35,29,20,13,3543,61
+C,/src/test-loopback.c,test-loopback.c,35,10,19,6,1,1001,26
+C,/src/test-ns.c,test-ns.c,60,31,19,10,1,1628,43
+C,/src/timer.c,timer.c,469,321,22,126,64,12808,254
+C Header,/src/timer.h,timer.h,84,45,19,20,0,1981,60
+C,/src/unit-name.c,unit-name.c,424,263,42,119,72,9912,217
+C Header,/src/unit-name.h,unit-name.h,54,21,19,14,0,1725,37
+C,/src/unit.c,unit.c,2001,1349,134,518,363,57949,965
+C Header,/src/unit.h,unit.h,469,271,85,113,19,14889,344
+C,/src/util.c,util.c,2637,1817,126,694,501,64689,1229
+C Header,/src/util.h,util.h,308,197,20,91,14,9758,207
+C,/src/utmp-wtmp.c,utmp-wtmp.c,356,227,34,95,46,8826,201
+C Header,/src/utmp-wtmp.h,utmp-wtmp.h,35,9,19,7,0,1052,25
+Systemd,/units/var-lock.mount,var-lock.mount,18,15,0,3,0,423,16
+Systemd,/units/var-run.mount,var-run.mount,18,15,0,3,0,425,16
+Systemd,/units/gentoo/xdm.service,xdm.service,16,14,0,2,0,492,15

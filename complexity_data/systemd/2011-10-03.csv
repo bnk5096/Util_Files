@@ -1,0 +1,260 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+Plain Text,/test/sys/module/processor/sections/.cpuinit.text,.cpuinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/microcode/sections/.cpuinit.text,.cpuinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_hda_intel/sections/.devexit.text,.devexit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rsrc_nonstatic/sections/.devexit.text,.devexit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcspkr/sections/.devexit.text,.devexit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/e1000e/sections/.devexit.text,.devexit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/iwl3945/sections/.devexit.text,.devexit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/intel_agp/sections/.devexit.text,.devexit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/yenta_socket/sections/.devinit.text,.devinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcmcia/sections/.devinit.text,.devinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rsrc_nonstatic/sections/.devinit.text,.devinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rtc_cmos/sections/.devinit.text,.devinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcspkr/sections/.devinit.text,.devinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/e1000e/sections/.devinit.text,.devinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/intel_agp/sections/.devinit.text,.devinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_hda_intel/sections/.devinit.text,.devinit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/nvram/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcmcia_core/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rtc_core/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcspkr/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_pcm_oss/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/crypto_blkcipher/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rtc_cmos/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/md_mod/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/iwl3945/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_page_alloc/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/aes_generic/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/mac80211/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/edd/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/cdrom/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/dm_mod/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/loop/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/ipv6/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/ecb/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_hda_intel/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/usbhid/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/battery/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_seq/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_pcm/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/sr_mod/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/processor/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_seq_device/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/uhci_hcd/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/soundcore/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/hwmon/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_timer/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcmcia/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rfkill/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/thermal/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/usbcore/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/yenta_socket/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/uinput/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/aes_x86_64/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/ac/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/cdc_acm/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/arc4/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/microcode/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/acpi_cpufreq/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/ehci_hcd/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_mixer_oss/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/button/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/led_class/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/backlight/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/evdev/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/sg/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/usb_storage/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/e1000e/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/intel_agp/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/fuse/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rsrc_nonstatic/sections/.exit.text,.exit.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/nvram/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_pcm/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/sg/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/intel_agp/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/led_class/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/evdev/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/button/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/backlight/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/ehci_hcd/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/acpi_cpufreq/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_mixer_oss/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/arc4/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/microcode/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/ac/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/uinput/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/cdc_acm/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/hwmon/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/usbcore/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/yenta_socket/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/usb_storage/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/e1000e/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/raid1/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/thinkpad_acpi/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/soundcore/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/fuse/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rfkill/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcmcia_core/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_seq_device/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/aes_x86_64/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcmcia/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/thermal/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_seq/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rsrc_nonstatic/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/sr_mod/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/battery/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/usbhid/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/processor/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_timer/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/edd/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/dm_mod/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/cdrom/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/ipv6/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/aes_generic/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/mac80211/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/md_mod/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/iwl3945/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_pcm_oss/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/crypto_blkcipher/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcspkr/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rtc_cmos/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/rtc_core/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/uhci_hcd/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/loop/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_page_alloc/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/ecb/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/snd_hda_intel/sections/.init.text,.init.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/ipv6/sections/.ref.text,.ref.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/pcmcia_core/sections/.ref.text,.ref.text,1,1,0,0,0,19,0
+Plain Text,/test/sys/module/processor/sections/.ref.text,.ref.text,1,1,0,0,0,19,0
+Snakemake,/rules/misc/30-kernel-compat.rules,30-kernel-compat.rules,15,5,6,4,0,742,0
+Snakemake,/rules/arch/40-ia64.rules,40-ia64.rules,4,1,1,2,0,90,0
+Snakemake,/rules/arch/40-ppc.rules,40-ppc.rules,6,4,1,1,0,213,0
+Snakemake,/rules/arch/40-s390.rules,40-s390.rules,4,1,1,2,0,93,0
+Snakemake,/extras/qemu/42-qemu-usb.rules,42-qemu-usb.rules,13,3,9,1,0,764,0
+Snakemake,/extras/firmware/50-firmware.rules,50-firmware.rules,4,1,2,1,0,219,0
+Snakemake,/rules/rules.d/50-udev-default.rules,50-udev-default.rules,104,64,19,21,0,3561,0
+Snakemake,/extras/cdrom_id/60-cdrom_id.rules,60-cdrom_id.rules,18,8,5,5,0,584,0
+Snakemake,/extras/floppy/60-floppy.rules,60-floppy.rules,4,2,1,1,0,250,0
+Snakemake,/rules/rules.d/60-persistent-alsa.rules,60-persistent-alsa.rules,14,9,1,4,0,616,0
+Snakemake,/rules/rules.d/60-persistent-input.rules,60-persistent-input.rules,38,24,7,7,0,2400,0
+Snakemake,/rules/rules.d/60-persistent-serial.rules,60-persistent-serial.rules,20,14,1,5,0,947,0
+Snakemake,/rules/rules.d/60-persistent-storage-tape.rules,60-persistent-storage-tape.rules,25,14,4,7,0,1421,0
+Snakemake,/rules/rules.d/60-persistent-storage.rules,60-persistent-storage.rules,91,41,26,24,0,6052,0
+Snakemake,/extras/v4l_id/60-persistent-v4l.rules,60-persistent-v4l.rules,20,12,2,6,0,770,0
+Snakemake,/extras/accelerometer/61-accelerometer.rules,61-accelerometer.rules,3,1,1,1,0,166,0
+Snakemake,/extras/edd_id/61-persistent-storage-edd.rules,61-persistent-storage-edd.rules,12,7,2,3,0,528,0
+Snakemake,/extras/udev-acl/70-udev-acl.rules,70-udev-acl.rules,76,29,24,23,0,2569,0
+Snakemake,/extras/rule_generator/75-cd-aliases-generator.rules,75-cd-aliases-generator.rules,9,4,2,3,0,462,0
+Snakemake,/rules/rules.d/75-net-description.rules,75-net-description.rules,14,9,1,4,0,642,0
+Snakemake,/extras/rule_generator/75-persistent-net-generator.rules,75-persistent-net-generator.rules,101,37,42,22,0,4083,0
+Snakemake,/extras/mtd_probe/75-probe_mtd.rules,75-probe_mtd.rules,8,4,1,3,0,254,0
+Snakemake,/rules/rules.d/75-tty-description.rules,75-tty-description.rules,14,9,1,4,0,642,0
+Snakemake,/rules/rules.d/78-sound-card.rules,78-sound-card.rules,83,28,35,20,0,4248,0
+Snakemake,/rules/rules.d/80-drivers.rules,80-drivers.rules,13,9,1,3,0,657,0
+Snakemake,/extras/keymap/95-keyboard-force-release.rules,95-keyboard-force-release.rules,49,21,13,15,0,3063,0
+Snakemake,/extras/keymap/95-keymap.rules,95-keymap.rules,161,94,24,43,0,10967,0
+Snakemake,/rules/rules.d/95-udev-late.rules,95-udev-late.rules,4,1,2,1,0,155,0
+License,/COPYING,COPYING,339,281,0,58,0,17987,0
+License,/extras/gudev/COPYING,COPYING,504,427,0,77,0,26432,0
+License,/libudev/COPYING,COPYING,504,427,0,77,0,26432,0
+Plain Text,/extras/keymap/README.keymap.txt,README.keymap.txt,101,70,0,31,0,4160,0
+C,/extras/accelerometer/accelerometer.c,accelerometer.c,357,245,58,54,68,8673,0
+C,/extras/ata_id/ata_id.c,ata_id.c,726,537,125,64,125,21073,0
+Shell,/autogen.sh,autogen.sh,35,28,1,6,0,659,0
+C,/extras/cdrom_id/cdrom_id.c,cdrom_id.c,1099,927,65,107,182,29418,0
+Shell,/extras/keymap/check-keymaps.sh,check-keymaps.sh,38,27,6,5,5,1135,0
+C,/extras/collect/collect.c,collect.c,473,341,70,62,62,9492,0
+C,/extras/floppy/create_floppy_devices.c,create_floppy_devices.c,177,139,21,17,22,4402,0
+C,/extras/edd_id/edd_id.c,edd_id.c,196,149,27,20,34,4845,0
+Shell,/extras/keymap/findkeyboards,findkeyboards,49,27,18,4,4,1791,0
+C,/extras/firmware/firmware.c,firmware.c,192,152,18,22,48,4736,0
+JavaScript,/extras/gudev/gjs-example.js,gjs-example.js,75,57,5,13,7,2845,0
+Autoconf,/extras/gudev/gudev-1.0.pc.in,gudev-1.0.pc.in,11,10,0,1,1,256,0
+XML,/extras/gudev/docs/gudev-docs.xml,gudev-docs.xml,93,86,0,7,0,2744,0
+Plain Text,/extras/gudev/docs/gudev-sections.txt,gudev-sections.txt,113,109,0,4,0,2792,0
+C Header,/extras/gudev/gudev.h,gudev.h,33,11,19,3,0,1191,0
+C,/extras/gudev/gudevclient.c,gudevclient.c,528,306,141,81,51,16121,0
+C Header,/extras/gudev/gudevclient.h,gudevclient.h,100,51,35,14,1,3905,0
+C,/extras/gudev/gudevdevice.c,gudevdevice.c,964,461,377,126,96,26397,0
+C Header,/extras/gudev/gudevdevice.h,gudevdevice.h,128,81,33,14,1,6408,0
+C,/extras/gudev/gudevenumerator.c,gudevenumerator.c,431,223,161,47,27,13103,0
+C Header,/extras/gudev/gudevenumerator.h,gudevenumerator.h,107,57,37,13,1,4797,0
+C Header,/extras/gudev/gudevenums.h,gudevenums.h,49,15,27,7,1,1586,0
+C Header,/extras/gudev/gudevprivate.h,gudevprivate.h,41,13,19,9,1,1346,0
+C Header,/extras/gudev/gudevtypes.h,gudevtypes.h,51,18,25,8,1,1642,0
+C,/extras/input_id/input_id.c,input_id.c,0,0,0,0,0,0,0
+Shell,/extras/keymap/keyboard-force-release.sh,keyboard-force-release.sh,22,15,5,2,1,502,0
+C,/extras/keymap/keymap.c,keymap.c,447,330,44,73,92,10246,0
+C,/libudev/libudev-device-private.c,libudev-device-private.c,189,146,17,26,43,5861,0
+C,/libudev/libudev-device.c,libudev-device.c,1788,1225,370,193,402,51296,0
+XML,/libudev/docs/libudev-docs.xml,libudev-docs.xml,31,29,0,2,0,1007,0
+C,/libudev/libudev-enumerate.c,libudev-enumerate.c,947,632,205,110,212,27526,0
+C,/libudev/libudev-list.c,libudev-list.c,344,236,62,46,46,8107,0
+C,/libudev/libudev-monitor.c,libudev-monitor.c,875,546,234,95,156,25941,0
+C Header,/libudev/libudev-private.h,libudev-private.h,219,179,20,20,8,10900,0
+C,/libudev/libudev-queue-private.c,libudev-queue-private.c,457,318,65,74,91,13941,0
+C,/libudev/libudev-queue.c,libudev-queue.c,515,328,118,69,94,12557,0
+Plain Text,/libudev/docs/libudev-sections.txt,libudev-sections.txt,123,117,0,6,0,2836,0
+C,/libudev/libudev-selinux-private.c,libudev-selinux-private.c,109,81,12,16,17,2761,0
+C,/libudev/libudev-util-private.c,libudev-util-private.c,259,211,15,33,95,5456,0
+C,/libudev/libudev-util.c,libudev-util.c,558,423,63,72,139,11428,0
+C,/libudev/libudev.c,libudev.c,467,384,58,25,35,10778,0
+C Header,/libudev/libudev.h,libudev.h,182,114,57,11,2,8960,0
+Autoconf,/libudev/libudev.pc.in,libudev.pc.in,11,10,0,1,0,239,0
+C,/extras/mtd_probe/mtd_probe.c,mtd_probe.c,51,29,18,4,6,1340,0
+C Header,/extras/mtd_probe/mtd_probe.h,mtd_probe.h,49,16,24,9,0,1491,0
+C,/extras/path_id/path_id.c,path_id.c,0,0,0,0,0,0,0
+C,/extras/mtd_probe/probe_smartmedia.c,probe_smartmedia.c,97,62,18,17,15,2206,0
+Python,/test/rule-syntax-check.py,rule-syntax-check.py,64,34,21,9,11,2331,0
+Shell,/test/rules-test.sh,rules-test.sh,17,7,6,4,2,409,0
+C Header,/extras/scsi_id/scsi.h,scsi.h,97,42,42,13,0,2389,0
+C,/extras/scsi_id/scsi_id.c,scsi_id.c,657,621,26,10,6,15637,0
+C Header,/extras/scsi_id/scsi_id.h,scsi_id.h,74,27,35,12,0,2148,0
+C,/extras/scsi_id/scsi_serial.c,scsi_serial.c,990,667,224,99,194,28427,0
+C,/udev/sd-daemon.c,sd-daemon.c,520,363,31,126,142,13697,0
+C Header,/udev/sd-daemon.h,sd-daemon.h,277,37,220,20,0,10843,0
+JavaScript,/extras/gudev/seed-example-enum.js,seed-example-enum.js,38,33,0,5,2,1540,0
+JavaScript,/extras/gudev/seed-example.js,seed-example.js,72,58,1,13,7,2674,0
+C,/libudev/test-libudev.c,test-libudev.c,505,424,11,70,88,14299,0
+C,/udev/test-udev.c,test-udev.c,101,70,18,13,18,2749,0
+C,/extras/udev-acl/udev-acl.c,udev-acl.c,430,335,46,49,127,9989,0
+C,/udev/udev-builtin-input_id.c,udev-builtin-input_id.c,218,153,43,22,45,7476,0
+C,/udev/udev-builtin-path_id.c,udev-builtin-path_id.c,486,385,38,63,162,12581,0
+C,/udev/udev-builtin-usb_id.c,udev-builtin-usb_id.c,482,382,51,49,78,13570,0
+C,/udev/udev-builtin.c,udev-builtin.c,76,47,17,12,7,2106,0
+Systemd,/init/udev-control.socket,udev-control.socket,7,6,0,1,0,140,0
+C,/udev/udev-ctrl.c,udev-ctrl.c,490,407,16,67,88,11213,0
+C,/udev/udev-event.c,udev-event.c,1093,907,62,124,291,29508,0
+Systemd,/init/udev-kernel.socket,udev-kernel.socket,8,7,0,1,0,147,0
+C,/udev/udev-node.c,udev-node.c,456,369,37,50,143,13926,0
+C,/udev/udev-rules.c,udev-rules.c,2829,2690,59,80,70,76326,0
+Autoconf,/init/udev-settle.service.in,udev-settle.service.in,25,13,9,3,1,756,0
+Perl,/test/udev-test.pl,udev-test.pl,1791,1697,35,59,72,55961,0
+Autoconf,/init/udev-trigger.service.in,udev-trigger.service.in,10,9,0,1,0,299,0
+C,/udev/udev-watch.c,udev-watch.c,170,115,25,30,27,4546,0
+C Header,/udev/udev.h,udev.h,170,133,24,13,0,6801,0
+Autoconf,/udev/udev.pc.in,udev.pc.in,5,4,0,1,0,70,0
+Autoconf,/init/udev.service.in,udev.service.in,13,12,0,1,0,315,0
+XML,/udev/udev.xml,udev.xml,703,636,0,67,0,29512,0
+C,/udev/udevadm-control.c,udevadm-control.c,169,142,13,14,22,4135,0
+C,/udev/udevadm-info.c,udevadm-info.c,568,491,20,57,124,15270,0
+C,/udev/udevadm-monitor.c,udevadm-monitor.c,297,242,17,38,44,8407,0
+C,/udev/udevadm-settle.c,udevadm-settle.c,235,185,23,27,46,6110,0
+C,/udev/udevadm-test-builtin.c,udevadm-test-builtin.c,123,92,17,14,14,2961,0
+C,/udev/udevadm-test.c,udevadm-test.c,170,129,19,22,27,4708,0
+C,/udev/udevadm-trigger.c,udevadm-trigger.c,256,220,18,18,28,7913,0
+C,/udev/udevadm.c,udevadm.c,165,129,16,20,19,3881,0
+XML,/udev/udevadm.xml,udevadm.xml,473,458,0,15,0,19279,0
+C,/udev/udevd.c,udevd.c,1733,1363,110,260,401,44798,0
+XML,/udev/udevd.xml,udevd.xml,151,141,0,10,0,5334,0
+C,/extras/usb-db/usb-db.c,usb-db.c,264,191,13,60,57,5092,0
+C,/extras/usb_id/usb_id.c,usb_id.c,0,0,0,0,0,0,0
+C,/extras/v4l_id/v4l_id.c,v4l_id.c,87,65,14,8,15,2178,0
+Autoconf,/libudev/docs/version.xml.in,version.xml.in,1,1,0,0,0,10,0
+Autoconf,/extras/gudev/docs/version.xml.in,version.xml.in,1,1,0,0,0,10,0
+Shell,/extras/rule_generator/write_cd_rules,write_cd_rules,127,81,20,26,12,3134,0
+Shell,/extras/rule_generator/write_net_rules,write_net_rules,141,80,36,25,17,3936,0

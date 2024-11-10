@@ -1,0 +1,127 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+License,/extras/scsi_id/COPYING,COPYING,340,286,0,54,0,18007,0
+License,/COPYING,COPYING,340,286,0,54,0,18009,0
+Makefile,/Makefile,Makefile,411,316,40,55,21,10840,0
+Makefile,/extras/edd_id/Makefile,Makefile,69,48,7,14,0,1422,0
+Makefile,/extras/ata_id/Makefile,Makefile,69,48,7,14,0,1413,0
+Makefile,/extras/firmware/Makefile,Makefile,68,48,7,13,2,1429,0
+Makefile,/extras/scsi_id/Makefile,Makefile,96,69,9,18,0,2330,0
+Makefile,/extras/volume_id/Makefile,Makefile,71,50,7,14,0,1538,0
+Makefile,/extras/run_directory/Makefile,Makefile,69,50,7,12,2,1610,0
+Makefile,/extras/usb_id/Makefile,Makefile,68,48,7,13,2,1411,0
+Makefile,/extras/volume_id/libvolume_id/Makefile,Makefile,66,51,6,9,0,989,0
+Makefile,/extras/cdrom_id/Makefile,Makefile,68,48,7,13,0,1423,0
+Makefile,/extras/floppy/Makefile,Makefile,68,48,7,13,2,1435,0
+Makefile,/extras/dasd_id/Makefile,Makefile,69,48,7,14,0,1423,0
+D,/extras/run_directory/RFC-dev.d,RFC-dev.d,50,12,35,3,1,2081,0
+C,/extras/ata_id/ata_id.c,ata_id.c,171,136,14,21,26,3124,0
+C,/ccdv.c,ccdv.c,387,330,13,44,131,9762,0
+C,/extras/cdrom_id/cdrom_id.c,cdrom_id.c,152,114,17,21,18,3737,0
+C,/extras/volume_id/libvolume_id/cramfs.c,cramfs.c,65,45,9,11,4,1406,0
+C,/extras/floppy/create_floppy_devices.c,create_floppy_devices.c,126,96,15,15,20,2892,0
+C,/extras/dasd_id/dasd_id.c,dasd_id.c,263,176,53,34,24,7682,0
+C,/libsysfs/dlist.c,dlist.c,621,407,160,54,69,14187,0
+C Header,/libsysfs/sysfs/dlist.h,dlist.h,207,70,104,33,8,7301,0
+C,/extras/edd_id/edd_id.c,edd_id.c,193,153,15,25,31,4046,0
+Shell,/extras/eventrecorder.sh,eventrecorder.sh,4,2,1,1,1,78,0
+C,/extras/volume_id/libvolume_id/ext.c,ext.c,116,89,11,16,10,3022,0
+C,/extras/volume_id/libvolume_id/fat.c,fat.c,350,261,30,59,86,8928,0
+C,/extras/firmware/firmware_helper.c,firmware_helper.c,143,108,14,21,20,3155,0
+C,/extras/volume_id/libvolume_id/hfs.c,hfs.c,298,236,12,50,32,7602,0
+C,/extras/volume_id/libvolume_id/highpoint.c,highpoint.c,97,66,9,22,13,2162,0
+C,/extras/volume_id/libvolume_id/hpfs.c,hpfs.c,57,36,9,12,4,1208,0
+Shell,/extras/ide-devfs.sh,ide-devfs.sh,47,36,4,7,8,1259,0
+HTML,/docs/writing_udev_rules/index.html,index.html,490,330,0,160,0,40663,0
+HTML,/docs/writing_udev_rules/index.jp.html,index.jp.html,598,476,0,122,0,55491,0
+C,/extras/volume_id/libvolume_id/iso9660.c,iso9660.c,125,94,9,22,19,3149,0
+C,/extras/volume_id/libvolume_id/isw_raid.c,isw_raid.c,67,44,9,14,5,1502,0
+C,/extras/volume_id/libvolume_id/jfs.c,jfs.c,66,44,9,13,4,1446,0
+C Header,/libsysfs/sysfs/libsysfs.h,libsysfs.h,225,142,56,27,0,7620,0
+Plain Text,/libsysfs/libsysfs.txt,libsysfs.txt,1954,1379,0,575,0,71667,0
+C,/extras/volume_id/libvolume_id/linux_raid.c,linux_raid.c,88,63,9,16,5,2012,0
+C,/extras/volume_id/libvolume_id/linux_swap.c,linux_swap.c,77,54,10,13,9,1814,0
+C Header,/list.h,list.h,289,114,144,31,18,8095,0
+C Header,/extras/volume_id/libvolume_id/logging.h,logging.h,24,10,9,5,0,592,0
+C Header,/logging.h,logging.h,75,42,22,11,8,2011,0
+C,/extras/volume_id/libvolume_id/lsi_raid.c,lsi_raid.c,61,39,9,13,5,1326,0
+C,/extras/volume_id/libvolume_id/luks.c,luks.c,83,60,9,14,3,1978,0
+C,/extras/volume_id/libvolume_id/lvm.c,lvm.c,98,65,9,24,9,2026,0
+C,/extras/volume_id/libvolume_id/mac.c,mac.c,132,95,14,23,26,3523,0
+C,/extras/volume_id/libvolume_id/minix.c,minix.c,85,60,9,16,10,1710,0
+C,/extras/volume_id/libvolume_id/msdos.c,msdos.c,203,153,12,38,46,4994,0
+Perl,/extras/name_cdrom.pl,name_cdrom.pl,31,17,6,8,1,817,0
+C,/extras/volume_id/libvolume_id/ntfs.c,ntfs.c,195,154,10,31,20,5080,0
+C,/extras/volume_id/libvolume_id/nvidia_raid.c,nvidia_raid.c,65,43,9,13,5,1485,0
+C,/extras/volume_id/libvolume_id/ocfs.c,ocfs.c,193,164,10,19,14,4864,0
+Shell,/extras/path_id,path_id,396,294,79,23,31,9241,0
+C,/extras/volume_id/libvolume_id/promise_raid.c,promise_raid.c,71,48,9,14,7,1568,0
+Shell,/extras/raid-devfs.sh,raid-devfs.sh,50,31,10,9,3,1174,0
+C,/extras/volume_id/libvolume_id/reiserfs.c,reiserfs.c,119,91,10,18,14,2832,0
+C,/extras/volume_id/libvolume_id/romfs.c,romfs.c,61,40,9,12,5,1288,0
+C,/extras/run_directory/run_directory.c,run_directory.c,75,53,11,11,3,1546,0
+C Header,/extras/run_directory/run_directory.h,run_directory.h,3,1,0,2,0,88,0
+Shell,/extras/scsi-devfs.sh,scsi-devfs.sh,88,54,23,11,4,2386,0
+C Header,/extras/scsi_id/scsi.h,scsi.h,103,37,53,13,0,2807,0
+C,/extras/scsi_id/scsi_id.c,scsi_id.c,919,837,53,29,28,20379,0
+C Header,/extras/scsi_id/scsi_id.h,scsi_id.h,65,20,37,8,0,1806,0
+C,/extras/scsi_id/scsi_serial.c,scsi_serial.c,883,572,228,83,159,24344,0
+C,/extras/volume_id/libvolume_id/silicon_raid.c,silicon_raid.c,78,56,9,13,5,1895,0
+Shell,/test/simple-build-check.sh,simple-build-check.sh,45,34,5,6,7,1059,0
+C Header,/libsysfs/sysfs.h,sysfs.h,64,34,23,7,3,1870,0
+C,/libsysfs/sysfs_bus.c,sysfs_bus.c,317,230,62,25,40,7790,0
+C,/libsysfs/sysfs_class.c,sysfs_class.c,557,367,133,57,95,13961,0
+C,/libsysfs/sysfs_device.c,sysfs_device.c,341,217,96,28,43,8831,0
+C,/libsysfs/sysfs_dir.c,sysfs_dir.c,491,353,105,33,88,12477,0
+C,/libsysfs/sysfs_driver.c,sysfs_driver.c,261,171,70,20,35,6548,0
+C,/libsysfs/sysfs_utils.c,sysfs_utils.c,290,179,87,24,61,6336,0
+C,/extras/volume_id/libvolume_id/sysv.c,sysv.c,134,108,9,17,14,3051,0
+Perl,/test/udev-test.pl,udev-test.pl,1794,1701,34,59,70,45550,0
+C,/udev.c,udev.c,156,109,25,22,27,3952,0
+C Header,/udev.h,udev.h,111,77,20,14,0,3210,0
+XML,/docs/udev.xml,udev.xml,537,477,0,60,0,22047,0
+C,/udev_add.c,udev_add.c,311,233,33,45,74,8139,0
+C,/udev_config.c,udev_config.c,210,149,30,31,35,4672,0
+C,/udev_db.c,udev_db.c,311,243,26,42,58,7480,0
+C,/udev_device.c,udev_device.c,108,70,22,16,24,2976,0
+C,/udev_event.c,udev_event.c,165,119,26,20,45,4513,0
+C,/udev_libc_wrapper.c,udev_libc_wrapper.c,210,147,27,36,27,4100,0
+C Header,/udev_libc_wrapper.h,udev_libc_wrapper.h,155,114,26,15,3,4504,0
+C,/udev_remove.c,udev_remove.c,130,88,25,17,24,3654,0
+C,/udev_rules.c,udev_rules.c,1171,980,68,123,328,33501,0
+C Header,/udev_rules.h,udev_rules.h,121,83,20,18,0,2966,0
+C,/udev_rules_parse.c,udev_rules_parse.c,635,502,41,92,180,15004,0
+C,/extras/run_directory/udev_run_devd.c,udev_run_devd.c,97,68,15,14,9,2048,0
+C,/extras/run_directory/udev_run_hotplugd.c,udev_run_hotplugd.c,79,56,10,13,5,1589,0
+C,/udev_selinux.c,udev_selinux.c,169,119,23,27,26,3641,0
+C Header,/udev_selinux.h,udev_selinux.h,40,16,19,5,0,1481,0
+C,/udev_utils.c,udev_utils.c,171,120,22,29,35,4242,0
+C Header,/udev_utils.h,udev_utils.h,65,31,24,10,0,2328,0
+C,/udev_utils_file.c,udev_utils_file.c,171,115,25,31,37,3415,0
+C,/udev_utils_run.c,udev_utils_run.c,279,220,33,26,69,7187,0
+C,/udev_utils_string.c,udev_utils_string.c,266,205,33,28,85,5285,0
+C,/udevcontrol.c,udevcontrol.c,154,111,21,22,28,4149,0
+C,/udevd.c,udevd.c,1058,807,89,162,211,25783,0
+C Header,/udevd.h,udevd.h,78,45,23,10,0,2110,0
+XML,/docs/udevd.xml,udevd.xml,108,98,0,10,0,3471,0
+C,/udevinfo.c,udevinfo.c,425,350,33,42,73,10884,0
+XML,/docs/udevinfo.xml,udevinfo.xml,131,116,0,15,0,4493,0
+C,/udevmonitor.c,udevmonitor.c,239,180,25,34,48,6048,0
+XML,/docs/udevmonitor.xml,udevmonitor.xml,76,67,0,9,0,2263,0
+C,/udevsend.c,udevsend.c,141,93,26,22,13,3479,0
+XML,/docs/udevsend.xml,udevsend.xml,90,80,0,10,0,2699,0
+Perl,/test/udevstart-test.pl,udevstart-test.pl,63,37,14,12,4,1548,0
+C,/udevstart.c,udevstart.c,375,281,36,58,63,9430,0
+XML,/docs/udevstart.xml,udevstart.xml,62,54,0,8,0,1768,0
+C,/udevtest.c,udevtest.c,122,78,26,18,19,3197,0
+XML,/docs/udevtest.xml,udevtest.xml,62,54,0,8,0,1784,0
+C,/extras/volume_id/libvolume_id/udf.c,udf.c,179,138,15,26,48,4443,0
+C,/extras/volume_id/libvolume_id/ufs.c,ufs.c,211,190,9,12,13,4885,0
+C,/extras/usb_id/usb_id.c,usb_id.c,492,373,72,47,81,11595,0
+C,/extras/volume_id/libvolume_id/util.c,util.c,276,235,15,26,45,6523,0
+C Header,/extras/volume_id/libvolume_id/util.h,util.h,76,54,11,11,2,2330,0
+C,/extras/volume_id/libvolume_id/via_raid.c,via_raid.c,76,52,9,15,6,1685,0
+C,/extras/volume_id/vol_id.c,vol_id.c,197,149,23,25,46,4248,0
+C,/extras/volume_id/libvolume_id/volume_id.c,volume_id.c,200,128,17,55,76,3940,0
+C Header,/extras/volume_id/libvolume_id/volume_id.h,volume_id.h,117,87,14,16,0,4385,0
+C,/extras/volume_id/libvolume_id/vxfs.c,vxfs.c,55,35,9,11,4,1243,0
+C,/extras/volume_id/libvolume_id/xfs.c,xfs.c,66,45,9,12,4,1424,0

@@ -1,0 +1,627 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+License,/COPYING,COPYING,340,286,0,54,0,18009,282
+License,/extras/scsi_id/COPYING,COPYING,340,286,0,54,0,18007,282
+License,/klibc/klibc/LICENSE,LICENSE,73,64,0,9,0,3745,63
+Makefile,/extras/chassis_id/Makefile,Makefile,51,22,22,7,0,1352,38
+Makefile,/klibc/Makefile,Makefile,77,62,2,13,7,2469,65
+Makefile,/extras/usb_id/Makefile,Makefile,53,32,8,13,0,1179,39
+Makefile,/extras/ata_id/Makefile,Makefile,52,31,8,13,0,1127,38
+Makefile,/extras/scsi_id/Makefile,Makefile,79,38,23,18,0,2220,58
+Makefile,/Makefile,Makefile,415,305,47,63,9,13057,313
+Makefile,/klibc/klibc/Makefile,Makefile,192,145,11,36,1,6061,148
+Makefile,/extras/run_directory/Makefile,Makefile,55,34,8,13,0,1427,41
+Makefile,/extras/volume_id/Makefile,Makefile,56,34,8,14,0,1250,41
+D,/docs/RFC-dev.d,RFC-dev.d,50,12,35,3,1,2081,41
+Module-Definition,/klibc/klibc/SOCKETCALLS.def,SOCKETCALLS.def,21,15,6,0,0,943,21
+Module-Definition,/klibc/klibc/SYSCALLS.def,SYSCALLS.def,228,169,47,12,5,7283,180
+Assembly,/klibc/klibc/arch/i386/libgcc/__ashldi3.S,__ashldi3.S,29,21,5,3,0,372,26
+Assembly,/klibc/klibc/arch/i386/libgcc/__ashrdi3.S,__ashrdi3.S,29,21,5,3,0,360,26
+C,/klibc/klibc/libgcc/__divdi3.c,__divdi3.c,29,20,3,6,3,420,24
+C,/klibc/klibc/libgcc/__divsi3.c,__divsi3.c,29,20,3,6,3,410,24
+Assembly,/klibc/klibc/arch/i386/libgcc/__lshrdi3.S,__lshrdi3.S,29,21,5,3,0,372,26
+C,/klibc/klibc/libgcc/__moddi3.c,__moddi3.c,29,20,3,6,3,421,24
+C,/klibc/klibc/libgcc/__modsi3.c,__modsi3.c,29,20,3,6,3,411,24
+Assembly,/klibc/klibc/arch/i386/libgcc/__muldi3.S,__muldi3.S,34,28,5,1,0,511,29
+Assembly,/klibc/klibc/arch/i386/libgcc/__negdi2.S,__negdi2.S,21,14,5,2,0,263,21
+Assembly,/klibc/klibc/arch/cris/__negdi2.S,__negdi2.S,25,11,11,3,0,393,21
+C,/klibc/klibc/__put_env.c,__put_env.c,60,45,8,7,9,1356,50
+C,/klibc/klibc/__shared_init.c,__shared_init.c,2,2,0,0,0,40,3
+C,/klibc/klibc/__signal.c,__signal.c,22,13,3,6,2,364,18
+C,/klibc/klibc/__static_init.c,__static_init.c,2,2,0,0,0,40,3
+C,/klibc/klibc/libgcc/__udivdi3.c,__udivdi3.c,13,7,3,3,0,244,11
+C,/klibc/klibc/libgcc/__udivmoddi4.c,__udivmoddi4.c,32,25,1,6,6,529,26
+C,/klibc/klibc/libgcc/__udivmodsi4.c,__udivmodsi4.c,32,25,1,6,6,543,25
+C,/klibc/klibc/libgcc/__udivsi3.c,__udivsi3.c,13,7,3,3,0,234,11
+C,/klibc/klibc/libgcc/__umoddi3.c,__umoddi3.c,16,9,3,4,0,270,13
+C,/klibc/klibc/libgcc/__umodsi3.c,__umodsi3.c,16,9,3,4,0,260,13
+C,/klibc/klibc/abort.c,abort.c,19,12,3,4,0,280,17
+C,/klibc/klibc/zlib/adler32.c,adler32.c,74,59,7,8,25,2283,67
+C,/klibc/klibc/alarm.c,alarm.c,25,13,4,8,0,415,18
+Plain Text,/klibc/klibc/zlib/algorithm.txt,algorithm.txt,209,169,0,40,0,9336,170
+C Header,/klibc/include/alloca.h,alloca.h,13,4,5,4,0,172,10
+C Header,/klibc/include/arch/mips/klibc/archfcntl.h,archfcntl.h,87,63,7,17,0,1695,71
+C Header,/klibc/include/arch/ppc/klibc/archsetjmp.h,archsetjmp.h,36,29,3,4,0,713,33
+C Header,/klibc/include/arch/alpha/klibc/archsetjmp.h,archsetjmp.h,33,24,4,5,0,678,30
+C Header,/klibc/include/arch/ppc64/klibc/archsetjmp.h,archsetjmp.h,36,29,3,4,0,715,33
+C Header,/klibc/include/arch/x86_64/klibc/archsetjmp.h,archsetjmp.h,21,14,3,4,0,375,18
+C Header,/klibc/include/arch/parisc/klibc/archsetjmp.h,archsetjmp.h,14,7,3,4,0,210,11
+C Header,/klibc/include/arch/s390x/klibc/archsetjmp.h,archsetjmp.h,15,8,3,4,0,303,12
+C Header,/klibc/include/arch/m32r/klibc/archsetjmp.h,archsetjmp.h,21,14,3,4,0,381,18
+C Header,/klibc/include/arch/sh/klibc/archsetjmp.h,archsetjmp.h,22,15,3,4,0,383,19
+C Header,/klibc/include/arch/sparc/klibc/archsetjmp.h,archsetjmp.h,16,9,3,4,0,256,13
+C Header,/klibc/include/arch/mips/klibc/archsetjmp.h,archsetjmp.h,39,32,3,4,0,818,36
+C Header,/klibc/include/arch/s390/klibc/archsetjmp.h,archsetjmp.h,15,8,3,4,0,299,12
+C Header,/klibc/include/arch/ia64/klibc/archsetjmp.h,archsetjmp.h,17,5,8,4,0,355,13
+C Header,/klibc/include/arch/arm/klibc/archsetjmp.h,archsetjmp.h,14,7,3,4,0,214,11
+C Header,/klibc/include/arch/i386/klibc/archsetjmp.h,archsetjmp.h,19,12,3,4,0,321,16
+C Header,/klibc/include/arch/cris/klibc/archsetjmp.h,archsetjmp.h,24,17,3,4,0,442,21
+C Header,/klibc/include/arch/sparc64/klibc/archsetjmp.h,archsetjmp.h,16,9,3,4,0,258,13
+C Header,/klibc/include/arch/x86_64/klibc/archsignal.h,archsignal.h,17,7,7,3,0,292,14
+C Header,/klibc/include/arch/m32r/klibc/archsignal.h,archsignal.h,13,3,7,3,0,208,10
+C Header,/klibc/include/arch/ppc/klibc/archsignal.h,archsignal.h,13,3,7,3,0,207,10
+C Header,/klibc/include/arch/cris/klibc/archsignal.h,archsignal.h,13,3,7,3,0,208,10
+C Header,/klibc/include/arch/alpha/klibc/archsignal.h,archsignal.h,13,3,7,3,0,209,10
+C Header,/klibc/include/arch/sparc64/klibc/archsignal.h,archsignal.h,13,3,7,3,0,211,10
+C Header,/klibc/include/arch/sh/klibc/archsignal.h,archsignal.h,13,3,7,3,0,206,10
+C Header,/klibc/include/arch/ia64/klibc/archsignal.h,archsignal.h,31,19,6,6,0,610,26
+C Header,/klibc/include/arch/s390x/klibc/archsignal.h,archsignal.h,13,3,7,3,0,209,10
+C Header,/klibc/include/arch/parisc/klibc/archsignal.h,archsignal.h,24,13,6,5,0,404,19
+C Header,/klibc/include/arch/mips64/klibc/archsignal.h,archsignal.h,13,3,7,3,0,210,10
+C Header,/klibc/include/arch/i386/klibc/archsignal.h,archsignal.h,13,3,7,3,0,208,10
+C Header,/klibc/include/arch/s390/klibc/archsignal.h,archsignal.h,13,3,7,3,0,208,10
+C Header,/klibc/include/arch/sparc/klibc/archsignal.h,archsignal.h,38,24,7,7,0,870,27
+C Header,/klibc/include/arch/m68k/klibc/archsignal.h,archsignal.h,13,3,7,3,0,208,10
+C Header,/klibc/include/arch/arm/klibc/archsignal.h,archsignal.h,13,3,7,3,0,207,10
+C Header,/klibc/include/arch/ppc64/klibc/archsignal.h,archsignal.h,13,3,7,3,0,209,10
+C Header,/klibc/include/arch/mips/klibc/archsignal.h,archsignal.h,13,3,7,3,0,208,10
+C Header,/klibc/include/arch/cris/klibc/archstat.h,archstat.h,37,23,3,11,0,737,27
+C Header,/klibc/include/arch/m32r/klibc/archstat.h,archstat.h,37,23,3,11,0,737,27
+C Header,/klibc/include/arch/parisc/klibc/archstat.h,archstat.h,27,22,0,5,0,548,23
+C Header,/klibc/include/arch/arm/klibc/archstat.h,archstat.h,45,29,5,11,1,1107,32
+C Header,/klibc/include/arch/x86_64/klibc/archstat.h,archstat.h,26,21,0,5,0,483,22
+C Header,/klibc/include/arch/alpha/klibc/archstat.h,archstat.h,26,21,0,5,0,457,22
+C Header,/klibc/include/arch/s390/klibc/archstat.h,archstat.h,31,25,3,3,0,924,29
+C Header,/klibc/include/arch/s390x/klibc/archstat.h,archstat.h,24,21,0,3,0,571,22
+C Header,/klibc/include/arch/m68k/klibc/archstat.h,archstat.h,37,23,3,11,0,737,27
+C Header,/klibc/include/arch/mips64/klibc/archstat.h,archstat.h,33,22,0,11,0,563,24
+C Header,/klibc/include/arch/mips/klibc/archstat.h,archstat.h,39,22,5,12,0,751,28
+C Header,/klibc/include/arch/sparc64/klibc/archstat.h,archstat.h,22,19,1,2,0,376,21
+C Header,/klibc/include/arch/ppc64/klibc/archstat.h,archstat.h,25,22,0,3,0,572,23
+C Header,/klibc/include/arch/sh/klibc/archstat.h,archstat.h,45,30,3,12,1,977,31
+C Header,/klibc/include/arch/ia64/klibc/archstat.h,archstat.h,24,21,0,3,0,463,22
+C Header,/klibc/include/arch/i386/klibc/archstat.h,archstat.h,37,23,3,11,0,737,27
+C Header,/klibc/include/arch/sparc/klibc/archstat.h,archstat.h,35,23,0,12,0,540,24
+C Header,/klibc/include/arch/ppc/klibc/archstat.h,archstat.h,28,22,2,4,0,950,25
+C Header,/klibc/include/arch/i386/klibc/archsys.h,archsys.h,12,3,6,3,0,234,10
+C Header,/klibc/include/arch/ppc/klibc/archsys.h,archsys.h,61,48,7,6,1,3275,54
+C Header,/klibc/include/arch/s390/klibc/archsys.h,archsys.h,41,28,7,6,0,1305,36
+C Header,/klibc/include/arch/ia64/klibc/archsys.h,archsys.h,218,198,5,15,15,12534,116
+C Header,/klibc/include/arch/x86_64/klibc/archsys.h,archsys.h,109,92,6,11,0,2900,51
+C Header,/klibc/include/arch/parisc/klibc/archsys.h,archsys.h,12,3,6,3,0,236,10
+C Header,/klibc/include/arch/sparc/klibc/archsys.h,archsys.h,10,3,5,2,0,175,9
+C Header,/klibc/include/arch/ppc64/klibc/archsys.h,archsys.h,52,42,5,5,0,2793,48
+C Header,/klibc/include/arch/sh/klibc/archsys.h,archsys.h,12,3,6,3,0,232,10
+C Header,/klibc/include/arch/alpha/klibc/archsys.h,archsys.h,53,39,9,5,0,2945,33
+C Header,/klibc/include/arch/m68k/klibc/archsys.h,archsys.h,12,3,6,3,0,234,10
+C Header,/klibc/include/arch/m32r/klibc/archsys.h,archsys.h,12,3,6,3,0,234,10
+C Header,/klibc/include/arch/mips64/klibc/archsys.h,archsys.h,12,3,6,3,0,236,10
+C Header,/klibc/include/arch/sparc64/klibc/archsys.h,archsys.h,10,3,5,2,0,177,9
+C Header,/klibc/include/arch/arm/klibc/archsys.h,archsys.h,12,3,6,3,0,234,10
+C Header,/klibc/include/arch/s390x/klibc/archsys.h,archsys.h,41,28,7,6,0,1307,36
+C Header,/klibc/include/arch/cris/klibc/archsys.h,archsys.h,12,3,6,3,0,234,10
+C Header,/klibc/include/arch/mips/klibc/archsys.h,archsys.h,12,3,6,3,0,234,10
+C Header,/klibc/include/arch/alpha/machine/asm.h,asm.h,44,36,4,4,0,720,41
+C Header,/klibc/include/arch/mips/machine/asm.h,asm.h,11,5,3,3,0,164,9
+C Header,/klibc/include/arch/sparc/machine/asm.h,asm.h,192,113,63,16,0,6199,126
+C,/klibc/klibc/asprintf.c,asprintf.c,30,20,3,7,1,426,25
+C,/klibc/klibc/assert.c,assert.c,13,8,3,2,0,240,12
+C Header,/klibc/include/assert.h,assert.h,22,10,3,9,0,292,14
+C,/extras/ata_id/ata_id.c,ata_id.c,178,134,24,20,25,3582,137
+C,/klibc/klibc/atexit.c,atexit.c,10,5,3,2,0,129,9
+C Header,/klibc/klibc/atexit.h,atexit.h,17,8,5,4,0,237,14
+C,/klibc/klibc/atoi.c,atoi.c,3,3,0,0,0,53,4
+C,/klibc/klibc/atol.c,atol.c,3,3,0,0,0,54,4
+C,/klibc/klibc/atoll.c,atoll.c,3,3,0,0,0,60,4
+C,/klibc/klibc/atox.c,atox.c,14,7,5,2,0,208,13
+C,/klibc/klibc/inet/bindresvport.c,bindresvport.c,45,35,3,7,12,842,38
+C Header,/klibc/include/bits32/bitsize.h,bitsize.h,3,3,0,0,0,44,4
+C Header,/klibc/include/bits64/bitsize.h,bitsize.h,3,3,0,0,0,44,4
+C,/klibc/klibc/brk.c,brk.c,24,12,6,6,2,491,20
+C,/klibc/klibc/bsd_signal.c,bsd_signal.c,11,5,4,2,0,190,10
+C,/klibc/klibc/calloc.c,calloc.c,21,11,4,6,1,272,16
+C,/ccdv.c,ccdv.c,387,330,13,44,131,9762,274
+Snakemake,/etc/udev/debian/cd-aliases.rules,cd-aliases.rules,11,3,6,2,0,682,10
+C,/extras/cdsymlinks.c,cdsymlinks.c,555,399,78,78,96,14171,360
+Shell,/extras/cdsymlinks.sh,cdsymlinks.sh,204,144,42,18,59,7195,156
+C,/extras/chassis_id/chassis_id.c,chassis_id.c,91,49,26,16,10,2246,66
+C Header,/extras/chassis_id/chassis_id.h,chassis_id.h,42,15,23,4,0,1236,34
+C,/klibc/klibc/closelog.c,closelog.c,18,11,3,4,2,207,15
+Snakemake,/etc/udev/debian/compat.rules,compat.rules,37,11,17,9,0,910,29
+C Header,/klibc/include/klibc/compiler.h,compiler.h,119,67,39,13,6,3159,77
+C,/klibc/klibc/zlib/compress.c,compress.c,79,46,23,10,9,2536,56
+C,/extras/volume_id/volume_id/cramfs.c,cramfs.c,77,47,19,11,4,1944,63
+C Header,/extras/volume_id/volume_id/cramfs.h,cramfs.h,26,4,19,3,0,982,21
+C,/klibc/klibc/zlib/crc32.c,crc32.c,311,218,57,36,39,9767,202
+C Header,/klibc/klibc/zlib/crc32.h,crc32.h,441,437,3,1,0,30568,428
+C,/klibc/klibc/creat.c,creat.c,12,7,3,2,0,190,11
+Assembly,/klibc/klibc/arch/ppc64/crt0.S,crt0.S,32,28,0,4,0,479,27
+Assembly,/klibc/klibc/arch/i386/crt0.S,crt0.S,32,29,0,3,2,722,27
+Assembly,/klibc/klibc/arch/sparc/crt0.S,crt0.S,2,2,0,0,0,46,3
+Assembly,/klibc/klibc/arch/alpha/crt0.S,crt0.S,22,18,0,4,0,314,19
+Assembly,/klibc/klibc/arch/arm/crt0.S,crt0.S,23,19,0,4,0,264,18
+Assembly,/klibc/klibc/arch/ppc/crt0.S,crt0.S,20,13,5,2,0,289,19
+Assembly,/klibc/klibc/arch/s390/crt0.S,crt0.S,25,24,0,1,1,389,22
+Assembly,/klibc/klibc/arch/mips/crt0.S,crt0.S,25,19,0,6,1,465,18
+Assembly,/klibc/klibc/arch/cris/crt0.S,crt0.S,28,20,3,5,1,546,21
+Assembly,/klibc/klibc/arch/m32r/crt0.S,crt0.S,25,18,2,5,1,415,19
+Assembly,/klibc/klibc/arch/sh/crt0.S,crt0.S,27,22,0,5,1,368,20
+Assembly,/klibc/klibc/arch/sparc64/crt0.S,crt0.S,2,2,0,0,0,55,3
+Assembly,/klibc/klibc/arch/parisc/crt0.S,crt0.S,34,18,9,7,0,677,29
+Assembly,/klibc/klibc/arch/x86_64/crt0.S,crt0.S,22,20,0,2,1,442,19
+Assembly,/klibc/klibc/arch/ia64/crt0.S,crt0.S,27,18,3,6,0,433,21
+Assembly,/klibc/klibc/arch/s390x/crt0.S,crt0.S,21,19,0,2,1,340,18
+Assembly,/klibc/klibc/arch/sparc/crt0i.S,crt0i.S,100,84,0,16,9,2630,74
+C Header,/klibc/include/ctype.h,ctype.h,119,84,14,21,3,2189,66
+C,/klibc/klibc/ctypes.c,ctypes.c,284,260,6,18,0,12372,30
+C,/klibc/klibc/daemon.c,daemon.c,38,26,3,9,7,528,29
+C,/extras/volume_id/volume_id/dasd.c,dasd.c,197,120,59,18,9,7321,170
+C Header,/extras/volume_id/volume_id/dasd.h,dasd.h,26,4,19,3,0,891,21
+C,/klibc/klibc/zlib/deflate.c,deflate.c,1502,918,406,178,382,55010,935
+C Header,/klibc/klibc/zlib/deflate.h,deflate.h,326,146,119,61,3,11988,237
+BASH,/test/devd_test,devd_test,37,25,1,11,0,644,23
+Snakemake,/etc/udev/debian/devfs.rules,devfs.rules,144,92,30,22,0,4621,119
+C Header,/klibc/include/sys/dirent.h,dirent.h,21,12,4,5,0,361,17
+C Header,/klibc/include/dirent.h,dirent.h,32,20,5,7,0,632,26
+C Header,/klibc/include/arch/i386/klibc/diverr.h,diverr.h,16,9,3,4,0,246,13
+C Header,/klibc/include/klibc/diverr.h,diverr.h,16,9,3,4,0,191,13
+C,/klibc/klibc/arch/cris/divide.c,divide.c,92,73,2,17,14,1480,61
+C,/klibc/klibc/arch/alpha/divide.c,divide.c,57,47,2,8,10,1046,46
+m4,/klibc/klibc/arch/sparc/divrem.m4,divrem.m4,276,254,4,18,0,8056,233
+C,/libsysfs/dlist.c,dlist.c,621,407,160,54,69,14187,365
+C Header,/libsysfs/sysfs/dlist.h,dlist.h,207,70,104,33,8,7301,131
+Shell,/extras/dvb.sh,dvb.sh,3,2,1,0,0,97,4
+C Header,/klibc/include/elf.h,elf.h,12,5,3,4,0,116,9
+C Header,/klibc/include/sys/elf32.h,elf32.h,115,82,11,22,0,2381,92
+C Header,/klibc/include/sys/elf64.h,elf64.h,115,82,11,22,0,2389,92
+C Header,/klibc/include/sys/elfcommon.h,elfcommon.h,188,153,15,20,0,5066,169
+C Header,/klibc/include/endian.h,endian.h,42,30,6,6,0,1048,31
+C Header,/klibc/include/errno.h,errno.h,8,3,3,2,0,89,7
+C,/klibc/klibc/exec_l.c,exec_l.c,57,37,9,11,3,1026,44
+C,/klibc/klibc/execl.c,execl.c,8,4,3,1,0,92,8
+C,/klibc/klibc/execle.c,execle.c,8,4,3,1,0,94,8
+C,/klibc/klibc/execlp.c,execlp.c,8,4,3,1,0,94,8
+C,/klibc/klibc/execlpe.c,execlpe.c,8,4,3,1,0,96,8
+C,/klibc/klibc/execv.c,execv.c,13,6,3,4,0,153,10
+C,/klibc/klibc/execvp.c,execvp.c,13,6,3,4,0,156,10
+C,/klibc/klibc/execvpe.c,execvpe.c,73,47,13,13,18,1891,58
+C,/klibc/klibc/exitc.c,exitc.c,23,10,7,6,1,363,18
+Assembly,/klibc/klibc/arch/x86_64/exits.S,exits.S,35,28,2,5,1,626,28
+Assembly,/klibc/klibc/arch/i386/exits.S,exits.S,45,40,1,4,2,719,35
+C,/extras/volume_id/volume_id/ext.c,ext.c,90,58,19,13,7,2407,73
+C Header,/extras/volume_id/volume_id/ext.h,ext.h,26,4,19,3,0,973,21
+C Header,/klibc/include/klibc/extern.h,extern.h,14,8,3,3,0,189,12
+C,/extras/volume_id/volume_id/fat.c,fat.c,352,255,41,56,86,9048,254
+C Header,/extras/volume_id/volume_id/fat.h,fat.h,26,4,19,3,0,974,21
+C Header,/klibc/include/fcntl.h,fcntl.h,46,26,11,9,1,1029,33
+HTML,/docs/fedora_udev.html,fedora_udev.html,258,222,10,26,0,11939,189
+C,/klibc/klibc/fgetc.c,fgetc.c,20,9,7,4,1,373,17
+C,/klibc/klibc/fgets.c,fgets.c,34,20,7,7,6,462,30
+C,/klibc/klibc/fopen.c,fopen.c,40,28,5,7,3,702,30
+C,/klibc/klibc/fork.c,fork.c,20,10,6,4,0,309,17
+C,/klibc/klibc/fprintf.c,fprintf.c,19,12,3,4,0,252,16
+C,/klibc/klibc/fputc.c,fputc.c,14,6,5,3,1,197,12
+C,/klibc/klibc/fputs.c,fputs.c,15,6,7,2,0,285,14
+C Header,/klibc/include/arch/sparc/machine/frame.h,frame.h,138,40,89,9,1,5430,92
+C,/klibc/klibc/fread.c,fread.c,36,25,3,8,8,463,31
+C,/klibc/klibc/fread2.c,fread2.c,13,6,5,2,0,230,12
+C,/klibc/klibc/fstatfs.c,fstatfs.c,19,9,5,5,0,306,15
+C Header,/klibc/include/sys/fsuid.h,fsuid.h,14,7,3,4,0,203,11
+C,/klibc/klibc/fwrite.c,fwrite.c,36,25,3,8,8,479,31
+C,/klibc/klibc/fwrite2.c,fwrite2.c,13,6,5,2,0,240,12
+Shell,/extras/scsi_id/gen_scsi_id_udev_rules.sh,gen_scsi_id_udev_rules.sh,80,44,28,8,7,2239,59
+C,/klibc/klibc/getcwd.c,getcwd.c,16,7,5,4,0,275,13
+C,/klibc/klibc/getdomainname.c,getdomainname.c,25,16,3,6,2,342,19
+C,/klibc/klibc/getenv.c,getenv.c,22,14,3,5,4,304,18
+C,/klibc/klibc/gethostname.c,gethostname.c,25,16,3,6,2,334,19
+C,/klibc/klibc/getopt.c,getopt.c,75,50,13,12,22,1514,61
+C,/klibc/klibc/getpgrp.c,getpgrp.c,9,4,3,2,0,87,8
+C,/klibc/klibc/getpriority.c,getpriority.c,23,12,6,5,1,438,19
+C,/klibc/klibc/getpt.c,getpt.c,17,10,5,2,0,260,16
+C,/klibc/klibc/globals.c,globals.c,10,4,5,1,0,131,10
+C Header,/klibc/include/grp.h,grp.h,13,6,3,4,0,166,10
+C,/klibc/klibc/zlib/gzio.c,gzio.c,1008,706,174,128,294,30608,611
+C,/extras/volume_id/volume_id/hfs.c,hfs.c,310,238,22,50,32,7933,232
+C Header,/extras/volume_id/volume_id/hfs.h,hfs.h,26,4,19,3,0,981,21
+C,/extras/volume_id/volume_id/highpoint.c,highpoint.c,109,68,19,22,13,2705,69
+C Header,/extras/volume_id/volume_id/highpoint.h,highpoint.h,27,5,19,3,0,1092,22
+C,/extras/volume_id/volume_id/hpfs.c,hpfs.c,69,38,19,12,4,1769,53
+C Header,/extras/volume_id/volume_id/hpfs.h,hpfs.h,26,4,19,3,0,976,21
+Shell,/extras/ide-devfs.sh,ide-devfs.sh,47,36,4,7,8,1259,39
+C Header,/klibc/include/net/if.h,if.h,1,1,0,0,0,22,2
+C Header,/klibc/include/net/if_arp.h,if_arp.h,1,1,0,0,0,26,2
+C Header,/klibc/include/netinet/if_ether.h,if_ether.h,1,1,0,0,0,28,2
+C Header,/klibc/include/net/if_packet.h,if_packet.h,1,1,0,0,0,29,2
+C Header,/klibc/include/netinet/in.h,in.h,39,28,4,7,0,730,28
+C Header,/klibc/include/netinet/in6.h,in6.h,10,4,3,3,0,124,8
+HTML,/docs/writing_udev_rules/index.html,index.html,490,330,0,160,0,40753,317
+HTML,/docs/writing_udev_rules/index.jp.html,index.jp.html,598,476,0,122,0,55491,467
+C Header,/klibc/include/arpa/inet.h,inet.h,24,15,3,6,0,614,19
+C,/klibc/klibc/inet/inet_addr.c,inet_addr.c,14,8,3,3,0,201,12
+C,/klibc/klibc/inet/inet_aton.c,inet_aton.c,23,15,3,5,3,377,20
+C,/klibc/klibc/inet/inet_ntoa.c,inet_ntoa.c,19,13,3,3,0,289,17
+C,/klibc/klibc/inet/inet_ntop.c,inet_ntop.c,52,39,3,10,2,1013,39
+C,/klibc/klibc/inet/inet_pton.c,inet_pton.c,74,60,4,10,29,1429,60
+C,/klibc/klibc/zlib/infback.c,infback.c,619,477,97,45,117,22038,438
+C,/klibc/klibc/zlib/inffast.c,inffast.c,305,226,69,10,46,12192,233
+C Header,/klibc/klibc/zlib/inffast.h,inffast.h,11,1,8,2,0,407,9
+C Header,/klibc/klibc/zlib/inffixed.h,inffixed.h,94,84,7,3,0,6343,90
+C,/klibc/klibc/zlib/inflate.c,inflate.c,1270,950,261,59,274,45355,876
+C Header,/klibc/klibc/zlib/inflate.h,inflate.h,117,70,42,5,0,5802,106
+C,/klibc/klibc/zlib/inftrees.c,inftrees.c,321,181,113,27,60,13328,260
+C Header,/klibc/klibc/zlib/inftrees.h,inftrees.h,55,15,34,6,0,2373,48
+Shell,/extras/inputdev.sh,inputdev.sh,30,16,9,5,1,605,25
+Plain Text,/extras/chassis_id/install.txt,install.txt,49,35,0,14,0,1965,36
+Assembly,/klibc/klibc/interp.S,interp.S,13,12,0,1,0,301,12
+C Header,/klibc/include/inttypes.h,inttypes.h,226,170,4,52,1,5060,175
+C Header,/klibc/include/arch/x86_64/sys/io.h,io.h,126,72,34,20,0,3464,71
+C Header,/klibc/include/arch/i386/sys/io.h,io.h,126,72,34,20,0,3470,71
+C Header,/klibc/include/sys/ioctl.h,ioctl.h,14,7,3,4,0,207,11
+C Header,/klibc/include/netinet/ip.h,ip.h,13,6,3,4,0,192,10
+C,/klibc/klibc/isatty.c,isatty.c,21,12,4,5,0,273,17
+C,/extras/volume_id/volume_id/iso9660.c,iso9660.c,137,96,19,22,19,3655,109
+C Header,/extras/volume_id/volume_id/iso9660.h,iso9660.h,26,4,19,3,0,985,21
+C,/extras/volume_id/volume_id/isw_raid.c,isw_raid.c,79,46,19,14,5,2051,60
+C Header,/extras/volume_id/volume_id/isw_raid.h,isw_raid.h,26,4,19,3,0,1011,21
+C,/extras/volume_id/volume_id/jfs.c,jfs.c,78,46,19,13,4,1980,61
+C Header,/extras/volume_id/volume_id/jfs.h,jfs.h,26,4,19,3,0,973,21
+C,/klibc/klibc/jrand48.c,jrand48.c,24,14,4,6,0,507,20
+Autoconf,/klibc/klcc.in,klcc.in,258,181,38,39,45,6975,192
+Autoconf,/klibc/klibc.spec.in,klibc.spec.in,126,87,18,21,5,3991,100
+C Header,/klibc/include/sys/klog.h,klog.h,24,16,3,5,0,406,20
+C,/klibc/klibc/libc_init.c,libc_init.c,86,59,15,12,5,2016,67
+C Header,/libsysfs/sysfs/libsysfs.h,libsysfs.h,225,142,56,27,0,7620,155
+Plain Text,/docs/libsysfs.txt,libsysfs.txt,1687,1202,0,485,0,62780,817
+C Header,/klibc/include/bits32/bitsize/limits.h,limits.h,14,7,3,4,0,227,11
+C Header,/klibc/include/bits64/bitsize/limits.h,limits.h,14,7,3,4,0,255,11
+C Header,/klibc/include/limits.h,limits.h,40,28,3,9,0,735,32
+C,/extras/volume_id/volume_id/linux_raid.c,linux_raid.c,100,65,19,16,5,2527,79
+C Header,/extras/volume_id/volume_id/linux_raid.h,linux_raid.h,26,4,19,3,0,1006,21
+C,/extras/volume_id/volume_id/linux_swap.c,linux_swap.c,89,56,20,13,9,2365,71
+C Header,/extras/volume_id/volume_id/linux_swap.h,linux_swap.h,26,4,19,3,0,994,21
+C Header,/list.h,list.h,289,114,144,31,18,8095,158
+C,/klibc/klibc/llseek.c,llseek.c,30,14,8,8,1,681,24
+C Header,/extras/volume_id/volume_id/logging.h,logging.h,21,10,6,5,0,390,16
+C Header,/logging.h,logging.h,75,42,22,11,8,1993,53
+C,/klibc/klibc/lrand48.c,lrand48.c,14,7,3,4,0,207,11
+C,/extras/volume_id/volume_id/lsi_raid.c,lsi_raid.c,73,41,19,13,5,1886,55
+C Header,/extras/volume_id/volume_id/lsi_raid.h,lsi_raid.h,26,4,19,3,0,1005,21
+C,/extras/volume_id/volume_id/luks.c,luks.c,95,62,19,14,3,2500,77
+C Header,/extras/volume_id/volume_id/luks.h,luks.h,26,4,19,3,0,976,21
+C,/extras/volume_id/volume_id/lvm.c,lvm.c,110,67,19,24,9,2566,73
+C Header,/extras/volume_id/volume_id/lvm.h,lvm.h,27,5,19,3,0,1040,22
+C,/extras/volume_id/volume_id/mac.c,mac.c,144,97,24,23,26,4048,108
+C Header,/extras/volume_id/volume_id/mac.h,mac.h,26,4,19,3,0,987,21
+Shell,/make_gcov.sh,make_gcov.sh,53,32,16,5,5,1590,44
+Perl,/klibc/klibc/makeerrlist.pl,makeerrlist.pl,100,85,6,9,9,2436,74
+Perl,/klibc/makeklcc.pl,makeklcc.pl,55,37,6,12,8,1134,39
+C,/klibc/klibc/malloc.c,malloc.c,197,127,32,38,21,4916,142
+C Header,/klibc/klibc/malloc.h,malloc.h,45,25,13,7,0,952,34
+C,/klibc/klibc/memccpy.c,memccpy.c,23,14,5,4,3,327,20
+C,/klibc/klibc/memchr.c,memchr.c,19,12,3,4,3,250,16
+C,/klibc/klibc/memcmp.c,memcmp.c,19,12,3,4,2,248,16
+C,/klibc/klibc/memcpy.c,memcpy.c,29,23,3,3,1,582,27
+C,/klibc/klibc/memmem.c,memmem.c,52,35,10,7,18,882,43
+C,/klibc/klibc/memmove.c,memmove.c,34,28,3,3,7,561,27
+C,/klibc/klibc/memrchr.c,memrchr.c,20,13,3,4,3,287,17
+C,/klibc/klibc/memset.c,memset.c,30,23,3,4,1,617,27
+C,/klibc/klibc/memswap.c,memswap.c,23,13,6,4,1,316,21
+C,/extras/volume_id/volume_id/minix.c,minix.c,97,62,19,16,10,2250,69
+C Header,/extras/volume_id/volume_id/minix.h,minix.h,26,4,19,3,0,979,21
+C Header,/klibc/include/sys/mman.h,mman.h,25,17,3,5,0,637,21
+C,/klibc/klibc/arch/s390/mmap.c,mmap.c,41,37,0,4,1,837,38
+C,/klibc/klibc/mmap.c,mmap.c,49,21,15,13,6,1250,35
+C,/klibc/klibc/arch/s390x/mmap.c,mmap.c,41,37,0,4,1,834,38
+C Header,/klibc/include/sys/mount.h,mount.h,72,42,21,9,0,2408,52
+C,/klibc/klibc/mrand48.c,mrand48.c,13,7,3,3,0,191,11
+C,/extras/volume_id/volume_id/msdos.c,msdos.c,215,155,22,38,46,5496,164
+C Header,/extras/volume_id/volume_id/msdos.h,msdos.h,26,4,19,3,0,990,21
+Perl,/extras/name_cdrom.pl,name_cdrom.pl,46,25,10,11,3,1188,34
+BASH,/test/net_test,net_test,35,24,1,10,0,537,22
+C,/klibc/klibc/nice.c,nice.c,18,11,3,4,0,256,15
+C,/klibc/klibc/nrand48.c,nrand48.c,11,6,3,2,0,152,10
+C,/extras/volume_id/volume_id/ntfs.c,ntfs.c,207,156,20,31,20,5480,167
+C Header,/extras/volume_id/volume_id/ntfs.h,ntfs.h,26,4,19,3,0,976,21
+C,/extras/volume_id/volume_id/nvidia_raid.c,nvidia_raid.c,77,45,19,13,5,2039,59
+C Header,/extras/volume_id/volume_id/nvidia_raid.h,nvidia_raid.h,26,4,19,3,0,1009,21
+C,/klibc/klibc/onexit.c,onexit.c,39,25,3,11,2,643,28
+Assembly,/klibc/klibc/arch/i386/open.S,open.S,29,16,8,5,0,550,26
+C,/klibc/klibc/open.c,open.c,22,11,6,5,2,432,18
+C Header,/klibc/include/netpacket/packet.h,packet.h,1,1,0,0,0,29,2
+C Header,/klibc/include/sys/param.h,param.h,11,5,3,3,0,138,9
+C Header,/klibc/include/paths.h,paths.h,74,36,33,5,0,2936,68
+C,/klibc/klibc/pause.c,pause.c,17,10,3,4,0,195,14
+Snakemake,/etc/udev/debian/permissions.rules,permissions.rules,73,48,12,13,0,2122,61
+C,/klibc/klibc/perror.c,perror.c,13,8,3,2,0,174,12
+Assembly,/klibc/klibc/arch/mips/pipe.S,pipe.S,16,15,0,1,0,210,16
+C,/klibc/klibc/arch/ia64/pipe.c,pipe.c,42,36,3,3,3,1190,40
+C,/klibc/klibc/arch/alpha/pipe.c,pipe.c,28,19,3,6,1,588,24
+C Header,/klibc/include/poll.h,poll.h,16,7,4,5,0,276,12
+C,/klibc/klibc/printf.c,printf.c,19,12,3,4,0,240,16
+C,/extras/volume_id/volume_id/promise_raid.c,promise_raid.c,83,50,19,14,7,2133,66
+C Header,/extras/volume_id/volume_id/promise_raid.h,promise_raid.h,26,4,19,3,0,1022,21
+C,/klibc/klibc/pty.c,pty.c,31,19,5,7,1,535,24
+C,/klibc/klibc/putchar.c,putchar.c,15,7,5,3,0,175,13
+C,/klibc/klibc/putenv.c,putenv.c,40,27,5,8,6,606,28
+C,/klibc/klibc/puts.c,puts.c,13,7,3,3,1,147,11
+C,/klibc/klibc/qsort.c,qsort.c,42,29,6,7,9,781,35
+Shell,/extras/raid-devfs.sh,raid-devfs.sh,50,31,10,9,3,1168,37
+C,/klibc/klibc/raise.c,raise.c,11,6,3,2,0,119,10
+C,/klibc/klibc/readdir.c,readdir.c,57,41,3,13,4,902,39
+C,/klibc/klibc/realloc.c,realloc.c,49,27,9,13,6,1037,37
+C,/klibc/klibc/reboot.c,reboot.c,15,7,5,3,0,321,13
+C Header,/klibc/include/sys/reboot.h,reboot.h,25,12,6,7,0,600,19
+C,/klibc/klibc/recv.c,recv.c,11,6,3,2,0,174,10
+C,/extras/volume_id/volume_id/reiserfs.c,reiserfs.c,126,88,20,18,14,3228,92
+C Header,/extras/volume_id/volume_id/reiserfs.h,reiserfs.h,26,4,19,3,0,988,21
+BASH,/test/replace_test,replace_test,33,23,1,9,0,454,22
+C Header,/klibc/include/sys/resource.h,resource.h,15,8,3,4,0,308,12
+Plain Text,/docs/rh_udev_for_dev.txt,rh_udev_for_dev.txt,62,48,0,14,0,3245,48
+C,/extras/volume_id/volume_id/romfs.c,romfs.c,73,42,19,12,5,1838,58
+C Header,/extras/volume_id/volume_id/romfs.h,romfs.h,26,4,19,3,0,979,21
+C Header,/klibc/include/net/route.h,route.h,1,1,0,0,0,25,2
+C,/extras/run_directory/run_directory.c,run_directory.c,79,57,11,11,2,1827,62
+Shell,/run_gcov.sh,run_gcov.sh,40,22,12,6,5,1062,31
+C,/klibc/klibc/sbrk.c,sbrk.c,41,27,4,10,5,857,31
+C Header,/klibc/include/sched.h,sched.h,36,21,7,8,0,849,29
+Shell,/extras/scsi-devfs.sh,scsi-devfs.sh,88,54,23,11,4,2386,68
+C Header,/extras/scsi_id/scsi.h,scsi.h,103,37,53,13,0,2807,70
+C,/extras/scsi_id/scsi_id.c,scsi_id.c,902,820,53,29,28,19988,543
+C Header,/extras/scsi_id/scsi_id.h,scsi_id.h,55,14,34,7,0,1661,39
+C,/extras/scsi_id/scsi_serial.c,scsi_serial.c,735,501,161,73,137,19531,466
+C,/klibc/klibc/seed48.c,seed48.c,19,11,3,5,0,341,16
+C Header,/klibc/include/sys/select.h,select.h,14,7,3,4,0,243,11
+C,/klibc/klibc/send.c,send.c,11,6,3,2,0,178,10
+C,/klibc/klibc/setegid.c,setegid.c,10,5,3,2,0,99,9
+C,/klibc/klibc/setenv.c,setenv.c,45,31,5,9,6,754,35
+C,/klibc/klibc/seteuid.c,seteuid.c,10,5,3,2,0,99,9
+Assembly,/klibc/klibc/arch/arm/setjmp-arm.S,setjmp-arm.S,39,36,0,3,1,532,30
+Assembly,/klibc/klibc/arch/arm/setjmp-thumb.S,setjmp-thumb.S,58,55,0,3,1,778,48
+Assembly,/klibc/klibc/arch/mips/setjmp.S,setjmp.S,82,75,0,7,1,1157,73
+Assembly,/klibc/klibc/arch/s390/setjmp.S,setjmp.S,32,28,0,4,1,580,25
+Assembly,/klibc/klibc/arch/x86_64/setjmp.S,setjmp.S,54,49,0,5,1,932,44
+Assembly,/klibc/klibc/arch/i386/setjmp.S,setjmp.S,58,53,0,5,1,964,46
+Assembly,/klibc/klibc/arch/m32r/setjmp.S,setjmp.S,47,44,0,3,1,671,38
+Assembly,/klibc/klibc/arch/ppc64/setjmp.S,setjmp.S,85,81,0,4,0,1694,77
+Assembly,/klibc/klibc/arch/parisc/setjmp.S,setjmp.S,88,82,4,2,0,2241,88
+Assembly,/klibc/klibc/arch/alpha/setjmp.S,setjmp.S,77,67,2,8,0,1143,66
+Assembly,/klibc/klibc/arch/s390x/setjmp.S,setjmp.S,36,32,0,4,1,655,29
+Assembly,/klibc/klibc/arch/cris/setjmp.S,setjmp.S,37,32,0,5,1,595,28
+Assembly,/klibc/klibc/arch/sparc64/setjmp.S,setjmp.S,55,47,0,8,3,994,44
+Assembly,/klibc/klibc/arch/sh/setjmp.S,setjmp.S,65,56,0,9,1,786,50
+Assembly,/klibc/klibc/arch/sparc/setjmp.S,setjmp.S,38,34,0,4,0,840,30
+Assembly,/klibc/klibc/arch/ppc/setjmp.S,setjmp.S,35,30,0,5,0,1156,28
+Assembly,/klibc/klibc/arch/ia64/setjmp.S,setjmp.S,343,312,24,7,0,8919,228
+C Header,/klibc/include/setjmp.h,setjmp.h,43,22,11,10,0,989,33
+C,/klibc/klibc/setpgrp.c,setpgrp.c,10,5,3,2,0,87,9
+C Header,/klibc/include/arch/mips/sgidefs.h,sgidefs.h,20,11,4,5,0,362,16
+C,/klibc/klibc/sha1hash.c,sha1hash.c,317,188,97,32,14,9955,242
+Shell,/test/show_all_devices.sh,show_all_devices.sh,27,16,7,4,6,527,18
+C,/klibc/klibc/sigaction.c,sigaction.c,44,29,5,10,7,1024,31
+C,/klibc/klibc/siglist.c,siglist.c,115,106,7,2,10,2148,81
+C,/klibc/klibc/siglongjmp.c,siglongjmp.c,16,7,6,3,0,331,14
+C Header,/klibc/include/signal.h,signal.h,88,66,11,11,0,2361,60
+C,/klibc/klibc/sigpending.c,sigpending.c,17,9,3,5,0,233,13
+C,/klibc/klibc/sigprocmask.c,sigprocmask.c,17,9,3,5,0,303,13
+Assembly,/klibc/klibc/arch/x86_64/sigreturn.S,sigreturn.S,15,9,3,3,0,213,14
+Assembly,/klibc/klibc/arch/i386/sigreturn.S,sigreturn.S,15,13,0,2,0,252,13
+C,/klibc/klibc/sigsuspend.c,sigsuspend.c,17,9,3,5,0,247,13
+C,/extras/volume_id/volume_id/silicon_raid.c,silicon_raid.c,90,58,19,13,5,2408,72
+C Header,/extras/volume_id/volume_id/silicon_raid.h,silicon_raid.h,26,4,19,3,0,1019,21
+Shell,/test/simple-build-check.sh,simple-build-check.sh,35,26,1,8,6,967,19
+Snakemake,/etc/udev/debian/simple-cd-aliases.rules,simple-cd-aliases.rules,5,3,1,1,0,330,5
+C,/klibc/klibc/sleep.c,sleep.c,20,14,3,3,4,282,18
+Assembly,/klibc/klibc/arch/sparc/smul.S,smul.S,160,79,69,12,2,5303,122
+C,/klibc/klibc/snprintf.c,snprintf.c,16,10,3,3,0,225,14
+C Header,/klibc/include/sys/socket.h,socket.h,50,38,4,8,0,1628,42
+Assembly,/klibc/klibc/arch/i386/socketcall.S,socketcall.S,42,29,0,13,1,705,29
+C Header,/klibc/include/sys/socketcalls.h,socketcalls.h,28,20,4,4,0,1468,25
+Perl,/klibc/klibc/socketcalls.pl,socketcalls.pl,88,72,1,15,13,2108,65
+C Header,/klibc/klibc/socketcommon.h,socketcommon.h,16,10,5,1,0,303,16
+C Header,/klibc/include/arch/mips/spaces.h,spaces.h,1,0,1,0,0,55,2
+C,/klibc/klibc/sprintf.c,sprintf.c,18,11,3,4,0,243,15
+C,/klibc/klibc/srand48.c,srand48.c,15,9,3,3,0,305,13
+C,/klibc/klibc/sscanf.c,sscanf.c,17,10,3,4,0,207,14
+Shell,/extras/start_udev,start_udev,102,52,37,13,7,2303,74
+C Header,/klibc/include/sys/stat.h,stat.h,31,22,4,5,0,769,27
+C,/klibc/klibc/statfs.c,statfs.c,19,9,5,5,0,321,15
+C Header,/klibc/include/sys/statfs.h,statfs.h,1,1,0,0,0,21,2
+C Header,/klibc/include/stdarg.h,stdarg.h,14,4,8,2,0,332,13
+C Header,/klibc/include/bits32/bitsize/stddef.h,stddef.h,18,11,3,4,2,316,15
+C Header,/klibc/include/stddef.h,stddef.h,24,15,3,6,0,344,18
+C Header,/klibc/include/bits64/bitsize/stddef.h,stddef.h,13,7,3,3,0,210,11
+C Header,/klibc/include/bits32/bitsize/stdint.h,stdint.h,34,22,3,9,0,704,26
+C Header,/klibc/include/bits64/bitsize/stdint.h,stdint.h,36,22,3,11,0,715,26
+C Header,/klibc/include/stdint.h,stdint.h,116,80,4,32,2,2677,84
+C Header,/klibc/include/bits64/bitsize/stdintconst.h,stdintconst.h,18,10,3,5,0,382,14
+C Header,/klibc/include/bits32/bitsize/stdintconst.h,stdintconst.h,18,10,3,5,0,382,14
+C Header,/klibc/include/bits32/bitsize/stdintlimits.h,stdintlimits.h,22,14,3,5,0,489,18
+C Header,/klibc/include/bits64/bitsize/stdintlimits.h,stdintlimits.h,22,14,3,5,0,489,18
+C Header,/klibc/include/stdio.h,stdio.h,125,88,15,22,1,3168,84
+C Header,/klibc/include/stdlib.h,stdlib.h,91,72,4,15,1,2318,66
+C,/klibc/klibc/strcasecmp.c,strcasecmp.c,23,14,5,4,3,441,20
+C,/klibc/klibc/strcat.c,strcat.c,11,6,3,2,0,134,10
+C,/klibc/klibc/strchr.c,strchr.c,16,10,3,3,3,177,14
+C,/klibc/klibc/strcmp.c,strcmp.c,20,13,3,4,3,270,17
+C,/klibc/klibc/strcpy.c,strcpy.c,20,11,5,4,1,215,17
+C,/klibc/klibc/strcspn.c,strcspn.c,11,6,3,2,0,129,10
+C,/klibc/klibc/strdup.c,strdup.c,17,10,3,4,1,185,14
+C,/klibc/klibc/strerror.c,strerror.c,34,22,3,9,3,583,26
+C Header,/klibc/include/string.h,string.h,44,37,3,4,0,1722,41
+C,/klibc/klibc/strlcat.c,strlcat.c,33,22,3,8,6,436,24
+C,/klibc/klibc/strlcpy.c,strlcpy.c,29,17,4,8,3,397,22
+C,/klibc/klibc/strlen.c,strlen.c,14,8,3,3,1,138,12
+C,/klibc/klibc/strncasecmp.c,strncasecmp.c,23,14,5,4,3,455,20
+C,/klibc/klibc/strncat.c,strncat.c,22,15,3,4,2,295,19
+C,/klibc/klibc/strncmp.c,strncmp.c,20,13,3,4,3,284,17
+C,/klibc/klibc/strncpy.c,strncpy.c,24,15,4,5,2,335,20
+C,/klibc/klibc/strndup.c,strndup.c,17,11,3,3,1,224,15
+C,/klibc/klibc/strnlen.c,strnlen.c,19,10,5,4,2,310,16
+C,/klibc/klibc/strntoimax.c,strntoimax.c,13,6,5,2,0,218,12
+C,/klibc/klibc/strntoumax.c,strntoumax.c,76,61,6,9,43,1331,52
+C,/klibc/klibc/strpbrk.c,strpbrk.c,14,7,3,4,0,179,12
+C,/klibc/klibc/strrchr.c,strrchr.c,18,11,3,4,3,211,16
+C,/klibc/klibc/strsep.c,strsep.c,21,13,3,5,2,237,17
+C,/klibc/klibc/strspn.c,strspn.c,11,6,3,2,0,127,10
+C,/klibc/klibc/strstr.c,strstr.c,10,5,3,2,0,177,9
+C,/klibc/klibc/strtoimax.c,strtoimax.c,3,3,0,0,0,65,4
+C,/klibc/klibc/strtok.c,strtok.c,16,8,3,5,1,172,12
+C,/klibc/klibc/strtol.c,strtol.c,3,3,0,0,0,65,4
+C,/klibc/klibc/strtoll.c,strtoll.c,3,3,0,0,0,71,4
+C,/klibc/klibc/strtotimespec.c,strtotimespec.c,5,5,0,0,0,124,6
+C,/klibc/klibc/strtotimeval.c,strtotimeval.c,5,5,0,0,0,122,6
+C,/klibc/klibc/strtotimex.c,strtotimex.c,39,23,8,8,4,689,32
+C,/klibc/klibc/strtoul.c,strtoul.c,3,3,0,0,0,68,4
+C,/klibc/klibc/strtoull.c,strtoull.c,3,3,0,0,0,74,4
+C,/klibc/klibc/strtoumax.c,strtoumax.c,3,3,0,0,0,66,4
+C,/klibc/klibc/strtox.c,strtox.c,13,6,5,2,0,229,12
+C,/klibc/klibc/strxspn.c,strxspn.c,30,18,6,6,2,539,26
+C Header,/klibc/klibc/strxspn.h,strxspn.h,13,6,3,4,0,156,10
+Assembly,/klibc/klibc/arch/i386/syscall.S,syscall.S,60,43,8,9,0,949,49
+Assembly,/klibc/klibc/arch/x86_64/syscall.S,syscall.S,28,17,8,3,0,560,24
+Assembly,/klibc/klibc/arch/mips/syscall.S,syscall.S,15,13,0,2,0,317,15
+Assembly,/klibc/klibc/arch/ia64/syscall.S,syscall.S,20,16,2,2,0,311,18
+Assembly,/klibc/klibc/arch/m32r/syscall.S,syscall.S,29,19,8,2,0,553,27
+Assembly,/klibc/klibc/arch/ppc/syscall.S,syscall.S,16,10,5,1,0,261,16
+Assembly,/klibc/klibc/arch/sparc/syscall.S,syscall.S,19,13,5,1,0,307,19
+Assembly,/klibc/klibc/arch/sh/syscall.S,syscall.S,35,23,9,3,0,660,31
+Assembly,/klibc/klibc/arch/arm/syscall.S,syscall.S,50,36,7,7,0,699,41
+Assembly,/klibc/klibc/arch/alpha/syscall.S,syscall.S,26,23,0,3,0,394,24
+Assembly,/klibc/klibc/arch/cris/syscall.S,syscall.S,30,19,8,3,0,598,28
+Assembly,/klibc/klibc/arch/sparc64/syscall.S,syscall.S,18,12,5,1,0,318,18
+C,/klibc/klibc/arch/ppc64/syscall.c,syscall.c,14,6,7,1,0,262,14
+C,/klibc/klibc/arch/s390/syscall.c,syscall.c,16,8,7,1,1,328,16
+C,/klibc/klibc/arch/parisc/syscall.c,syscall.c,29,16,7,6,2,654,25
+C,/klibc/klibc/arch/s390x/syscall.c,syscall.c,16,8,7,1,1,328,16
+C Header,/klibc/include/sys/syscall.h,syscall.h,17,7,7,3,0,325,15
+Perl,/klibc/klibc/syscalls.pl,syscalls.pl,120,94,4,22,23,2506,84
+C Header,/klibc/klibc/syscommon.h,syscommon.h,32,24,5,3,0,583,30
+C Header,/klibc/include/klibc/sysconfig.h,sysconfig.h,34,7,22,5,0,906,24
+Assembly,/klibc/klibc/arch/alpha/sysdual.S,sysdual.S,33,29,0,4,1,553,28
+Assembly,/klibc/klibc/arch/sparc/sysfork.S,sysfork.S,25,15,9,1,0,492,24
+Assembly,/klibc/klibc/arch/sparc64/sysfork.S,sysfork.S,26,14,11,1,0,538,24
+C Header,/libsysfs/sysfs.h,sysfs.h,64,34,23,7,3,1870,50
+C,/libsysfs/sysfs_bus.c,sysfs_bus.c,317,230,62,25,40,7790,204
+C,/libsysfs/sysfs_class.c,sysfs_class.c,521,348,121,52,88,13012,313
+C,/libsysfs/sysfs_device.c,sysfs_device.c,429,293,104,32,56,11097,256
+C,/libsysfs/sysfs_dir.c,sysfs_dir.c,491,353,105,33,88,12477,283
+C,/libsysfs/sysfs_driver.c,sysfs_driver.c,261,171,70,20,35,6548,153
+C,/libsysfs/sysfs_utils.c,sysfs_utils.c,290,179,87,24,61,6336,169
+C Header,/klibc/include/sys/sysinfo.h,sysinfo.h,12,5,3,4,0,171,9
+C,/klibc/klibc/syslog.c,syslog.c,87,58,8,21,15,1644,63
+C Header,/klibc/include/syslog.h,syslog.h,64,47,6,11,0,1648,54
+C Header,/klibc/include/sys/sysmacros.h,sysmacros.h,31,18,6,7,0,564,21
+C,/klibc/klibc/system.c,system.c,61,37,11,13,4,1416,49
+C,/extras/volume_id/volume_id/sysv.c,sysv.c,146,110,19,17,14,3474,103
+C Header,/extras/volume_id/volume_id/sysv.h,sysv.h,26,4,19,3,0,976,21
+C,/klibc/klibc/sysv_signal.c,sysv_signal.c,11,5,4,2,0,201,10
+C,/extras/chassis_id/table.c,table.c,106,59,30,17,8,2552,77
+C Header,/klibc/include/netinet/tcp.h,tcp.h,11,5,3,3,0,180,9
+C Header,/klibc/include/termios.h,termios.h,86,66,4,16,0,1839,46
+Plain Text,/docs/persistent_naming/testing_scsi_notes.txt,testing_scsi_notes.txt,201,148,0,53,0,7965,149
+C,/klibc/klibc/time.c,time.c,23,13,3,7,1,258,18
+C Header,/klibc/include/time.h,time.h,18,9,4,5,0,424,14
+C Header,/klibc/include/sys/time.h,time.h,18,11,3,4,0,486,15
+C Header,/klibc/include/sys/times.h,times.h,14,7,3,4,0,206,11
+C Header,/klibc/include/arch/sparc/machine/trap.h,trap.h,141,62,69,10,0,6210,123
+C,/klibc/klibc/zlib/trees.c,trees.c,1215,759,306,150,184,44085,793
+C Header,/klibc/klibc/zlib/trees.h,trees.h,128,120,1,7,0,8444,111
+C Header,/klibc/include/sys/types.h,types.h,104,69,15,20,0,2099,74
+Perl,/test/udevd-test/udev-log-amplify.pl,udev-log-amplify.pl,63,22,35,6,4,1790,49
+Perl,/test/udevd-test/udev-log-script.pl,udev-log-script.pl,58,20,33,5,4,1691,47
+Perl,/test/udev-test.pl,udev-test.pl,1664,1571,34,59,70,42128,627
+Autoconf,/udev.8.in,udev.8.in,395,375,11,9,24,11894,284
+C,/udev.c,udev.c,227,165,34,28,52,5883,174
+Autoconf,/etc/udev/udev.conf.in,udev.conf.in,14,4,5,5,0,329,10
+C Header,/udev.h,udev.h,101,67,22,12,0,2566,85
+Snakemake,/etc/udev/gentoo/udev.rules,udev.rules,257,142,64,51,0,9107,202
+Snakemake,/etc/udev/frugalware/udev.rules,udev.rules,170,113,32,25,0,9234,145
+Snakemake,/etc/udev/udev.rules,udev.rules,46,23,14,9,0,1393,37
+Snakemake,/etc/udev/redhat/udev.rules,udev.rules,229,147,40,42,0,7406,185
+Snakemake,/extras/chassis_id/udev.rules,udev.rules,7,1,5,1,0,309,6
+Snakemake,/etc/udev/debian/udev.rules,udev.rules,89,48,25,16,0,2884,73
+C,/udev_add.c,udev_add.c,315,235,35,45,74,8155,227
+C,/udev_config.c,udev_config.c,214,151,32,31,36,4721,149
+C,/udev_db.c,udev_db.c,346,272,26,48,63,7878,189
+C Header,/udev_db.h,udev_db.h,35,8,22,5,0,1235,27
+C,/udev_libc_wrapper.c,udev_libc_wrapper.c,209,146,27,36,27,4052,135
+C Header,/udev_libc_wrapper.h,udev_libc_wrapper.h,61,33,20,8,1,1791,46
+C,/udev_remove.c,udev_remove.c,162,113,29,20,34,4153,119
+C,/udev_rules.c,udev_rules.c,1041,867,68,106,301,28713,657
+C Header,/udev_rules.h,udev_rules.h,107,70,21,16,0,2461,82
+C,/udev_rules_parse.c,udev_rules_parse.c,592,461,44,87,156,13433,345
+C,/extras/run_directory/udev_run_devd.c,udev_run_devd.c,78,55,10,13,7,1542,61
+C,/extras/run_directory/udev_run_hotplugd.c,udev_run_hotplugd.c,76,53,10,13,5,1515,59
+C,/udev_selinux.c,udev_selinux.c,168,118,23,27,26,3644,103
+C Header,/udev_selinux.h,udev_selinux.h,40,16,19,5,0,1481,33
+C,/udev_sysfs.c,udev_sysfs.c,487,385,41,61,74,15390,339
+C Header,/udev_sysfs.h,udev_sysfs.h,41,12,22,7,0,1488,32
+C,/udev_utils.c,udev_utils.c,507,394,32,81,134,11260,312
+C Header,/udev_utils.h,udev_utils.h,52,26,20,6,0,2147,43
+C,/udevcontrol.c,udevcontrol.c,136,92,24,20,17,3349,103
+Perl,/test/udevd-test/udevd-test.pl,udevd-test.pl,602,477,67,58,34,17612,287
+C,/udevd.c,udevd.c,1009,768,87,154,192,23771,641
+C Header,/udevd.h,udevd.h,82,43,28,11,0,2174,64
+C,/udeveventrecorder.c,udeveventrecorder.c,127,91,21,15,15,2760,101
+C,/udevinfo.c,udevinfo.c,402,317,32,53,70,9878,277
+C,/udevinitsend.c,udevinitsend.c,239,177,31,31,40,5333,176
+C,/udevrulescompile.c,udevrulescompile.c,97,63,20,14,5,2369,77
+C,/udevsend.c,udevsend.c,227,165,33,29,25,5245,166
+Perl,/test/udevstart-test.pl,udevstart-test.pl,63,37,14,12,4,1548,49
+C,/udevstart.c,udevstart.c,372,278,35,59,62,9215,232
+C,/udevtest.c,udevtest.c,125,79,28,18,19,3243,100
+C,/extras/volume_id/volume_id/udf.c,udf.c,191,140,25,26,48,4955,144
+C Header,/extras/volume_id/volume_id/udf.h,udf.h,26,4,19,3,0,973,21
+C Header,/klibc/include/netinet/udp.h,udp.h,19,9,6,4,0,253,14
+C,/extras/volume_id/volume_id/ufs.c,ufs.c,223,192,19,12,13,5108,187
+C Header,/extras/volume_id/volume_id/ufs.h,ufs.h,26,4,19,3,0,973,21
+C Header,/klibc/include/sys/uio.h,uio.h,15,8,3,4,0,263,12
+C,/klibc/klibc/umount.c,umount.c,12,5,5,2,0,139,11
+Assembly,/klibc/klibc/arch/sparc/umul.S,umul.S,193,73,110,10,4,6651,148
+C Header,/klibc/include/sys/un.h,un.h,10,4,3,3,0,105,8
+C,/klibc/klibc/zlib/uncompr.c,uncompr.c,61,31,21,9,14,2133,52
+C Header,/klibc/include/unistd.h,unistd.h,140,113,7,20,0,4091,119
+C,/klibc/klibc/unsetenv.c,unsetenv.c,40,30,3,7,10,552,31
+C,/extras/usb_id/usb_id.c,usb_id.c,480,350,82,48,74,11617,305
+C,/klibc/klibc/usleep.c,usleep.c,15,9,3,3,4,244,13
+C,/extras/volume_id/volume_id/util.c,util.c,268,217,25,26,43,6600,181
+C Header,/extras/volume_id/volume_id/util.h,util.h,101,65,22,14,2,3605,82
+C,/klibc/klibc/utime.c,utime.c,24,15,3,6,0,368,19
+C Header,/klibc/include/sys/utime.h,utime.h,10,4,3,3,0,118,8
+C Header,/klibc/include/utime.h,utime.h,15,7,3,5,0,211,11
+C Header,/klibc/include/sys/utsname.h,utsname.h,23,14,3,6,0,404,18
+C,/klibc/klibc/vasprintf.c,vasprintf.c,25,16,3,6,1,371,21
+Assembly,/klibc/klibc/arch/mips/vfork.S,vfork.S,16,13,0,3,0,284,15
+Assembly,/klibc/klibc/arch/ia64/vfork.S,vfork.S,42,21,17,4,0,905,35
+C,/klibc/klibc/vfprintf.c,vfprintf.c,26,16,3,7,2,402,20
+C Header,/klibc/include/sys/vfs.h,vfs.h,112,95,6,11,2,3485,93
+C,/extras/volume_id/volume_id/via_raid.c,via_raid.c,88,54,19,15,6,2219,67
+C Header,/extras/volume_id/volume_id/via_raid.h,via_raid.h,26,4,19,3,0,1000,21
+C Header,/klibc/include/arch/i386/sys/vm86.h,vm86.h,41,6,30,5,0,1567,34
+C,/extras/volume_id/vol_id.c,vol_id.c,195,150,19,26,42,4068,147
+C,/extras/volume_id/volume_id/volume_id.c,volume_id.c,255,167,29,59,74,5478,144
+C Header,/extras/volume_id/volume_id/volume_id.h,volume_id.h,82,53,19,10,0,2391,65
+C,/klibc/klibc/vprintf.c,vprintf.c,11,6,3,2,0,148,10
+C,/klibc/klibc/vsnprintf.c,vsnprintf.c,433,363,26,44,85,9583,300
+C,/klibc/klibc/vsprintf.c,vsprintf.c,11,6,3,2,0,177,10
+C,/klibc/klibc/vsscanf.c,vsscanf.c,365,316,12,37,62,8179,261
+C,/klibc/klibc/wait.c,wait.c,12,7,3,2,0,156,11
+C Header,/klibc/include/sys/wait.h,wait.h,28,18,4,6,2,700,23
+C,/klibc/klibc/wait3.c,wait3.c,12,7,3,2,0,208,11
+C,/klibc/klibc/waitpid.c,waitpid.c,12,7,3,2,0,192,11
+C,/extras/volume_id/volume_id/xfs.c,xfs.c,78,47,19,12,4,1956,62
+C Header,/extras/volume_id/volume_id/xfs.h,xfs.h,26,4,19,3,0,967,21
+C Header,/klibc/klibc/zlib/zconf.h,zconf.h,323,243,52,28,31,8978,222
+C Header,/klibc/klibc/zlib/zconf.in.h,zconf.in.h,323,243,52,28,31,8981,222
+C Header,/klibc/klibc/zlib/zlib.h,zlib.h,1200,158,946,96,1,57739,871
+C,/klibc/klibc/zlib/zutil.c,zutil.c,319,243,28,48,34,7051,195
+C Header,/klibc/klibc/zlib/zutil.h,zutil.h,258,189,29,40,30,6540,168

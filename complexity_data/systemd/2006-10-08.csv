@@ -1,0 +1,120 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+Snakemake,/extras/cdrom_id/60-cdrom_id.rules,60-cdrom_id.rules,3,1,1,1,0,119,0
+Snakemake,/extras/rule_generator/75-cd-aliases-generator.rules,75-cd-aliases-generator.rules,3,1,1,1,0,186,0
+Snakemake,/extras/rule_generator/75-persistent-net-generator.rules,75-persistent-net-generator.rules,20,12,2,6,0,869,0
+License,/COPYING,COPYING,339,281,0,58,0,17987,0
+Makefile,/extras/volume_id/lib/Makefile,Makefile,127,106,6,15,0,3026,0
+Makefile,/extras/usb_id/Makefile,Makefile,69,49,7,13,2,1432,0
+Makefile,/extras/run_directory/Makefile,Makefile,70,51,7,12,2,1622,0
+Makefile,/extras/firmware/Makefile,Makefile,58,39,7,12,2,1161,0
+Makefile,/extras/path_id/Makefile,Makefile,58,39,7,12,2,1157,0
+Makefile,/extras/scsi_id/Makefile,Makefile,89,64,8,17,1,2195,0
+Makefile,/extras/ata_id/Makefile,Makefile,70,49,7,14,0,1443,0
+Makefile,/Makefile,Makefile,359,280,33,46,23,9701,0
+Makefile,/extras/dasd_id/Makefile,Makefile,70,49,7,14,0,1444,0
+Makefile,/extras/cdrom_id/Makefile,Makefile,71,51,7,13,0,1585,0
+Makefile,/extras/volume_id/Makefile,Makefile,77,56,7,14,0,1703,0
+Makefile,/extras/edd_id/Makefile,Makefile,70,49,7,14,0,1443,0
+Makefile,/extras/floppy/Makefile,Makefile,69,49,7,13,2,1447,0
+Makefile,/extras/rule_generator/Makefile,Makefile,68,49,7,12,2,1822,0
+D,/extras/run_directory/RFC-dev.d,RFC-dev.d,50,12,35,3,1,2081,0
+C,/extras/volume_id/lib/adaptec_raid.c,adaptec_raid.c,112,90,9,13,7,2381,0
+C,/extras/ata_id/ata_id.c,ata_id.c,171,136,14,21,26,3111,0
+C,/extras/cdrom_id/cdrom_id.c,cdrom_id.c,152,114,17,21,18,3724,0
+C,/extras/volume_id/lib/cramfs.c,cramfs.c,64,44,9,11,6,1411,0
+C,/extras/floppy/create_floppy_devices.c,create_floppy_devices.c,126,96,15,15,20,2892,0
+C,/extras/dasd_id/dasd_id.c,dasd_id.c,262,175,53,34,24,7649,0
+C,/extras/edd_id/edd_id.c,edd_id.c,197,155,18,24,36,4242,0
+Shell,/extras/eventrecorder.sh,eventrecorder.sh,4,2,1,1,1,86,0
+C,/extras/volume_id/lib/ext.c,ext.c,115,88,11,16,10,2999,0
+C,/extras/volume_id/lib/fat.c,fat.c,376,285,29,62,98,9621,0
+Shell,/extras/firmware/firmware.sh,firmware.sh,27,21,1,5,4,564,0
+C,/extras/volume_id/lib/gfs.c,gfs.c,120,88,13,19,17,3099,0
+C,/extras/volume_id/lib/hfs.c,hfs.c,297,235,12,50,32,7446,0
+C,/extras/volume_id/lib/highpoint.c,highpoint.c,96,65,9,22,13,2126,0
+C,/extras/volume_id/lib/hpfs.c,hpfs.c,56,35,9,12,4,1185,0
+HTML,/docs/writing_udev_rules/index.html,index.html,840,633,6,201,0,41888,0
+HTML,/docs/writing_udev_rules/index.jp.html,index.jp.html,598,476,0,122,0,55491,0
+C,/extras/volume_id/lib/iso9660.c,iso9660.c,124,93,9,22,19,3087,0
+C,/extras/volume_id/lib/isw_raid.c,isw_raid.c,66,43,9,14,5,1468,0
+C,/extras/volume_id/lib/jfs.c,jfs.c,65,43,9,13,4,1423,0
+C,/extras/volume_id/lib/jmicron_raid.c,jmicron_raid.c,62,41,9,12,5,1420,0
+C Header,/extras/volume_id/lib/libvolume_id.h,libvolume_id.h,116,87,13,16,0,5225,0
+C,/extras/volume_id/lib/linux_raid.c,linux_raid.c,87,62,9,16,5,1985,0
+C,/extras/volume_id/lib/linux_swap.c,linux_swap.c,90,65,10,15,13,2101,0
+C Header,/list.h,list.h,289,114,144,31,18,8095,0
+C Header,/logging.h,logging.h,73,42,20,11,8,2014,0
+C,/extras/volume_id/lib/lsi_raid.c,lsi_raid.c,60,38,9,13,5,1292,0
+C,/extras/volume_id/lib/luks.c,luks.c,82,59,9,14,3,1982,0
+C,/extras/volume_id/lib/lvm.c,lvm.c,97,64,9,24,9,2005,0
+C,/extras/volume_id/lib/minix.c,minix.c,84,59,9,16,10,1687,0
+C,/extras/volume_id/lib/netware.c,netware.c,103,80,9,14,4,2655,0
+C,/extras/volume_id/lib/ntfs.c,ntfs.c,194,153,10,31,20,5022,0
+C,/extras/volume_id/lib/nvidia_raid.c,nvidia_raid.c,64,42,9,13,5,1451,0
+C,/extras/volume_id/lib/ocfs.c,ocfs.c,194,164,10,20,14,4855,0
+Shell,/extras/path_id/path_id,path_id,562,505,35,22,49,11644,0
+C,/extras/volume_id/lib/promise_raid.c,promise_raid.c,70,47,9,14,7,1534,0
+C,/extras/volume_id/lib/reiserfs.c,reiserfs.c,118,90,10,18,14,2787,0
+C,/extras/volume_id/lib/romfs.c,romfs.c,60,39,9,12,5,1265,0
+C,/extras/run_directory/run_directory.c,run_directory.c,73,51,11,11,3,1489,0
+C Header,/extras/run_directory/run_directory.h,run_directory.h,3,1,0,2,0,88,0
+C Header,/extras/scsi_id/scsi.h,scsi.h,92,37,42,13,0,2261,0
+C,/extras/scsi_id/scsi_id.c,scsi_id.c,761,709,29,23,23,15942,0
+C Header,/extras/scsi_id/scsi_id.h,scsi_id.h,44,12,26,6,0,1009,0
+C,/extras/scsi_id/scsi_serial.c,scsi_serial.c,839,540,217,82,155,22741,0
+C,/extras/volume_id/lib/silicon_raid.c,silicon_raid.c,77,55,9,13,5,1861,0
+Shell,/test/simple-build-check.sh,simple-build-check.sh,39,30,4,5,4,877,0
+C,/extras/volume_id/lib/squashfs.c,squashfs.c,52,32,9,11,6,1147,0
+C,/extras/volume_id/lib/sysv.c,sysv.c,133,107,9,17,14,3007,0
+Perl,/test/udev-test.pl,udev-test.pl,1814,1720,36,58,67,48478,0
+C,/udev.c,udev.c,184,132,25,27,43,4655,0
+C Header,/udev.h,udev.h,163,109,31,23,0,5625,0
+XML,/udev.xml,udev.xml,546,483,8,55,0,24013,0
+C,/udev_config.c,udev_config.c,200,141,28,31,35,4415,0
+C,/udev_db.c,udev_db.c,359,287,25,47,74,8763,0
+C,/udev_device.c,udev_device.c,272,195,37,40,58,7498,0
+C,/udev_node.c,udev_node.c,339,256,26,57,80,8759,0
+C,/udev_rules.c,udev_rules.c,1075,887,67,121,321,30577,0
+C Header,/udev_rules.h,udev_rules.h,118,80,18,20,0,2763,0
+C,/udev_rules_parse.c,udev_rules_parse.c,721,583,41,97,233,17902,0
+C,/extras/run_directory/udev_run_devd.c,udev_run_devd.c,95,66,15,14,9,1991,0
+C,/extras/run_directory/udev_run_hotplugd.c,udev_run_hotplugd.c,77,54,10,13,5,1536,0
+C,/udev_selinux.c,udev_selinux.c,167,119,21,27,25,3641,0
+C Header,/udev_selinux.h,udev_selinux.h,38,16,17,5,0,1482,0
+C,/udev_sysdeps.c,udev_sysdeps.c,73,45,19,9,9,1636,0
+C Header,/udev_sysdeps.h,udev_sysdeps.h,168,131,24,13,10,5260,0
+C,/udev_sysfs.c,udev_sysfs.c,432,329,45,58,107,12417,0
+C,/udev_utils.c,udev_utils.c,201,145,20,36,51,4877,0
+C,/udev_utils_file.c,udev_utils_file.c,165,111,23,31,37,3299,0
+C,/udev_utils_run.c,udev_utils_run.c,278,219,32,27,71,7104,0
+C,/udev_utils_string.c,udev_utils_string.c,207,150,30,27,53,4213,0
+C,/udevcontrol.c,udevcontrol.c,166,128,18,20,36,4762,0
+C,/udevd.c,udevd.c,1249,972,87,190,259,29936,0
+C Header,/udevd.h,udevd.h,72,42,21,9,0,2032,0
+XML,/udevd.xml,udevd.xml,120,111,0,9,0,4218,0
+C,/udevinfo.c,udevinfo.c,418,350,25,43,76,10466,0
+XML,/udevinfo.xml,udevinfo.xml,114,105,0,9,0,4393,0
+C,/udevmonitor.c,udevmonitor.c,236,178,23,35,48,6033,0
+XML,/udevmonitor.xml,udevmonitor.xml,64,56,0,8,0,2029,0
+C,/udevsettle.c,udevsettle.c,155,115,21,19,20,3797,0
+XML,/udevsettle.xml,udevsettle.xml,70,61,0,9,0,2155,0
+Perl,/test/udevstart-test.pl,udevstart-test.pl,61,35,14,12,4,1488,0
+C,/udevstart.c,udevstart.c,372,276,33,63,66,8971,0
+XML,/udevstart.xml,udevstart.xml,50,43,0,7,0,1534,0
+C,/udevtest.c,udevtest.c,137,93,21,23,21,3473,0
+XML,/udevtest.xml,udevtest.xml,50,43,0,7,0,1512,0
+C,/udevtrigger.c,udevtrigger.c,533,414,35,84,103,12974,0
+XML,/udevtrigger.xml,udevtrigger.xml,122,113,0,9,0,5105,0
+C,/extras/volume_id/lib/udf.c,udf.c,178,137,15,26,48,4294,0
+C,/extras/volume_id/lib/ufs.c,ufs.c,222,201,9,12,14,4986,0
+C,/extras/usb_id/usb_id.c,usb_id.c,440,347,44,49,79,10315,0
+C,/extras/volume_id/lib/util.c,util.c,267,227,15,25,45,6279,0
+C Header,/extras/volume_id/lib/util.h,util.h,84,61,11,12,3,2595,0
+C,/extras/volume_id/lib/via_raid.c,via_raid.c,75,51,9,15,6,1635,0
+C,/extras/volume_id/vol_id.c,vol_id.c,317,262,25,30,132,8286,0
+XML,/extras/volume_id/vol_id.xml,vol_id.xml,103,93,0,10,0,3375,0
+C,/extras/volume_id/lib/volume_id.c,volume_id.c,250,164,17,69,94,5167,0
+C,/extras/volume_id/lib/vxfs.c,vxfs.c,54,34,9,11,4,1220,0
+Shell,/extras/rule_generator/write_cd_rules,write_cd_rules,78,47,13,18,7,1979,0
+Shell,/extras/rule_generator/write_net_rules,write_net_rules,130,83,23,24,18,3171,0
+C,/extras/volume_id/lib/xfs.c,xfs.c,65,44,9,12,4,1401,0

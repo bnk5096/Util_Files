@@ -1,0 +1,89 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+License,/LICENSE,LICENSE,339,281,0,58,0,17987,0
+Systemd,/test2/a.service,a.service,4,4,0,0,0,57,0
+m4,/m4/attributes.m4,attributes.m4,311,275,0,36,0,10338,0
+C,/automount.c,automount.c,121,73,21,27,3,3650,0
+C Header,/automount.h,automount.h,65,33,19,13,0,1656,0
+Systemd,/test2/b.service,b.service,3,3,0,0,0,37,0
+Shell,/bootstrap.sh,bootstrap.sh,80,46,21,13,10,2237,0
+Systemd,/test2/c.service,c.service,3,3,0,0,0,40,0
+C,/cgroup.c,cgroup.c,523,352,36,135,92,13923,0
+C Header,/cgroup.h,cgroup.h,83,33,26,24,0,2331,0
+C,/cgroups-agent.c,cgroups-agent.c,72,39,19,14,8,2136,0
+C,/conf-parser.c,conf-parser.c,386,280,22,84,39,9616,0
+C Header,/conf-parser.h,conf-parser.h,54,19,26,9,0,2778,0
+Systemd,/test2/d.service,d.service,5,5,0,0,0,80,0
+C,/dbus-job.c,dbus-job.c,267,176,21,70,32,7879,0
+C,/dbus-manager.c,dbus-manager.c,421,304,23,94,71,17559,0
+C,/dbus-unit.c,dbus-unit.c,423,298,24,101,54,14263,0
+C,/dbus.c,dbus.c,834,578,41,215,125,25873,0
+C Header,/dbus.h,dbus.h,87,50,19,18,0,3827,0
+C,/device.c,device.c,394,276,22,96,60,10620,0
+C Header,/device.h,device.h,50,17,22,11,0,1304,0
+Systemd,/test2/e.service,e.service,5,5,0,0,0,77,0
+Systemd,/test1/exec-demo.service,exec-demo.service,9,8,0,1,0,197,0
+C,/execute.c,execute.c,1071,760,68,243,180,33233,0
+C Header,/execute.h,execute.h,182,123,31,28,0,5169,0
+Systemd,/test2/f.service,f.service,2,2,0,0,0,21,0
+Systemd,/test1/fifo-demo.service,fifo-demo.service,8,7,0,1,0,201,0
+Systemd,/test1/fifo-demo.socket,fifo-demo.socket,6,5,0,1,0,180,0
+Systemd,/test2/g.service,g.service,3,3,0,0,0,41,0
+Systemd,/test2/h.service,h.service,3,3,0,0,0,37,0
+C,/hashmap.c,hashmap.c,451,294,23,134,69,10287,0
+C Header,/hashmap.h,hashmap.h,82,40,23,19,3,3088,0
+C Header,/ioprio.h,ioprio.h,57,32,14,11,1,1497,0
+C,/job.c,job.c,541,362,57,122,124,17266,0
+C Header,/job.h,job.h,149,88,25,36,0,4041,0
+C Header,/list.h,list.h,119,76,29,14,21,6186,0
+C,/load-dropin.c,load-dropin.c,92,51,20,21,9,2865,0
+C Header,/load-dropin.h,load-dropin.h,31,5,20,6,0,906,0
+C,/load-fragment.c,load-fragment.c,1305,990,43,272,149,44577,0
+C Header,/load-fragment.h,load-fragment.h,31,5,20,6,0,927,0
+C,/log.c,log.c,56,27,19,10,2,1467,0
+C Header,/log.h,log.h,42,16,19,7,0,1430,0
+C,/logger.c,logger.c,578,404,36,138,88,15827,0
+C Header,/macro.h,macro.h,100,59,20,21,2,3488,0
+C,/main.c,main.c,80,44,19,17,6,2233,0
+C,/manager.c,manager.c,1618,1039,161,418,299,49860,0
+C Header,/manager.h,manager.h,196,115,39,42,0,6453,0
+C Header,/missing.h,missing.h,12,7,1,4,0,199,0
+C,/mount-setup.c,mount-setup.c,115,72,19,24,11,2815,0
+C Header,/mount-setup.h,mount-setup.h,27,4,19,4,0,820,0
+C,/mount.c,mount.c,485,331,29,125,75,13354,0
+C Header,/mount.h,mount.h,58,24,21,13,0,1449,0
+Systemd,/test1/multiuser.target,multiuser.target,2,2,0,0,0,37,0
+Systemd,/test1/permissions.service,permissions.service,11,10,0,1,0,213,0
+Systemd,/test1/postfix.service,postfix.service,7,6,0,1,0,134,0
+Systemd,/test1/postfix.socket,postfix.socket,13,12,0,1,0,416,0
+C,/ratelimit.c,ratelimit.c,62,26,22,14,3,1641,0
+C Header,/ratelimit.h,ratelimit.h,55,28,19,8,1,1921,0
+C Header,/securebits.h,securebits.h,45,16,21,8,0,1976,0
+C,/service.c,service.c,1812,1254,97,461,360,57876,0
+C Header,/service.h,service.h,126,80,20,26,0,3756,0
+C,/set.c,set.c,102,59,20,23,0,2704,0
+C Header,/set.h,set.h,65,27,24,14,2,2093,0
+C,/snapshot.c,snapshot.c,43,14,20,9,1,1199,0
+C Header,/snapshot.h,snapshot.h,43,15,19,9,0,1077,0
+C,/socket-util.c,socket-util.c,375,245,37,93,90,12472,0
+C Header,/socket-util.h,socket-util.h,71,37,22,12,0,2127,0
+C,/socket.c,socket.c,857,613,33,211,162,25073,0
+C Header,/socket.h,socket.h,111,63,22,26,0,2629,0
+C,/strv.c,strv.c,428,282,27,119,67,8852,0
+C Header,/strv.h,strv.h,60,26,19,15,5,1723,0
+Systemd,/test1/syslog.service,syslog.service,5,4,0,1,0,97,0
+Systemd,/test1/syslog.socket,syslog.socket,8,7,0,1,0,156,0
+Vala,/systemadm.vala,systemadm.vala,529,403,20,106,30,21375,0
+Vala,/systemctl.vala,systemctl.vala,232,157,18,57,55,9039,0
+Vala,/systemd-interfaces.vala,systemd-interfaces.vala,104,69,18,17,0,3967,0
+Systemd,/test1/systemd-logger.service,systemd-logger.service,13,12,0,1,0,223,0
+Systemd,/test1/systemd-logger.socket,systemd-logger.socket,5,4,0,1,0,99,0
+C,/target.c,target.c,111,62,20,29,3,2779,0
+C Header,/target.h,target.h,43,15,19,9,0,1058,0
+C,/test-engine.c,test-engine.c,99,58,19,22,17,3678,0
+C,/test-job-type.c,test-job-type.c,84,35,29,20,13,3543,0
+C,/timer.c,timer.c,64,28,20,16,1,1608,0
+C Header,/timer.h,timer.h,49,19,19,11,0,1154,0
+C,/unit.c,unit.c,1258,840,95,323,234,36186,0
+C Header,/unit.h,unit.h,315,200,41,74,14,9241,0
+C,/util.c,util.c,1162,803,71,288,185,28426,0
+C Header,/util.h,util.h,191,116,20,55,9,6194,0
