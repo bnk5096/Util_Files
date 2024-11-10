@@ -1,0 +1,10 @@
+Both: 0
+Promotion: 4
+django/utils/topological_sort.py,django/db/migrations/topological_sort.py
+tests/utils_tests/test_datetime_safe.py,tests/utils_tests/datetime_safe.py,tests/utils/datetime_safe.py,tests/regressiontests/utils/datetime_safe.py,tests/regressiontests/datetime_safe/tests.py
+django/contrib/admindocs/utils.py,django/contrib/admin/utils.py,django/parts/admin/doc.py
+django/utils/lorem_ipsum.py,django/contrib/webdesign/lorem_ipsum.py
+Demotion: 2
+tests/test_client/test_conditional_content_removal.py,tests/http_utils/tests.py,tests/regressiontests/http_utils/tests.py
+django/http/__init__.py,django/utils/httpwrappers.py
+Total Renames:1495
