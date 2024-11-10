@@ -1,0 +1,289 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+C,/libavcodec/4xm.c,4xm.c,757,582,42,133,105,23151,0
+C,/libavformat/4xm.c,4xm.c,345,254,41,50,43,10979,0
+License,/COPYING,COPYING,504,427,0,77,0,26428,0
+Makefile,/doc/Makefile,Makefile,14,10,0,4,0,310,0
+Makefile,/vhook/Makefile,Makefile,45,31,0,14,0,864,0
+Makefile,/tests/Makefile,Makefile,76,48,8,20,0,2209,0
+Makefile,/Makefile,Makefile,191,136,9,46,3,4187,0
+Makefile,/postproc/Makefile,Makefile,45,25,5,15,0,905,0
+Makefile,/libavcodec/libpostproc/Makefile,Makefile,66,43,5,18,1,1247,0
+Makefile,/libavcodec/Makefile,Makefile,272,198,21,53,1,6523,0
+Makefile,/libavformat/Makefile,Makefile,129,90,13,26,1,2996,0
+C Header,/libavcodec/liba52/a52.h,a52.h,73,42,22,9,0,2090,0
+C Header,/libavcodec/liba52/a52_internal.h,a52_internal.h,162,108,25,29,0,5618,0
+C Header,/libavcodec/liba52/a52_util.h,a52_util.h,32,6,22,4,0,1218,0
+C,/libavcodec/a52dec.c,a52dec.c,256,192,44,20,39,7873,0
+C Header,/libavcodec/ac3.h,ac3.h,61,30,23,8,0,2184,0
+C,/libavcodec/ac3dec.c,ac3dec.c,183,135,31,17,31,5354,0
+C,/libavcodec/ac3enc.c,ac3enc.c,1579,1258,144,177,263,43871,0
+C Header,/libavcodec/ac3tab.h,ac3tab.h,186,159,9,18,0,6406,0
+C,/libavcodec/adpcm.c,adpcm.c,718,532,86,100,97,24869,0
+C,/libavcodec/allcodecs.c,allcodecs.c,183,136,32,15,2,5756,0
+C,/libavformat/allformats.c,allformats.c,113,78,25,10,3,2901,0
+C,/libavcodec/amr.c,amr.c,652,463,85,104,43,16907,0
+C,/libavformat/amr.c,amr.c,244,178,29,37,25,5643,0
+C,/libavcodec/apiexample.c,apiexample.c,516,363,77,76,55,13580,0
+C,/libavformat/asf.c,asf.c,1288,1041,103,144,167,39137,0
+C Header,/libavcodec/alpha/asm.h,asm.h,165,132,19,14,5,7652,0
+C,/libavcodec/asv1.c,asv1.c,667,513,28,126,108,20829,0
+C,/libavformat/au.c,au.c,208,140,37,31,19,5051,0
+C,/libavformat/audio.c,audio.c,343,268,31,44,62,8352,0
+C,/tests/audiogen.c,audiogen.c,168,135,12,21,22,4666,0
+C,/libavcodec/avcodec.c,avcodec.c,172,136,16,20,17,3689,0
+C Header,/libavcodec/avcodec.h,avcodec.h,1748,740,796,212,0,51390,0
+C Header,/libavformat/avformat.h,avformat.h,553,332,116,105,5,16637,0
+C Header,/libavformat/avi.h,avi.h,40,31,0,9,0,1331,0
+C,/libavformat/avidec.c,avidec.c,416,331,40,45,101,12799,0
+C,/libavformat/avienc.c,avienc.c,722,585,49,88,89,23225,0
+C,/libavformat/avio.c,avio.c,188,133,35,20,24,4584,0
+C Header,/libavformat/avio.h,avio.h,169,125,11,33,0,5606,0
+C,/libavformat/aviobuf.c,aviobuf.c,684,528,72,84,87,16220,0
+C,/libavformat/barpainet.c,barpainet.c,25,20,0,5,12,549,0
+C Header,/libavformat/barpainet.h,barpainet.h,25,17,1,7,0,488,0
+C++,/libavformat/beosaudio.cpp,beosaudio.cpp,463,382,40,41,56,13118,0
+C Header,/berrno.h,berrno.h,44,33,1,10,0,524,0
+C,/libavcodec/liba52/bit_allocate.c,bit_allocate.c,260,210,29,21,38,9436,0
+C,/libavcodec/liba52/bitstream.c,bitstream.c,91,43,30,18,4,2515,0
+C Header,/libavcodec/liba52/bitstream.h,bitstream.h,77,39,23,15,4,2285,0
+C Header,/libavcodec/bswap.h,bswap.h,129,102,7,20,0,2647,0
+C,/libavcodec/cabac.c,cabac.c,206,143,31,32,21,5983,0
+C Header,/libavcodec/cabac.h,cabac.h,381,271,48,62,56,8898,0
+C,/libavcodec/cinepak.c,cinepak.c,456,335,42,79,56,14532,0
+C,/libavcodec/cljr.c,cljr.c,168,109,25,34,7,3870,0
+C,/cmdutils.c,cmdutils.c,113,87,19,7,23,3510,0
+C Header,/cmdutils.h,cmdutils.h,28,25,0,3,0,723,0
+C,/libavcodec/common.c,common.c,421,306,73,42,36,11902,0
+C Header,/libavcodec/common.h,common.h,1146,830,119,197,53,28087,0
+Shell,/configure,configure,1194,1015,75,104,141,29428,0
+C,/libavcodec/i386/cputest.c,cputest.c,130,98,21,11,40,4093,0
+C,/libavformat/crc.c,crc.c,111,72,24,15,7,2967,0
+C,/libavcodec/liba52/crc.c,crc.c,73,46,22,5,1,2998,0
+C,/postproc/cs_test.c,cs_test.c,284,249,17,18,17,6548,0
+C,/libavformat/cutils.c,cutils.c,239,167,52,20,49,6034,0
+C Header,/cygwin_inttypes.h,cygwin_inttypes.h,29,21,7,1,0,714,0
+C,/libavcodec/cyuv.c,cyuv.c,186,115,38,33,6,5301,0
+C,/libavcodec/dct-test.c,dct-test.c,501,405,32,64,106,14128,0
+C,/libavcodec/liba52/downmix.c,downmix.c,679,535,23,121,48,17061,0
+C,/libavcodec/dpcm.c,dpcm.c,245,175,40,30,20,8336,0
+C,/vhook/drawtext.c,drawtext.c,524,355,74,95,72,13021,0
+C,/tests/dsptest.c,dsptest.c,178,119,37,22,16,4421,0
+C,/libavcodec/dsputil.c,dsputil.c,3055,2791,54,210,158,116552,0
+C Header,/libavcodec/dsputil.h,dsputil.h,501,239,159,103,3,17035,0
+C,/libavcodec/sh4/dsputil_align.c,dsputil_align.c,428,349,28,51,21,12228,0
+C,/libavcodec/alpha/dsputil_alpha.c,dsputil_alpha.c,364,287,30,47,13,14777,0
+Assembly,/libavcodec/alpha/dsputil_alpha_asm.S,dsputil_alpha_asm.S,286,200,36,50,0,7317,0
+C,/libavcodec/ppc/dsputil_altivec.c,dsputil_altivec.c,1345,978,161,206,59,46066,0
+C Header,/libavcodec/ppc/dsputil_altivec.h,dsputil_altivec.h,95,55,25,15,0,4324,0
+C,/libavcodec/armv4l/dsputil_arm.c,dsputil_arm.c,70,42,21,7,4,2513,0
+C,/libavcodec/mlib/dsputil_mlib.c,dsputil_mlib.c,462,350,25,87,23,11047,0
+C,/libavcodec/ps2/dsputil_mmi.c,dsputil_mmi.c,161,123,21,17,2,5467,0
+C,/libavcodec/i386/dsputil_mmx.c,dsputil_mmx.c,1796,1577,60,159,24,69753,0
+C Header,/libavcodec/i386/dsputil_mmx_avg.h,dsputil_mmx_avg.h,427,384,30,13,0,12678,0
+C Header,/libavcodec/i386/dsputil_mmx_rnd.h,dsputil_mmx_rnd.h,570,517,27,26,6,16075,0
+C,/libavcodec/ppc/dsputil_ppc.c,dsputil_ppc.c,307,218,63,26,21,9432,0
+C Header,/libavcodec/ppc/dsputil_ppc.h,dsputil_ppc.h,124,95,24,5,13,4861,0
+C,/libavcodec/sh4/dsputil_sh4.c,dsputil_sh4.c,118,91,20,7,8,3048,0
+C,/libavcodec/dv.c,dv.c,935,725,107,103,134,28390,0
+C,/libavformat/dv.c,dv.c,880,690,84,106,103,30592,0
+C Header,/libavformat/dv.h,dv.h,32,6,24,2,0,1267,0
+C,/libavformat/dv1394.c,dv1394.c,251,173,33,45,25,6796,0
+C Header,/libavformat/dv1394.h,dv1394.h,354,45,257,52,0,11688,0
+C Header,/libavcodec/dvdata.h,dvdata.h,1370,1310,35,25,12,54035,0
+C,/libavcodec/error_resilience.c,error_resilience.c,1007,769,79,159,240,38643,0
+C,/libavcodec/eval.c,eval.c,255,190,32,33,63,6583,0
+C,/libavcodec/faac.c,faac.c,126,76,27,23,7,3810,0
+C,/libavcodec/faad.c,faad.c,247,174,35,38,14,7438,0
+C Header,/libavcodec/fastmemcpy.h,fastmemcpy.h,1,1,0,0,0,33,0
+C,/libavcodec/i386/fdct_mmx.c,fdct_mmx.c,291,241,30,20,1,10478,0
+C,/libavcodec/fdctref.c,fdctref.c,158,82,51,25,12,3981,0
+C,/libavformat/ffm.c,ffm.c,685,545,68,72,93,19557,0
+C,/ffmpeg.c,ffmpeg.c,2876,2369,174,333,459,97234,0
+Plain Text,/doc/ffmpeg_powerpc_performance_evaluation_howto.txt,ffmpeg_powerpc_performance_evaluation_howto.txt,118,75,0,43,0,5057,0
+C,/ffplay.c,ffplay.c,1766,1400,158,208,272,52625,0
+C,/ffserver.c,ffserver.c,4660,3777,375,508,1103,153958,0
+C Header,/ffserver.h,ffserver.h,8,4,1,3,0,126,0
+C,/libavcodec/fft-test.c,fft-test.c,277,227,11,39,35,6418,0
+C,/libavcodec/fft.c,fft.c,250,179,41,30,27,6245,0
+C,/libavcodec/ppc/fft_altivec.c,fft_altivec.c,247,160,48,39,19,6818,0
+C,/libavcodec/i386/fft_sse.c,fft_sse.c,140,90,28,22,7,3946,0
+C,/libavcodec/ffv1.c,ffv1.c,940,739,40,161,115,27575,0
+C,/libavformat/file.c,file.c,132,94,21,17,6,2962,0
+C,/vhook/fish.c,fish.c,355,260,38,57,44,10374,0
+C,/libavformat/flvdec.c,flvdec.c,156,116,22,18,28,3827,0
+C,/libavformat/flvenc.c,flvenc.c,383,304,27,52,35,11138,0
+C,/libavformat/framehook.c,framehook.c,119,80,19,20,14,3027,0
+C Header,/libavformat/framehook.h,framehook.h,29,16,6,7,0,961,0
+C Header,/libavcodec/ppc/gcc_fixes.h,gcc_fixes.h,84,57,16,11,0,2966,0
+C,/libavformat/gif.c,gif.c,420,279,82,59,31,15748,0
+C,/libavformat/gifdec.c,gifdec.c,634,526,54,54,100,15964,0
+C,/libavcodec/ppc/gmc_altivec.c,gmc_altivec.c,172,108,35,29,7,6114,0
+C,/libavcodec/golomb.c,golomb.c,154,119,25,10,0,9113,0
+C Header,/libavcodec/golomb.h,golomb.h,394,258,58,78,38,9574,0
+C,/libavformat/grab.c,grab.c,848,705,68,75,124,28536,0
+C,/libavcodec/h263.c,h263.c,5334,4248,422,664,1271,181336,0
+C Header,/libavcodec/h263data.h,h263data.h,199,174,9,16,0,6590,0
+C,/libavcodec/h263dec.c,h263dec.c,842,635,71,136,207,25703,0
+C,/libavcodec/h264.c,h264.c,4420,3483,296,641,785,153474,0
+C Header,/libavcodec/h264data.h,h264data.h,530,447,36,47,0,24523,0
+C,/libavformat/http.c,http.c,289,222,33,34,63,6972,0
+C,/libavcodec/huffyuv.c,huffyuv.c,1142,911,39,192,147,37663,0
+C,/libavformat/idcin.c,idcin.c,313,182,94,37,43,10727,0
+C,/libavcodec/idcinvideo.c,idcinvideo.c,283,173,64,46,26,8256,0
+C,/libavcodec/ppc/idct_altivec.c,idct_altivec.c,245,186,33,26,0,8723,0
+C,/libavcodec/ps2/idct_mmi.c,idct_mmi.c,348,290,28,30,0,10793,0
+C,/libavcodec/i386/idct_mmx.c,idct_mmx.c,596,406,35,155,0,18326,0
+C,/libavcodec/sh4/idct_sh4.c,idct_sh4.c,364,279,33,52,10,7176,0
+C,/libavformat/idroq.c,idroq.c,301,208,42,51,34,9060,0
+C,/libavcodec/liba52/imdct.c,imdct.c,411,309,40,62,23,11417,0
+C,/libavformat/img.c,img.c,414,322,38,54,58,10202,0
+C,/libavcodec/imgconvert.c,imgconvert.c,2179,1870,125,184,236,59173,0
+C Header,/libavcodec/imgconvert_template.h,imgconvert_template.h,857,720,34,103,59,22143,0
+C,/libavcodec/imgresample.c,imgresample.c,779,623,75,81,103,22971,0
+C,/vhook/imlib2.c,imlib2.c,276,195,45,36,33,7668,0
+C,/libavcodec/indeo3.c,indeo3.c,1120,948,22,150,253,38325,0
+C Header,/libavcodec/indeo3data.h,indeo3data.h,2315,2310,0,5,0,225936,0
+C,/libavcodec/interplayvideo.c,interplayvideo.c,976,702,101,173,143,28760,0
+C,/libavformat/ipmovie.c,ipmovie.c,642,466,66,110,81,20959,0
+C,/libavcodec/jfdctfst.c,jfdctfst.c,236,111,79,46,4,7735,0
+C,/libavcodec/jfdctint.c,jfdctint.c,297,155,100,42,8,11483,0
+C,/libavformat/jpeg.c,jpeg.c,238,197,25,16,30,6320,0
+C,/libavcodec/jrevdct.c,jrevdct.c,1176,837,197,142,126,33966,0
+Assembly,/libavcodec/armv4l/jrevdct_arm.S,jrevdct_arm.S,386,313,26,47,2,11935,0
+C,/libavcodec/mace.c,mace.c,451,344,69,38,24,22110,0
+C Header,/libavcodec/libpostproc/mangle.h,mangle.h,19,9,6,4,4,552,0
+C,/libavcodec/mdct.c,mdct.c,175,113,43,19,9,4523,0
+C,/libavcodec/mdec.c,mdec.c,276,190,42,44,22,8152,0
+C,/libavcodec/mem.c,mem.c,100,26,64,10,1,3029,0
+C,/libavcodec/mjpeg.c,mjpeg.c,2261,1812,150,299,330,67823,0
+C Header,/libavcodec/liba52/mm_accel.h,mm_accel.h,42,11,25,6,0,1412,0
+C Header,/libavcodec/ps2/mmi.h,mmi.h,152,70,43,39,0,4123,0
+C Header,/libavcodec/i386/mmx.h,mmx.h,243,174,11,58,0,9564,0
+C,/libavcodec/motion_est.c,motion_est.c,1693,1362,90,241,262,57813,0
+C,/libavcodec/alpha/motion_est_alpha.c,motion_est_alpha.c,347,268,24,55,23,9774,0
+C,/libavcodec/i386/motion_est_mmx.c,motion_est_mmx.c,420,383,20,17,3,13079,0
+Assembly,/libavcodec/alpha/motion_est_mvi_asm.S,motion_est_mvi_asm.S,186,115,63,8,0,6322,0
+C,/libavcodec/motion_est_template.c,motion_est_template.c,1074,876,56,142,175,39312,0
+C,/libavcodec/motion_test.c,motion_test.c,138,107,7,24,13,3310,0
+C,/libavformat/mov.c,mov.c,1674,1272,210,192,210,54946,0
+C,/libavformat/movenc.c,movenc.c,908,777,39,92,129,28232,0
+C,/libavformat/mp3.c,mp3.c,397,336,31,30,41,9481,0
+C,/libavcodec/mp3lameaudio.c,mp3lameaudio.c,107,62,25,20,6,2720,0
+C,/libavformat/mpeg.c,mpeg.c,710,566,72,72,125,20174,0
+C,/libavcodec/mpeg12.c,mpeg12.c,2596,2128,166,302,527,89254,0
+C Header,/libavcodec/mpeg12data.h,mpeg12data.h,426,387,8,31,0,11476,0
+C Header,/libavcodec/mpeg4data.h,mpeg4data.h,397,358,11,28,0,13298,0
+C,/libavcodec/mpegaudio.c,mpegaudio.c,793,619,83,91,111,23215,0
+C Header,/libavcodec/mpegaudio.h,mpegaudio.h,30,17,6,7,0,764,0
+C,/libavcodec/mpegaudiodec.c,mpegaudiodec.c,2608,2155,222,231,401,79182,0
+C Header,/libavcodec/mpegaudiodectab.h,mpegaudiodectab.h,774,699,19,56,0,29904,0
+C Header,/libavcodec/mpegaudiotab.h,mpegaudiotab.h,98,63,20,15,0,2612,0
+C,/libavformat/mpegts.c,mpegts.c,1052,866,81,105,187,28974,0
+C Header,/libavformat/mpegts.h,mpegts.h,44,18,20,6,0,1488,0
+C,/libavformat/mpegtsenc.c,mpegtsenc.c,610,496,49,65,49,19345,0
+C,/libavcodec/mpegvideo.c,mpegvideo.c,4758,3799,308,651,927,168946,0
+C Header,/libavcodec/mpegvideo.h,mpegvideo.h,907,701,105,101,2,38146,0
+C,/libavcodec/alpha/mpegvideo_alpha.c,mpegvideo_alpha.c,96,57,25,14,10,3000,0
+C,/libavcodec/ppc/mpegvideo_altivec.c,mpegvideo_altivec.c,645,447,105,93,38,25082,0
+C,/libavcodec/armv4l/mpegvideo_arm.c,mpegvideo_arm.c,26,6,18,2,0,916,0
+C,/libavcodec/ps2/mpegvideo_mmi.c,mpegvideo_mmi.c,86,56,19,11,5,2823,0
+C,/libavcodec/i386/mpegvideo_mmx.c,mpegvideo_mmx.c,519,418,57,44,20,16138,0
+C,/libavcodec/i386/mpegvideo_mmx_template.c,mpegvideo_mmx_template.c,339,296,32,11,44,15921,0
+C,/libavcodec/ppc/mpegvideo_ppc.c,mpegvideo_ppc.c,83,53,19,11,12,2884,0
+C,/libavformat/mpjpeg.c,mpjpeg.c,108,71,21,16,0,2893,0
+C,/libavcodec/msmpeg4.c,msmpeg4.c,2023,1667,125,231,415,61928,0
+C Header,/libavcodec/msmpeg4data.h,msmpeg4data.h,2004,1925,21,58,0,82902,0
+C,/libavcodec/msrle.c,msrle.c,219,142,43,34,25,6469,0
+C,/libavcodec/msvideo1.c,msvideo1.c,378,272,52,54,58,12405,0
+C,/vhook/null.c,null.c,78,44,19,15,7,2071,0
+C,/libavformat/nut.c,nut.c,588,440,52,96,61,13673,0
+C,/libavformat/ogg.c,ogg.c,263,180,17,66,20,6449,0
+C,/libavcodec/oggvorbis.c,oggvorbis.c,245,160,18,67,19,6257,0
+C Header,/libavcodec/oggvorbis.h,oggvorbis.h,15,6,4,5,0,236,0
+Plain Text,/doc/optimization.txt,optimization.txt,154,111,0,43,0,5012,0
+C,/libavcodec/opts.c,opts.c,208,176,13,19,50,5707,0
+C,/libavformat/os_support.c,os_support.c,57,36,18,3,1,1612,0
+C Header,/libavformat/os_support.h,os_support.h,33,19,9,5,0,796,0
+C,/output_example.c,output_example.c,494,330,90,74,70,13993,0
+C,/libavcodec/liba52/parse.c,parse.c,939,773,27,139,191,23368,0
+C,/libavcodec/pcm.c,pcm.c,375,305,35,35,41,9603,0
+C,/libavformat/png.c,png.c,887,755,64,68,169,27191,0
+C,/libavformat/pnm.c,pnm.c,476,421,21,34,103,12193,0
+C,/libavcodec/libpostproc/postprocess.c,postprocess.c,986,750,118,118,155,27222,0
+C Header,/libavcodec/libpostproc/postprocess.h,postprocess.h,75,32,27,16,0,2220,0
+C Header,/libavcodec/libpostproc/postprocess_internal.h,postprocess_internal.h,160,81,47,32,2,4733,0
+C,/libavcodec/libpostproc/postprocess_template.c,postprocess_template.c,3244,2574,366,304,174,98009,0
+C,/vhook/ppm.c,ppm.c,330,222,58,50,63,7971,0
+C,/libavformat/psxstr.c,psxstr.c,352,235,55,62,59,11083,0
+C,/libavcodec/sh4/qpel.c,qpel.c,1649,1545,64,40,45,68233,0
+C,/libavcodec/ra144.c,ra144.c,513,425,32,56,63,12738,0
+C Header,/libavcodec/ra144.h,ra144.h,2426,2386,19,21,0,137381,0
+C,/libavcodec/ra288.c,ra288.c,278,209,33,36,45,6853,0
+C Header,/libavcodec/ra288.h,ra288.h,203,177,18,8,0,13425,0
+C,/libavcodec/ratecontrol.c,ratecontrol.c,831,616,82,133,123,28213,0
+C,/libavformat/raw.c,raw.c,527,424,37,66,32,12242,0
+C,/libavcodec/raw.c,raw.c,176,122,25,29,13,5016,0
+C Header,/libavcodec/alpha/regdef.h,regdef.h,45,37,1,7,0,1262,0
+Shell,/tests/regression.sh,regression.sh,479,271,123,85,30,12459,0
+C,/libavcodec/liba52/resample.c,resample.c,43,30,3,10,5,1049,0
+C,/libavcodec/resample.c,resample.c,351,259,45,47,51,9195,0
+C,/libavcodec/liba52/resample_c.c,resample_c.c,183,168,1,14,26,4612,0
+C,/libavcodec/liba52/resample_mmx.c,resample_mmx.c,518,463,26,29,11,15406,0
+C,/postproc/rgb2rgb.c,rgb2rgb.c,600,498,62,40,22,19298,0
+C Header,/postproc/rgb2rgb.h,rgb2rgb.h,143,81,41,21,0,6676,0
+C,/postproc/rgb2rgb_template.c,rgb2rgb_template.c,2624,2404,86,134,78,67458,0
+C,/libavformat/rm.c,rm.c,855,710,70,75,104,26640,0
+C,/libavcodec/roqvideo.c,roqvideo.c,501,403,27,71,39,15356,0
+C,/tests/rotozoom.c,rotozoom.c,289,233,7,49,19,6565,0
+C,/libavcodec/rpza.c,rpza.c,311,211,54,46,29,9465,0
+C,/libavformat/rtp.c,rtp.c,702,547,83,72,68,18898,0
+C Header,/libavformat/rtp.h,rtp.h,40,16,18,6,0,1466,0
+C,/libavformat/rtpproto.c,rtpproto.c,300,212,56,32,36,8128,0
+C,/libavformat/rtsp.c,rtsp.c,1256,1041,94,121,307,35169,0
+C Header,/libavformat/rtsp.h,rtsp.h,90,57,20,13,0,2810,0
+C Header,/libavformat/rtspcodes.h,rtspcodes.h,11,11,0,0,0,617,0
+C,/libavcodec/rv10.c,rv10.c,541,433,43,65,71,16847,0
+C,/libavformat/segafilm.c,segafilm.c,323,237,41,45,60,10621,0
+Shell,/tests/server-regression.sh,server-regression.sh,50,40,6,4,6,1623,0
+C,/libavcodec/simple_idct.c,simple_idct.c,585,454,53,78,34,15947,0
+C Header,/libavcodec/simple_idct.h,simple_idct.h,36,9,23,4,0,1454,0
+C,/libavcodec/alpha/simple_idct_alpha.c,simple_idct_alpha.c,311,237,31,43,38,7811,0
+Assembly,/libavcodec/armv4l/simple_idct_arm.S,simple_idct_arm.S,485,413,27,45,24,20813,0
+C,/libavcodec/i386/simple_idct_mmx.c,simple_idct_mmx.c,1313,1160,80,73,1,53735,0
+C Header,/libavcodec/sp5x.h,sp5x.h,330,266,38,26,0,16583,0
+C,/libavcodec/svq1.c,svq1.c,842,631,66,145,135,23439,0
+C Header,/libavcodec/svq1_cb.h,svq1_cb.h,1512,1464,37,11,0,98790,0
+C Header,/libavcodec/svq1_vlc.h,svq1_vlc.h,283,263,12,8,0,15192,0
+C,/libavcodec/svq3.c,svq3.c,969,721,82,166,280,29640,0
+C,/libavformat/swf.c,swf.c,572,434,49,89,59,14505,0
+C,/postproc/swscale-example.c,swscale-example.c,216,154,29,33,24,5721,0
+C,/postproc/swscale.c,swscale.c,2489,1963,226,300,470,70854,0
+C Header,/postproc/swscale.h,swscale.h,129,76,29,24,0,4031,0
+C Header,/postproc/swscale_internal.h,swscale_internal.h,139,97,24,18,0,4583,0
+C,/postproc/swscale_template.c,swscale_template.c,2812,2536,91,185,166,85768,0
+C Header,/libavcodec/liba52/tables.h,tables.h,246,204,22,20,0,9549,0
+C,/libavformat/tcp.c,tcp.c,238,199,22,17,48,5669,0
+Perl,/doc/texi2pod.pl,texi2pod.pl,427,306,63,58,36,11039,0
+C,/tests/tiny_psnr.c,tiny_psnr.c,74,43,19,12,9,1974,0
+C,/libavformat/udp.c,udp.c,277,195,54,28,43,7531,0
+C,/libavformat/utils.c,utils.c,1732,1329,245,158,391,47133,0
+C,/libavcodec/utils.c,utils.c,701,544,58,99,100,17965,0
+C,/libavcodec/vcr1.c,vcr1.c,200,133,26,41,12,5098,0
+C,/tests/videogen.c,videogen.c,278,230,11,37,25,6762,0
+C,/libavcodec/vp3.c,vp3.c,3004,2049,440,515,363,98647,0
+C Header,/libavcodec/vp3data.h,vp3data.h,2812,2794,5,13,0,50363,0
+C,/libavcodec/vqavideo.c,vqavideo.c,618,398,108,112,79,19557,0
+C,/libavformat/wav.c,wav.c,346,264,41,41,79,9733,0
+C,/libavformat/wc3movie.c,wc3movie.c,411,302,53,56,39,13444,0
+C,/libavformat/westwood.c,westwood.c,412,281,65,66,42,12943,0
+C Header,/libavcodec/wmadata.h,wmadata.h,1412,1379,5,28,0,69877,0
+C,/libavcodec/wmadec.c,wmadec.c,1314,1060,131,123,283,42153,0
+C,/libavcodec/wmv2.c,wmv2.c,850,667,45,138,142,25220,0
+C,/libavcodec/xan.c,xan.c,820,607,73,140,70,22885,0
+C Header,/xvmc_render.h,xvmc_render.h,47,31,7,9,0,1761,0
+C,/libavcodec/xvmcvideo.c,xvmcvideo.c,286,180,57,49,50,9722,0
+C,/libavformat/yuv.c,yuv.c,158,115,20,23,22,3782,0
+C,/postproc/yuv2rgb.c,yuv2rgb.c,843,651,53,139,38,20921,0
+C,/postproc/yuv2rgb_mlib.c,yuv2rgb_mlib.c,88,51,23,14,10,2845,0
+C,/postproc/yuv2rgb_template.c,yuv2rgb_template.c,540,375,74,91,16,20401,0
+C,/libavformat/yuv4mpeg.c,yuv4mpeg.c,274,218,24,32,25,7252,0
