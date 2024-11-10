@@ -1,0 +1,523 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+HTML,/tests/templates/404.html,404.html,1,1,0,0,0,32,1
+HTML,/django/contrib/admin/templates/admin/404.html,404.html,12,7,0,5,0,268,8
+HTML,/django/contrib/admin/templates/admin/500.html,500.html,12,8,0,4,0,502,9
+HTML,/tests/templates/500.html,500.html,1,1,0,0,0,32,1
+JavaScript,/django/contrib/admin/media/js/admin/CollapsedFieldsets.js,CollapsedFieldsets.js,85,66,15,4,10,4120,69
+JavaScript,/django/contrib/admin/media/js/admin/DateTimeShortcuts.js,DateTimeShortcuts.js,241,166,56,19,16,12440,186
+License,/LICENSE,LICENSE,27,22,0,5,0,1534,24
+Plain Text,/django/utils/simplejson/LICENSE.txt,LICENSE.txt,20,17,0,3,0,1071,18
+Autoconf,/MANIFEST.in,MANIFEST.in,8,8,0,0,0,285,9
+Plain Text,/django/contrib/flatpages/README.TXT,README.TXT,8,5,0,3,0,252,6
+Plain Text,/django/contrib/redirects/README.TXT,README.TXT,8,5,0,3,0,258,6
+Plain Text,/extras/README.TXT,README.TXT,1,1,0,0,0,77,2
+JavaScript,/django/contrib/admin/media/js/admin/RelatedObjectLookups.js,RelatedObjectLookups.js,57,50,3,4,13,1948,41
+JavaScript,/django/contrib/admin/media/js/SelectBox.js,SelectBox.js,109,104,5,0,21,3973,76
+JavaScript,/django/contrib/admin/media/js/SelectFilter.js,SelectFilter.js,81,64,15,2,29,3906,68
+JavaScript,/django/contrib/admin/media/js/SelectFilter2.js,SelectFilter2.js,113,85,19,9,30,6279,91
+Python,/tests/regressiontests/many_to_one_regress/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/urlpatterns_reverse/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/comments/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/views/decorators/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/comments/templatetags/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/field_defaults/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/utils/simplejson/__init__.py,__init__.py,221,199,14,8,3,8307,142
+Python,/django/views/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/invalid_models/__init__.py,__init__.py,1,0,0,1,0,1,1
+Python,/tests/modeltests/pagination/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/comments/urls/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/db/models/fields/__init__.py,__init__.py,813,712,74,27,37,34956,519
+Python,/django/newforms/__init__.py,__init__.py,28,12,12,4,0,731,21
+Python,/django/db/models/__init__.py,__init__.py,53,41,9,3,0,2028,44
+Python,/tests/modeltests/get_or_create/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/m2m_intermediary/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/utils/translation/__init__.py,__init__.py,8,6,0,2,2,134,7
+Python,/tests/modeltests/m2m_and_m2o/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/markup/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/utils/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/db/backends/postgresql_psycopg2/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/comments/views/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/mutually_referential/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/bin/profiling/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/db/backends/dummy/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/initial_sql_regress/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/db/backends/oracle/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/empty/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/middleware/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/test_client/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/validation/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/syndication/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/many_to_many/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/m2o_recursive2/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/bin/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/auth/__init__.py,__init__.py,77,57,15,5,9,2475,58
+Python,/tests/modeltests/many_to_one/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/db/backends/postgresql/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/one_to_one_regress/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/many_to_one_null/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/db/backends/ado_mssql/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/m2o_recursive/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/http/__init__.py,__init__.py,304,243,10,51,41,10435,231
+Python,/django/test/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/template/loaders/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/template/__init__.py,__init__.py,903,879,21,3,5,32949,676
+Python,/django/db/__init__.py,__init__.py,48,32,8,8,10,2258,41
+Python,/django/contrib/contenttypes/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/humanize/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/sitemaps/__init__.py,__init__.py,90,83,3,4,2,3124,70
+Python,/django/contrib/sessions/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/forms/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/custom_columns/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/cache/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/core/serializers/__init__.py,__init__.py,78,49,24,5,3,2450,58
+Python,/tests/modeltests/manipulators/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/redirects/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/db/backends/mysql/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/templatetags/__init__.py,__init__.py,7,6,0,1,3,194,7
+Python,/django/contrib/auth/handlers/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/db/backends/sqlite3/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/m2m_multiple/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/admin/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/custom_methods/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/forms/__init__.py,__init__.py,1008,926,69,13,20,42484,623
+Python,/tests/modeltests/custom_managers/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/or_lookups/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/sites/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/views/generic/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/dispatch/__init__.py,__init__.py,6,3,2,1,0,171,6
+Python,/tests/modeltests/serializers/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/admin/templatetags/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/str/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/m2m_recursive/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/one_to_one/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/transactions/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/httpwrappers/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/reserved_names/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/conf/__init__.py,__init__.py,146,87,40,19,17,5694,110
+Python,/examples/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/null_queries/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/model_inheritance/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/custom_pk/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/dateformat/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/core/cache/__init__.py,__init__.py,54,38,10,6,6,1888,44
+Python,/tests/regressiontests/templates/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/string_lookup/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/get_latest/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/reverse_lookup/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/core/cache/backends/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/db/backends/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/shortcuts/__init__.py,__init__.py,23,15,3,5,3,791,18
+Python,/django/contrib/markup/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/defaultfilters/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/generic_relations/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/choices/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/admin/views/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/conf/urls/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/ordering/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/humanize/templatetags/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/properties/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/examples/hello/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/save_delete_hooks/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/__init__.py,__init__.py,1,1,0,0,0,25,2
+Python,/tests/modeltests/lookup/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/markup/templatetags/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/core/handlers/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/flatpages/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/db_typecasts/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/core/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/conf/project_template/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/basic/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/conf/app_template/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/core/servers/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/contrib/csrf/__init__.py,__init__.py,0,0,0,0,0,0,0
+Python,/django/utils/_threading_local.py,_threading_local.py,240,191,16,33,21,6653,156
+HTML,/django/contrib/admin/templates/admin/auth/user/add_form.html,add_form.html,28,21,0,7,0,900,18
+Plain Text,/docs/add_ons.txt,add_ons.txt,180,112,0,68,0,4437,99
+Plain Text,/docs/admin_css.txt,admin_css.txt,173,134,0,39,0,5816,129
+Python,/django/contrib/admin/templatetags/admin_list.py,admin_list.py,262,223,19,20,78,11753,208
+Python,/django/contrib/admin/templatetags/admin_modify.py,admin_modify.py,245,197,11,37,60,10019,186
+Python,/django/conf/urls/admin_password_reset.py,admin_password_reset.py,6,5,0,1,0,226,6
+Python,/django/contrib/admin/templatetags/adminapplist.py,adminapplist.py,79,51,17,11,11,3018,65
+Python,/django/contrib/admin/templatetags/adminmedia.py,adminmedia.py,14,9,3,2,2,361,12
+Plain Text,/docs/apache_auth.txt,apache_auth.txt,71,53,0,18,0,3253,50
+Plain Text,/docs/api_stability.txt,api_stability.txt,123,86,0,37,0,4949,88
+Python,/django/template/loaders/app_directories.py,app_directories.py,41,33,3,5,12,1456,37
+Python,/django/contrib/admin/views/auth.py,auth.py,44,43,0,1,6,1973,44
+Plain Text,/docs/authentication.txt,authentication.txt,873,639,0,234,0,33418,583
+Python,/django/utils/autoreload.py,autoreload.py,94,55,31,8,24,3733,79
+Python,/django/contrib/auth/backends.py,backends.py,21,14,5,2,5,647,16
+CSS,/django/contrib/admin/media/css/base.css,base.css,14,4,7,3,0,257,12
+HTML,/django/contrib/admin/templates/admin/base.html,base.html,52,39,6,7,0,2424,44
+Python,/django/db/backends/oracle/base.py,base.py,133,96,13,24,15,4293,105
+Python,/django/db/backends/dummy/base.py,base.py,41,26,8,7,0,988,32
+Python,/django/db/models/base.py,base.py,413,301,54,58,105,19115,329
+Python,/django/db/backends/ado_mssql/base.py,base.py,150,112,15,23,28,5113,121
+Python,/django/core/handlers/base.py,base.py,124,98,14,12,34,5859,102
+Python,/django/db/backends/sqlite3/base.py,base.py,179,135,17,27,28,6000,142
+Python,/django/db/backends/mysql/base.py,base.py,197,153,16,28,36,6460,160
+Python,/django/db/backends/postgresql_psycopg2/base.py,base.py,121,90,11,20,17,3954,98
+Python,/django/core/serializers/base.py,base.py,169,145,16,8,14,5081,107
+Python,/django/core/cache/backends/base.py,base.py,56,27,21,8,4,1675,37
+Python,/django/db/backends/postgresql/base.py,base.py,139,102,14,23,19,4906,112
+HTML,/django/contrib/admin/templates/admin/base_site.html,base_site.html,10,7,0,3,0,268,8
+Python,/django/core/servers/basehttp.py,basehttp.py,642,567,53,22,35,23600,473
+HTML,/django/contrib/admin/templates/admin_doc/bookmarklets.html,bookmarklets.html,32,24,0,8,0,3843,25
+Python,/django/views/decorators/cache.py,cache.py,42,38,2,2,1,1438,31
+Python,/django/middleware/cache.py,cache.py,84,55,23,6,8,4058,64
+Python,/django/utils/cache.py,cache.py,166,101,52,13,23,6745,124
+Plain Text,/docs/cache.txt,cache.txt,543,399,0,144,0,21919,377
+JavaScript,/django/contrib/admin/media/js/calendar.js,calendar.js,143,118,15,10,38,4907,102
+HTML,/django/contrib/admin/templates/admin/change_form.html,change_form.html,68,68,0,0,0,3522,64
+HTML,/django/contrib/admin/templates/admin/change_list.html,change_list.html,21,21,0,0,0,1324,21
+HTML,/django/contrib/admin/templates/admin/change_list_results.html,change_list_results.html,17,17,0,0,0,445,18
+CSS,/django/contrib/admin/media/css/changelists.css,changelists.css,50,38,6,6,0,3231,45
+Python,/django/db/backends/sqlite3/client.py,client.py,6,5,0,1,0,131,6
+Python,/django/db/backends/ado_mssql/client.py,client.py,2,2,0,0,0,46,3
+Python,/django/db/backends/dummy/client.py,client.py,3,2,0,1,0,72,3
+Python,/django/db/backends/postgresql/client.py,client.py,15,14,0,1,4,452,15
+Python,/django/test/client.py,client.py,216,128,59,29,17,7556,158
+Python,/django/db/backends/oracle/client.py,client.py,10,9,0,1,1,269,10
+Python,/django/db/backends/postgresql_psycopg2/client.py,client.py,1,1,0,0,0,51,2
+Python,/django/db/backends/mysql/client.py,client.py,14,13,0,1,3,463,14
+Python,/django/contrib/comments/urls/comments.py,comments.py,12,11,0,1,0,573,12
+Python,/django/contrib/comments/views/comments.py,comments.py,340,263,65,12,73,16807,252
+Python,/django/contrib/comments/templatetags/comments.py,comments.py,322,271,30,21,66,16409,208
+Python,/django/middleware/common.py,common.py,96,72,14,10,33,4505,80
+Python,/django/bin/compile-messages.py,compile-messages.py,36,25,6,5,9,1499,32
+Python,/django/template/context.py,context.py,97,76,6,15,18,3237,75
+Python,/django/core/context_processors.py,context_processors.py,69,56,11,2,0,2145,51
+Plain Text,/docs/contributing.txt,contributing.txt,464,337,0,127,0,20123,332
+JavaScript,/django/contrib/admin/media/js/core.js,core.js,164,111,36,17,29,5164,106
+Python,/django/contrib/auth/create_superuser.py,create_superuser.py,91,73,13,5,28,3112,76
+Python,/django/views/generic/create_update.py,create_update.py,200,141,41,18,52,8329,124
+Python,/django/db/backends/postgresql/creation.py,creation.py,30,26,4,0,0,1361,31
+Python,/django/db/backends/mysql/creation.py,creation.py,30,26,4,0,0,1324,31
+Python,/django/db/backends/ado_mssql/creation.py,creation.py,26,26,0,0,0,1130,27
+Python,/django/db/backends/postgresql_psycopg2/creation.py,creation.py,1,1,0,0,0,53,2
+Python,/django/db/backends/oracle/creation.py,creation.py,26,26,0,0,0,998,27
+Python,/django/db/backends/dummy/creation.py,creation.py,1,1,0,0,0,16,2
+Python,/django/db/backends/sqlite3/creation.py,creation.py,29,26,3,0,0,1444,30
+Plain Text,/docs/csrf.txt,csrf.txt,68,53,0,15,0,3050,53
+Python,/django/utils/daemonize.py,daemonize.py,55,42,10,3,9,1742,44
+Python,/django/bin/daily_cleanup.py,daily_cleanup.py,18,8,7,3,1,496,14
+CSS,/django/contrib/admin/media/css/dashboard.css,dashboard.css,10,6,2,2,0,321,9
+Python,/django/utils/datastructures.py,datastructures.py,244,215,12,17,22,7797,172
+Python,/django/views/generic/date_based.py,date_based.py,344,236,81,27,84,13252,179
+HTML,/django/contrib/admin/templates/admin/date_hierarchy.html,date_hierarchy.html,10,10,0,0,0,386,11
+HTML,/django/contrib/admin/templates/widget/date_time.html,date_time.html,5,5,0,0,0,159,6
+Python,/django/utils/dateformat.py,dateformat.py,257,244,13,0,3,7889,204
+JavaScript,/django/contrib/admin/media/js/dateparse.js,dateparse.js,233,195,31,7,22,7172,139
+Python,/django/utils/dates.py,dates.py,29,27,0,2,0,1081,23
+Plain Text,/docs/db-api.txt,db-api.txt,1725,1183,0,542,0,60270,1074
+Python,/django/core/cache/backends/db.py,db.py,82,74,1,7,18,3522,66
+Python,/django/views/debug.py,debug.py,661,628,15,18,32,23633,468
+Python,/django/utils/simplejson/decoder.py,decoder.py,271,189,58,24,45,8771,202
+Python,/django/contrib/auth/decorators.py,decorators.py,36,18,13,5,1,1373,27
+Python,/django/utils/decorators.py,decorators.py,33,28,4,1,10,1493,28
+Python,/django/contrib/admin/views/decorators.py,decorators.py,108,81,16,11,25,5131,94
+HTML,/django/contrib/admin/templates/widget/default.html,default.html,1,1,0,0,0,64,2
+Python,/django/template/defaultfilters.py,defaultfilters.py,526,466,44,16,11,15205,369
+Python,/django/views/defaults.py,defaults.py,89,61,18,10,22,3296,70
+Python,/django/conf/urls/defaults.py,defaults.py,19,15,0,4,5,744,16
+Python,/django/template/defaulttags.py,defaulttags.py,895,708,107,80,122,31337,616
+HTML,/django/contrib/admin/templates/admin/delete_confirmation.html,delete_confirmation.html,30,30,0,0,0,1486,30
+Plain Text,/docs/design_philosophies.txt,design_philosophies.txt,281,194,0,87,0,9252,183
+Python,/django/dispatch/dispatcher.py,dispatcher.py,497,445,33,19,8,16993,361
+Python,/django/bin/django-admin.py,django-admin.py,5,3,1,1,1,128,5
+Plain Text,/docs/django-admin.txt,django-admin.txt,422,289,0,133,0,14329,271
+Python,/django/middleware/doc.py,doc.py,18,8,9,1,4,898,16
+Python,/django/contrib/admin/views/doc.py,doc.py,365,300,28,37,78,15030,273
+Python,/django/test/doctest.py,doctest.py,2669,1886,586,197,251,99628,1887
+Plain Text,/docs/documentation.txt,documentation.txt,148,113,0,35,0,6918,112
+Python,/django/core/cache/backends/dummy.py,dummy.py,22,15,0,7,0,431,12
+HTML,/django/contrib/admin/templates/admin/edit_inline_stacked.html,edit_inline_stacked.html,16,16,0,0,0,715,17
+HTML,/django/contrib/admin/templates/admin/edit_inline_tabular.html,edit_inline_tabular.html,44,42,0,2,0,1714,35
+Python,/django/template/loaders/eggs.py,eggs.py,25,16,6,3,5,870,21
+Plain Text,/docs/email.txt,email.txt,176,127,0,49,0,6763,127
+Python,/django/utils/simplejson/encoder.py,encoder.py,289,176,98,15,61,9786,221
+Python,/django/dispatch/errors.py,errors.py,10,3,5,2,0,372,9
+Python,/django/core/exceptions.py,exceptions.py,25,19,0,6,0,614,16
+Plain Text,/docs/faq.txt,faq.txt,669,477,0,192,0,30298,464
+Python,/django/core/servers/fastcgi.py,fastcgi.py,156,130,10,16,28,5447,122
+Plain Text,/docs/fastcgi.txt,fastcgi.txt,306,227,0,79,0,11675,218
+Python,/django/utils/feedgenerator.py,feedgenerator.py,263,233,20,10,3,10807,190
+Python,/django/contrib/comments/feeds.py,feeds.py,41,31,1,9,4,1462,28
+Python,/django/contrib/syndication/feeds.py,feeds.py,120,101,8,11,24,5157,102
+HTML,/django/contrib/admin/templates/admin/field_line.html,field_line.html,10,10,0,0,0,496,11
+Python,/django/newforms/fields.py,fields.py,283,221,32,30,44,10597,186
+HTML,/django/contrib/admin/templates/widget/file.html,file.html,4,4,0,0,0,309,5
+Python,/django/core/cache/backends/filebased.py,filebased.py,80,71,0,9,24,2407,61
+Python,/django/template/loaders/filesystem.py,filesystem.py,25,21,1,3,7,907,23
+HTML,/django/contrib/admin/templates/admin/filter.html,filter.html,8,8,0,0,0,308,9
+HTML,/django/contrib/admin/templates/admin/filters.html,filters.html,7,7,0,0,0,208,8
+Python,/django/contrib/admin/filterspecs.py,filterspecs.py,175,138,5,32,20,7357,114
+Plain Text,/docs/flatpages.txt,flatpages.txt,115,84,0,31,0,4468,83
+HTML,/django/contrib/admin/templates/widget/foreign.html,foreign.html,20,20,0,0,0,1542,19
+HTML,/django/contrib/comments/templates/comments/form.html,form.html,38,33,0,5,0,1977,31
+CSS,/django/contrib/admin/media/css/forms.css,forms.css,60,42,9,9,0,2899,52
+Python,/django/newforms/forms.py,forms.py,185,134,26,25,36,6964,131
+Python,/django/contrib/auth/forms.py,forms.py,128,104,10,14,12,5915,105
+Plain Text,/docs/forms.txt,forms.txt,658,512,0,146,0,26618,463
+HTML,/django/contrib/comments/templates/comments/freeform.html,freeform.html,13,13,0,0,0,639,14
+Python,/django/utils/functional.py,functional.py,54,28,20,6,3,2249,46
+Python,/django/bin/profiling/gather_profile_stats.py,gather_profile_stats.py,34,25,6,3,8,960,30
+Python,/django/db/models/fields/generic.py,generic.py,259,198,23,38,15,10229,200
+Plain Text,/docs/generic_views.txt,generic_views.txt,1071,736,0,335,0,44376,356
+JavaScript,/django/contrib/admin/media/js/getElementsBySelector.js,getElementsBySelector.js,167,138,27,2,17,6396,117
+CSS,/django/contrib/admin/media/css/global.css,global.css,141,109,14,18,0,8976,124
+Python,/django/conf/global_settings.py,global_settings.py,317,119,134,64,0,11330,236
+Python,/django/middleware/gzip.py,gzip.py,29,17,7,5,3,1131,24
+Python,/django/views/decorators/gzip.py,gzip.py,6,4,0,2,0,234,5
+Python,/django/core/handler.py,handler.py,11,3,6,2,0,289,9
+Python,/django/utils/html.py,html.py,115,92,9,14,5,5538,98
+Python,/django/middleware/http.py,http.py,61,41,14,6,6,2543,47
+Python,/django/views/decorators/http.py,http.py,34,23,6,5,1,1216,26
+Python,/django/contrib/humanize/templatetags/humanize.py,humanize.py,64,61,1,2,0,1929,47
+Python,/django/conf/urls/i18n.py,i18n.py,5,4,0,1,0,125,5
+Python,/django/templatetags/i18n.py,i18n.py,246,207,25,14,13,8474,168
+Python,/django/views/i18n.py,i18n.py,172,148,16,8,31,6022,133
+Plain Text,/docs/i18n.txt,i18n.txt,754,557,0,197,0,31941,535
+Python,/django/utils/images.py,images.py,22,14,6,2,3,458,18
+HTML,/django/contrib/admin/templates/admin/index.html,index.html,67,61,0,6,0,2590,52
+HTML,/django/contrib/admin/templates/admin_doc/index.html,index.html,28,20,0,8,0,1271,22
+Plain Text,/docs/install.txt,install.txt,130,95,0,35,0,5235,95
+Python,/django/db/backends/postgresql/introspection.py,introspection.py,83,71,8,4,4,3222,72
+Python,/django/db/backends/sqlite3/introspection.py,introspection.py,87,72,9,6,5,3296,78
+Python,/django/db/backends/ado_mssql/introspection.py,introspection.py,13,9,0,4,0,299,7
+Python,/django/db/backends/dummy/introspection.py,introspection.py,8,6,0,2,0,184,7
+Python,/django/db/backends/oracle/introspection.py,introspection.py,50,33,11,6,2,1589,38
+Python,/django/db/backends/mysql/introspection.py,introspection.py,95,73,14,8,10,3787,82
+Python,/django/db/backends/postgresql_psycopg2/introspection.py,introspection.py,83,71,8,4,4,3231,72
+HTML,/django/contrib/admin/templates/admin/invalid_setup.html,invalid_setup.html,10,6,0,4,0,425,7
+Python,/django/utils/itercompat.py,itercompat.py,31,17,11,3,5,920,27
+Python,/django/core/serializers/json.py,json.py,51,32,12,7,9,1578,41
+Python,/django/contrib/comments/views/karma.py,karma.py,29,19,9,1,5,1140,27
+CSS,/django/contrib/admin/media/css/layout.css,layout.css,29,22,4,3,0,1366,27
+Plain Text,/docs/legacy_databases.txt,legacy_databases.txt,71,51,0,20,0,2783,50
+Plain Text,/django/dispatch/license.txt,license.txt,34,27,0,7,0,1684,29
+Python,/django/views/generic/list_detail.py,list_detail.py,123,87,34,2,28,4504,103
+Python,/django/template/loader.py,loader.py,118,68,39,11,21,4955,92
+Python,/django/template/loader_tags.py,loader_tags.py,177,139,20,18,35,6983,136
+Python,/django/db/models/loading.py,loading.py,116,78,27,11,22,4520,94
+Python,/django/middleware/locale.py,locale.py,24,13,7,4,0,927,20
+Python,/django/core/cache/backends/locmem.py,locmem.py,47,42,0,5,12,1423,36
+Python,/django/contrib/admin/templatetags/log.py,log.py,53,29,17,7,9,2081,41
+HTML,/django/contrib/admin/templates/registration/logged_out.html,logged_out.html,12,7,0,5,0,334,8
+CSS,/django/contrib/admin/media/css/login.css,login.css,13,11,1,1,0,697,13
+HTML,/tests/templates/login.html,login.html,19,17,0,2,0,514,18
+HTML,/django/contrib/admin/templates/admin/login.html,login.html,33,29,0,4,0,1239,27
+Python,/django/core/mail.py,mail.py,83,59,17,7,10,3417,66
+Python,/django/contrib/admin/views/main.py,main.py,769,678,53,38,109,35868,586
+Python,/django/bin/make-messages.py,make-messages.py,145,125,2,18,44,6109,112
+Python,/django/conf/project_template/manage.py,manage.py,11,9,1,1,3,546,11
+Python,/examples/manage.py,manage.py,11,9,1,1,3,463,11
+Python,/django/core/management.py,management.py,1447,1187,116,144,333,68228,1101
+Python,/django/contrib/auth/management.py,management.py,49,40,3,6,11,2149,43
+Python,/tests/modeltests/test_client/management.py,management.py,10,7,1,2,0,420,9
+Python,/django/contrib/sites/management.py,management.py,17,11,3,3,2,546,14
+Python,/django/contrib/contenttypes/management.py,management.py,25,19,3,3,5,892,22
+Python,/django/db/models/manager.py,manager.py,111,70,14,27,6,3982,85
+Python,/django/contrib/sites/managers.py,managers.py,20,18,0,2,3,928,19
+Python,/django/db/models/manipulators.py,manipulators.py,333,241,54,38,123,17321,281
+HTML,/django/contrib/admin/templates/widget/many_to_many.html,many_to_many.html,1,1,0,0,0,36,2
+Python,/django/contrib/markup/templatetags/markup.py,markup.py,56,49,1,6,12,1957,36
+Python,/django/core/cache/backends/memcached.py,memcached.py,29,22,0,7,5,823,23
+Python,/django/contrib/redirects/middleware.py,middleware.py,27,23,2,2,9,1096,26
+Python,/django/contrib/flatpages/middleware.py,middleware.py,18,15,2,1,4,705,17
+Python,/django/contrib/sessions/middleware.py,middleware.py,93,72,5,16,15,3476,74
+Python,/django/contrib/csrf/middleware.py,middleware.py,92,51,35,6,0,3531,72
+Python,/django/contrib/auth/middleware.py,middleware.py,12,11,0,1,1,638,12
+Plain Text,/docs/middleware.txt,middleware.txt,230,166,0,64,0,9617,163
+HTML,/django/contrib/admin/templates/admin_doc/missing_docutils.html,missing_docutils.html,17,12,0,5,0,679,13
+Plain Text,/docs/model-api.txt,model-api.txt,1851,1318,0,533,0,70064,1173
+HTML,/django/contrib/admin/templates/admin_doc/model_detail.html,model_detail.html,47,41,0,6,0,1346,38
+HTML,/django/contrib/admin/templates/admin_doc/model_index.html,model_index.html,45,37,0,8,0,1235,29
+Python,/tests/modeltests/transactions/models.py,models.py,99,84,8,7,2,3279,67
+Python,/django/contrib/comments/models.py,models.py,285,228,27,30,18,12422,196
+Python,/tests/modeltests/or_lookups/models.py,models.py,104,87,12,5,0,3800,64
+Python,/tests/modeltests/validation/models.py,models.py,149,129,20,0,1,3189,71
+Python,/tests/regressiontests/forms/models.py,models.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/many_to_one_null/models.py,models.py,124,111,6,7,0,3102,83
+Python,/tests/modeltests/pagination/models.py,models.py,80,69,7,4,0,2132,55
+Python,/django/contrib/sessions/models.py,models.py,71,52,14,5,7,3104,64
+Python,/tests/regressiontests/string_lookup/models.py,models.py,69,58,0,11,0,1495,43
+Python,/tests/modeltests/m2o_recursive/models.py,models.py,40,36,4,0,0,988,31
+Python,/tests/modeltests/choices/models.py,models.py,39,38,1,0,0,906,32
+Python,/tests/modeltests/properties/models.py,models.py,40,28,5,7,0,1027,30
+Python,/tests/modeltests/invalid_models/models.py,models.py,182,145,10,27,0,16901,139
+Python,/tests/modeltests/reverse_lookup/models.py,models.py,59,46,5,8,0,1808,45
+Python,/django/conf/app_template/models.py,models.py,3,1,1,1,0,57,3
+Python,/tests/modeltests/lookup/models.py,models.py,194,185,5,4,0,7744,145
+Python,/tests/regressiontests/defaultfilters/models.py,models.py,0,0,0,0,0,0,0
+Python,/django/contrib/contenttypes/models.py,models.py,44,29,10,5,1,1766,37
+Python,/django/contrib/auth/models.py,models.py,315,273,28,14,23,14303,228
+Python,/tests/regressiontests/httpwrappers/models.py,models.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/custom_columns/models.py,models.py,53,49,4,0,0,1298,37
+Python,/tests/modeltests/ordering/models.py,models.py,67,48,18,1,0,2442,54
+Python,/tests/regressiontests/cache/models.py,models.py,0,0,0,0,0,0,0
+Python,/tests/regressiontests/templates/models.py,models.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/many_to_many/models.py,models.py,234,218,8,8,0,8470,127
+Python,/tests/modeltests/custom_managers/models.py,models.py,107,80,13,14,0,3433,79
+Python,/tests/modeltests/m2m_and_m2o/models.py,models.py,65,53,5,7,0,1630,48
+Python,/tests/regressiontests/db_typecasts/models.py,models.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/many_to_one/models.py,models.py,266,254,5,7,0,9157,155
+Python,/tests/modeltests/custom_pk/models.py,models.py,95,86,3,6,0,2992,64
+Python,/tests/modeltests/basic/models.py,models.py,358,344,5,9,4,12181,226
+Python,/tests/modeltests/test_client/models.py,models.py,101,54,29,18,0,3929,72
+Python,/tests/regressiontests/markup/models.py,models.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/m2m_intermediary/models.py,models.py,68,43,22,3,1,1958,52
+Python,/django/contrib/sites/models.py,models.py,23,20,0,3,0,719,21
+Python,/tests/modeltests/field_defaults/models.py,models.py,51,37,10,4,0,1256,38
+Python,/tests/regressiontests/urlpatterns_reverse/models.py,models.py,0,0,0,0,0,0,0
+Python,/django/contrib/redirects/models.py,models.py,24,20,0,4,0,1006,21
+Python,/django/contrib/flatpages/models.py,models.py,33,30,0,3,0,1600,31
+Python,/tests/modeltests/save_delete_hooks/models.py,models.py,42,30,6,6,0,936,31
+Python,/tests/modeltests/str/models.py,models.py,31,17,14,0,2,841,24
+Python,/django/contrib/admin/models.py,models.py,51,38,4,9,0,1951,42
+Python,/tests/modeltests/m2m_recursive/models.py,models.py,192,117,42,33,0,4136,87
+Python,/tests/regressiontests/null_queries/models.py,models.py,54,49,0,5,0,1505,36
+Python,/tests/modeltests/m2m_multiple/models.py,models.py,79,70,3,6,0,2095,57
+Python,/tests/modeltests/reserved_names/models.py,models.py,56,39,17,0,0,1577,46
+Python,/tests/regressiontests/dateformat/models.py,models.py,0,0,0,0,0,0,0
+Python,/tests/modeltests/empty/models.py,models.py,26,17,6,3,0,393,21
+Python,/tests/modeltests/mutually_referential/models.py,models.py,32,23,5,4,0,664,22
+Python,/tests/modeltests/manipulators/models.py,models.py,91,80,5,6,0,2923,62
+Python,/tests/modeltests/model_inheritance/models.py,models.py,53,29,18,6,2,1574,36
+Python,/tests/modeltests/custom_methods/models.py,models.py,58,40,11,7,1,1818,46
+Python,/tests/regressiontests/one_to_one_regress/models.py,models.py,37,30,0,7,0,1105,29
+Python,/tests/modeltests/m2o_recursive2/models.py,models.py,43,31,8,4,0,1235,33
+Python,/tests/modeltests/generic_relations/models.py,models.py,108,81,12,15,0,3413,79
+Python,/tests/modeltests/get_or_create/models.py,models.py,52,31,18,3,1,1554,32
+Python,/tests/modeltests/one_to_one/models.py,models.py,168,151,7,10,0,5605,104
+Python,/tests/modeltests/serializers/models.py,models.py,121,106,4,11,0,3885,84
+Python,/tests/regressiontests/many_to_one_regress/models.py,models.py,13,6,3,4,0,392,10
+Python,/tests/regressiontests/initial_sql_regress/models.py,models.py,13,4,5,4,0,337,9
+Python,/tests/modeltests/get_latest/models.py,models.py,79,64,13,2,0,2633,59
+Python,/django/core/handlers/modpython.py,modpython.py,177,137,13,27,29,6640,139
+Python,/django/contrib/auth/handlers/modpython.py,modpython.py,52,39,7,6,13,1760,45
+Plain Text,/docs/modpython.txt,modpython.txt,244,184,0,60,0,9590,165
+HTML,/django/contrib/admin/templates/admin/object_history.html,object_history.html,43,34,0,9,0,1505,31
+HTML,/django/contrib/admin/templates/widget/one_to_one.html,one_to_one.html,2,2,0,0,0,217,3
+Python,/django/db/models/options.py,options.py,273,232,19,22,44,11467,222
+JavaScript,/django/contrib/admin/media/js/admin/ordering.js,ordering.js,137,114,12,11,20,3826,103
+Plain Text,/docs/outputting_csv.txt,outputting_csv.txt,119,86,0,33,0,4879,80
+Plain Text,/docs/outputting_pdf.txt,outputting_pdf.txt,153,111,0,42,0,5958,98
+Plain Text,/docs/overview.txt,overview.txt,301,229,0,72,0,11291,212
+HTML,/django/contrib/admin/templates/admin/pagination.html,pagination.html,11,11,0,0,0,446,12
+Python,/django/core/paginator.py,paginator.py,88,53,25,10,11,3254,70
+HTML,/django/contrib/admin/templates/registration/password_change_done.html,password_change_done.html,14,9,0,5,0,582,10
+HTML,/django/contrib/admin/templates/registration/password_change_form.html,password_change_form.html,26,18,0,8,0,1386,19
+HTML,/django/contrib/admin/templates/registration/password_reset_done.html,password_reset_done.html,14,8,0,6,0,481,9
+HTML,/django/contrib/admin/templates/registration/password_reset_email.html,password_reset_email.html,15,9,0,6,0,541,10
+HTML,/django/contrib/admin/templates/registration/password_reset_form.html,password_reset_form.html,19,12,0,7,0,733,13
+CSS,/django/contrib/admin/media/css/patch-iewin.css,patch-iewin.css,8,8,0,0,0,793,8
+Python,/django/core/handlers/profiler-hotshot.py,profiler-hotshot.py,22,14,6,2,0,934,18
+Python,/django/core/serializers/python.py,python.py,101,77,13,11,3,3594,81
+Python,/django/db/models/query.py,query.py,969,726,142,101,204,40940,730
+Plain Text,/docs/redirects.txt,redirects.txt,71,52,0,19,0,2823,51
+Python,/django/conf/urls/registration.py,registration.py,19,15,0,4,0,986,16
+Python,/django/db/models/fields/related.py,related.py,761,580,84,97,131,34361,495
+Python,/django/db/models/related.py,related.py,139,107,15,17,38,5835,106
+Plain Text,/docs/release_notes_0.95.txt,release_notes_0.95.txt,126,94,0,32,0,5887,94
+Plain Text,/docs/request_response.txt,request_response.txt,434,325,0,109,0,16306,316
+Python,/django/dispatch/robust.py,robust.py,57,22,34,1,4,2092,49
+Python,/django/dispatch/robustapply.py,robustapply.py,47,31,14,2,7,1912,42
+CSS,/django/contrib/admin/media/css/rtl.css,rtl.css,46,28,7,11,0,1974,36
+Python,/tests/runtests.py,runtests.py,138,106,10,22,29,5501,113
+Python,/django/dispatch/saferef.py,saferef.py,165,138,20,7,18,7109,150
+Python,/django/utils/simplejson/scanner.py,scanner.py,62,48,8,6,12,1976,55
+HTML,/django/contrib/admin/templates/admin/search_form.html,search_form.html,18,18,0,0,0,1071,18
+Plain Text,/docs/serialization.txt,serialization.txt,117,80,0,37,0,4213,78
+Plain Text,/docs/sessions.txt,sessions.txt,298,211,0,87,0,10560,202
+Python,/examples/settings.py,settings.py,5,3,1,1,0,111,5
+Python,/django/conf/project_template/settings.py,settings.py,77,38,22,17,0,2596,57
+Plain Text,/docs/settings.txt,settings.txt,969,648,0,321,0,29683,549
+Python,/setup.py,setup.py,34,25,6,3,7,1354,32
+Python,/django/conf/urls/shortcut.py,shortcut.py,5,4,0,1,0,160,5
+Python,/django/core/signals.py,signals.py,3,3,0,0,0,88,4
+Python,/django/test/signals.py,signals.py,1,1,0,0,0,28,1
+Python,/django/db/models/signals.py,signals.py,12,8,0,4,0,179,9
+Python,/django/core/cache/backends/simple.py,simple.py,64,55,0,9,18,1857,46
+Python,/django/test/simple.py,simple.py,85,61,16,8,9,3216,73
+Python,/django/views/generic/simple.py,simple.py,35,15,17,3,3,1325,28
+SQL,/tests/regressiontests/initial_sql_regress/sql/simple.sql,simple.sql,8,7,0,1,0,496,8
+XML,/django/contrib/sitemaps/templates/sitemap.xml,sitemap.xml,13,13,0,0,0,486,14
+XML,/django/contrib/sitemaps/templates/sitemap_index.xml,sitemap_index.xml,4,4,0,0,0,221,5
+Plain Text,/docs/sitemaps.txt,sitemaps.txt,321,232,0,89,0,11821,220
+Plain Text,/docs/sites.txt,sites.txt,322,243,0,79,0,13445,205
+Python,/django/views/static.py,static.py,125,105,15,5,12,4521,108
+Plain Text,/docs/static_files.txt,static_files.txt,125,90,0,35,0,4748,90
+Python,/django/utils/stopwords.py,stopwords.py,42,35,4,3,2,592,40
+HTML,/django/contrib/admin/templates/admin/submit_line.html,submit_line.html,8,8,0,0,0,721,9
+Python,/django/utils/synch.py,synch.py,88,62,19,7,22,2594,61
+Plain Text,/docs/syndication_feeds.txt,syndication_feeds.txt,734,546,0,188,0,27724,424
+Python,/django/contrib/admin/views/template.py,template.py,72,56,11,5,10,3094,65
+HTML,/django/contrib/admin/templates/admin_doc/template_detail.html,template_detail.html,22,18,0,4,0,1026,19
+HTML,/django/contrib/admin/templates/admin_doc/template_filter_index.html,template_filter_index.html,48,39,0,9,0,1745,29
+Python,/django/core/template_loader.py,template_loader.py,7,1,5,1,0,165,6
+HTML,/django/contrib/admin/templates/admin_doc/template_tag_index.html,template_tag_index.html,48,39,0,9,0,1684,29
+HTML,/django/contrib/admin/templates/admin/template_validator.html,template_validator.html,31,23,0,8,0,914,21
+Plain Text,/docs/templates.txt,templates.txt,1212,857,0,355,0,38188,738
+Plain Text,/docs/templates_python.txt,templates_python.txt,1119,833,0,286,0,45124,779
+Python,/django/utils/termcolors.py,termcolors.py,68,59,6,3,2,2133,55
+Python,/django/test/testcases.py,testcases.py,30,17,6,7,1,1267,27
+Plain Text,/docs/testing.txt,testing.txt,453,338,0,115,0,18932,327
+Python,/tests/regressiontests/templates/tests.py,tests.py,684,380,146,158,15,42903,509
+Python,/tests/regressiontests/markup/tests.py,tests.py,69,55,1,13,13,1948,43
+Python,/tests/regressiontests/defaultfilters/tests.py,tests.py,364,362,2,0,8,6576,216
+Python,/tests/regressiontests/cache/tests.py,tests.py,71,51,10,10,2,2180,63
+Python,/tests/regressiontests/forms/tests.py,tests.py,1209,1121,23,65,11,46491,562
+Python,/tests/regressiontests/db_typecasts/tests.py,tests.py,56,51,1,4,3,2055,45
+Python,/tests/regressiontests/urlpatterns_reverse/tests.py,tests.py,39,35,0,4,5,1912,36
+Python,/tests/regressiontests/httpwrappers/tests.py,tests.py,358,239,20,99,0,5897,93
+Python,/tests/regressiontests/dateformat/tests.py,tests.py,84,73,8,3,9,1722,70
+Python,/django/utils/text.py,text.py,133,111,16,6,7,4638,112
+JavaScript,/django/contrib/admin/media/js/timeparse.js,timeparse.js,94,86,7,1,24,2450,58
+Python,/django/utils/timesince.py,timesince.py,57,45,9,3,11,2061,51
+Python,/django/utils/translation/trans_null.py,trans_null.py,30,22,3,5,4,1167,26
+Python,/django/utils/translation/trans_real.py,trans_real.py,496,420,60,16,17,17514,342
+Python,/django/db/transaction.py,transaction.py,222,144,77,1,15,7123,138
+Python,/django/middleware/transaction.py,transaction.py,27,22,4,1,2,1090,24
+Plain Text,/docs/transactions.txt,transactions.txt,163,120,0,43,0,6300,114
+Plain Text,/docs/tutorial01.txt,tutorial01.txt,559,415,0,144,0,22415,394
+Plain Text,/docs/tutorial02.txt,tutorial02.txt,437,317,0,120,0,18455,299
+Plain Text,/docs/tutorial03.txt,tutorial03.txt,467,346,0,121,0,19296,322
+Plain Text,/docs/tutorial04.txt,tutorial04.txt,244,185,0,59,0,10814,179
+Python,/django/utils/tzinfo.py,tzinfo.py,52,40,0,12,4,1455,34
+Python,/django/bin/unique-messages.py,unique-messages.py,28,22,1,5,7,900,24
+Plain Text,/docs/url_dispatch.txt,url_dispatch.txt,478,341,0,137,0,17288,296
+JavaScript,/django/contrib/admin/media/js/urlify.js,urlify.js,15,13,2,0,0,838,16
+Python,/django/core/urlresolvers.py,urlresolvers.py,241,182,35,24,54,9732,189
+Python,/tests/modeltests/test_client/urls.py,urls.py,9,8,0,1,0,271,9
+Python,/django/contrib/admin/urls.py,urls.py,41,31,4,6,2,2095,36
+Python,/django/conf/project_template/urls.py,urls.py,9,3,4,2,0,258,8
+Python,/examples/hello/urls.py,urls.py,10,9,0,1,0,290,10
+Python,/django/contrib/flatpages/urls.py,urls.py,5,4,0,1,0,136,5
+Python,/examples/urls.py,urls.py,6,5,0,1,0,157,6
+Python,/tests/urls.py,urls.py,10,6,2,2,0,388,9
+Python,/django/contrib/comments/views/userflags.py,userflags.py,54,33,17,4,4,2407,38
+Python,/django/db/backends/util.py,util.py,120,89,15,16,27,4114,86
+Python,/django/newforms/util.py,util.py,57,35,13,9,13,2074,37
+Python,/django/contrib/admin/utils.py,utils.py,102,78,15,9,22,3621,87
+Python,/django/test/utils.py,utils.py,107,69,27,11,19,4445,88
+Python,/django/core/validators.py,validators.py,570,498,39,33,50,27109,408
+Python,/django/views/decorators/vary.py,vary.py,35,26,7,2,0,1015,28
+HTML,/django/contrib/admin/templates/admin_doc/view_detail.html,view_detail.html,26,19,0,7,0,812,19
+HTML,/django/contrib/admin/templates/admin_doc/view_index.html,view_index.html,43,35,0,8,0,1356,32
+Python,/django/contrib/syndication/views.py,views.py,25,20,0,5,7,762,19
+Python,/django/conf/app_template/views.py,views.py,1,0,1,0,0,26,2
+Python,/django/contrib/flatpages/views.py,views.py,38,24,12,2,5,1417,35
+Python,/examples/hello/views.py,views.py,55,49,0,6,5,2259,41
+Python,/tests/modeltests/test_client/views.py,views.py,35,25,3,7,2,1320,29
+Python,/django/contrib/auth/views.py,views.py,85,75,2,8,15,4140,66
+Python,/django/contrib/sitemaps/views.py,views.py,30,28,0,2,9,1245,28
+Python,/examples/views.py,views.py,12,11,0,1,0,599,12
+CSS,/django/contrib/admin/media/css/widgets.css,widgets.css,101,86,8,7,0,7778,95
+Python,/django/newforms/widgets.py,widgets.py,153,139,6,8,5,5892,100
+Python,/django/core/handlers/wsgi.py,wsgi.py,203,193,4,6,9,6809,169
+Python,/django/core/xheaders.py,xheaders.py,22,15,6,1,3,1106,18
+Python,/django/core/serializers/xml_serializer.py,xml_serializer.py,221,146,58,17,19,8567,156
+Python,/django/utils/xmlutils.py,xmlutils.py,14,9,3,2,2,440,12
