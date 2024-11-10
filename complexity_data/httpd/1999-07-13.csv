@@ -1,0 +1,175 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+HTML,/docs/manual/developer/API.html,API.html,1153,1014,3,136,0,49346,0
+HTML,/docs/manual/misc/API.html,API.html,1153,1014,3,136,0,49346,0
+HTML,/docs/manual/misc/FAQ-A.html,FAQ-A.html,279,222,45,12,0,9373,0
+HTML,/docs/manual/misc/FAQ-B.html,FAQ-B.html,378,320,45,13,0,14722,0
+HTML,/docs/manual/misc/FAQ-C.html,FAQ-C.html,273,217,45,11,0,10263,0
+HTML,/docs/manual/misc/FAQ-D.html,FAQ-D.html,335,274,45,16,0,13103,0
+HTML,/docs/manual/misc/FAQ-E.html,FAQ-E.html,598,535,45,18,0,22555,0
+HTML,/docs/manual/misc/FAQ-F.html,FAQ-F.html,524,462,45,17,0,19715,0
+HTML,/docs/manual/misc/FAQ-G.html,FAQ-G.html,371,316,45,10,0,14299,0
+HTML,/docs/manual/misc/FAQ-H.html,FAQ-H.html,265,207,45,13,0,9951,0
+HTML,/docs/manual/misc/FAQ-I.html,FAQ-I.html,215,162,45,8,0,7904,0
+HTML,/docs/manual/misc/FAQ.html,FAQ.html,111,37,71,3,0,5480,0
+License,/docs/manual/LICENSE,LICENSE,59,56,0,3,0,2848,0
+C Header,/include/ap_listen.h,ap_listen.h,86,22,58,6,0,3905,0
+C Header,/include/ap_mpm.h,ap_mpm.h,164,21,134,9,0,7696,0
+C Header,/srclib/expat-lite/asciitab.h,asciitab.h,62,32,29,1,0,2916,0
+C,/os/beos/beosd.c,beosd.c,227,125,75,27,32,7257,0
+C Header,/os/beos/beosd.h,beosd.h,82,19,57,6,0,3511,0
+Shell,/build/binbuild.sh,binbuild.sh,294,273,7,14,174,11771,0
+HTML,/docs/manual/bind.html,bind.html,135,115,3,17,0,4635,0
+HTML,/docs/manual/cgi_path.html,cgi_path.html,93,75,3,15,0,3762,0
+HTML,/docs/manual/misc/client_block_api.html,client_block_api.html,87,69,3,15,0,3245,0
+HTML,/docs/manual/misc/compat_notes.html,compat_notes.html,126,103,3,20,0,4836,0
+C,/server/connection.c,connection.c,276,110,123,43,22,9597,0
+HTML,/docs/manual/content-negotiation.html,content-negotiation.html,588,493,3,92,0,22509,0
+HTML,/docs/manual/mod/core.html,core.html,3275,2847,69,359,0,117313,0
+HTML,/docs/manual/custom-error.html,custom-error.html,177,155,2,20,0,5449,0
+HTML,/docs/manual/misc/custom_errordocs.html,custom_errordocs.html,431,401,3,27,0,19331,0
+HTML,/docs/manual/misc/descriptors.html,descriptors.html,155,132,3,20,0,7132,0
+HTML,/docs/manual/vhosts/details.html,details.html,373,300,3,70,0,16138,0
+HTML,/docs/manual/vhosts/details_1_2.html,details_1_2.html,396,327,3,66,0,15843,0
+HTML,/docs/manual/mod/directive-dict.html,directive-dict.html,262,250,3,9,0,8201,0
+HTML,/docs/manual/mod/directives.html,directives.html,223,218,3,2,0,11854,0
+HTML,/docs/manual/dns-caveats.html,dns-caveats.html,189,155,3,31,0,8034,0
+HTML,/docs/manual/dso.html,dso.html,392,340,3,49,0,17133,0
+HTML,/docs/manual/ebcdic.html,ebcdic.html,497,430,3,64,0,13418,0
+HTML,/docs/manual/env.html,env.html,64,55,3,6,0,1993,0
+HTML,/docs/manual/vhosts/examples.html,examples.html,512,428,3,81,0,15228,0
+Perl,/docs/manual/expand.pl,expand.pl,104,35,64,5,2,4065,0
+HTML,/srclib/expat-lite/expat.html,expat.html,73,55,0,18,0,2786,0
+HTML,/docs/manual/vhosts/fd-limits.html,fd-limits.html,59,51,3,5,0,2029,0
+HTML,/docs/manual/misc/fin_wait_2.html,fin_wait_2.html,324,284,3,37,0,15397,0
+HTML,/docs/manual/misc/footer.html,footer.html,8,6,0,2,0,186,0
+HTML,/docs/manual/footer.html,footer.html,6,5,0,1,0,125,0
+HTML,/docs/manual/mod/footer.html,footer.html,8,6,0,2,0,186,0
+HTML,/docs/manual/vhosts/footer.html,footer.html,8,6,0,2,0,186,0
+HTML,/docs/manual/handler.html,handler.html,195,166,3,26,0,6207,0
+C,/srclib/expat-lite/hashtable.c,hashtable.c,151,109,30,12,29,3603,0
+C Header,/srclib/expat-lite/hashtable.h,hashtable.h,69,28,29,12,0,2004,0
+HTML,/docs/manual/mod/header.html,header.html,6,6,0,0,0,134,0
+HTML,/docs/manual/misc/header.html,header.html,6,6,0,0,0,134,0
+HTML,/docs/manual/vhosts/header.html,header.html,6,6,0,0,0,134,0
+HTML,/docs/manual/header.html,header.html,6,6,0,0,0,131,0
+HTML,/docs/manual/vhosts/host.html,host.html,172,143,3,26,0,7554,0
+HTML,/docs/manual/misc/howto.html,howto.html,208,169,3,36,0,7547,0
+C Header,/include/http_connection.h,http_connection.h,80,16,57,7,0,3347,0
+C Header,/srclib/expat-lite/iasciitab.h,iasciitab.h,63,32,30,1,0,2986,0
+HTML,/docs/manual/misc/index.html,index.html,151,145,3,3,0,4482,0
+HTML,/docs/manual/mod/index.html,index.html,122,115,3,4,0,4959,0
+HTML,/docs/manual/vhosts/index.html,index.html,65,51,3,11,0,2405,0
+HTML,/docs/manual/install-tpf.html,install-tpf.html,274,266,0,8,0,11881,0
+HTML,/docs/manual/install.html,install.html,270,213,3,54,0,10276,0
+HTML,/docs/manual/invoking.html,invoking.html,220,174,3,43,0,8579,0
+HTML,/docs/manual/vhosts/ip-based.html,ip-based.html,140,123,3,14,0,5633,0
+HTML,/docs/manual/misc/known_client_problems.html,known_client_problems.html,305,282,2,21,0,13729,0
+C Header,/srclib/expat-lite/latin1tab.h,latin1tab.h,62,32,29,1,0,2969,0
+Expect,/modules/proxy/libproxy.exp,libproxy.exp,1,1,0,0,0,13,0
+C,/server/listen.c,listen.c,310,190,82,38,43,9150,0
+HTML,/docs/manual/location.html,location.html,68,56,3,9,0,2151,0
+HTML,/docs/manual/vhosts/mass.html,mass.html,412,312,12,88,0,14736,0
+Expect,/modules/aaa/mod_access.exp,mod_access.exp,1,1,0,0,0,14,0
+HTML,/docs/manual/mod/mod_access.html,mod_access.html,312,296,6,10,0,8575,0
+Expect,/modules/mappers/mod_actions.exp,mod_actions.exp,1,1,0,0,0,14,0
+HTML,/docs/manual/mod/mod_actions.html,mod_actions.html,126,117,3,6,0,3587,0
+Expect,/modules/mappers/mod_alias.exp,mod_alias.exp,1,1,0,0,0,13,0
+HTML,/docs/manual/mod/mod_alias.html,mod_alias.html,405,378,8,19,0,12189,0
+Expect,/modules/generators/mod_asis.exp,mod_asis.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_asis.html,mod_asis.html,68,57,4,7,0,2438,0
+Expect,/modules/aaa/mod_auth.exp,mod_auth.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_auth.html,mod_auth.html,201,169,6,26,0,6823,0
+Expect,/modules/aaa/mod_auth_anon.exp,mod_auth_anon.exp,1,1,0,0,0,17,0
+HTML,/docs/manual/mod/mod_auth_anon.html,mod_auth_anon.html,363,352,3,8,0,11148,0
+HTML,/docs/manual/mod/mod_auth_db.html,mod_auth_db.html,220,187,6,27,0,8205,0
+Expect,/modules/aaa/mod_auth_dbm.exp,mod_auth_dbm.exp,1,1,0,0,0,16,0
+HTML,/docs/manual/mod/mod_auth_dbm.html,mod_auth_dbm.html,210,174,6,30,0,7583,0
+Expect,/modules/generators/mod_autoindex.exp,mod_autoindex.exp,1,1,0,0,0,17,0
+HTML,/docs/manual/mod/mod_autoindex.html,mod_autoindex.html,814,749,25,40,0,28715,0
+Expect,/modules/metadata/mod_cern_meta.exp,mod_cern_meta.exp,1,1,0,0,0,17,0
+HTML,/docs/manual/mod/mod_cern_meta.html,mod_cern_meta.html,143,124,3,16,0,4320,0
+Expect,/modules/generators/mod_cgi.exp,mod_cgi.exp,1,1,0,0,0,11,0
+HTML,/docs/manual/mod/mod_cgi.html,mod_cgi.html,216,178,5,33,0,6914,0
+Expect,/modules/mappers/mod_dir.exp,mod_dir.exp,1,1,0,0,0,11,0
+HTML,/docs/manual/mod/mod_dir.html,mod_dir.html,103,88,4,11,0,3468,0
+Expect,/modules/metadata/mod_env.exp,mod_env.exp,1,1,0,0,0,11,0
+HTML,/docs/manual/mod/mod_env.html,mod_env.html,137,116,3,18,0,3334,0
+HTML,/docs/manual/mod/mod_example.html,mod_example.html,168,165,3,0,0,4921,0
+Expect,/modules/metadata/mod_expires.exp,mod_expires.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_expires.html,mod_expires.html,327,320,6,1,0,9470,0
+Expect,/modules/metadata/mod_headers.exp,mod_headers.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_headers.html,mod_headers.html,121,100,3,18,0,3664,0
+Expect,/modules/mappers/mod_imap.exp,mod_imap.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_imap.html,mod_imap.html,329,290,3,36,0,11724,0
+Expect,/modules/filters/mod_include.exp,mod_include.exp,1,1,0,0,0,16,0
+HTML,/docs/manual/mod/mod_include.html,mod_include.html,420,359,5,56,0,14620,0
+Expect,/modules/generators/mod_info.exp,mod_info.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_info.html,mod_info.html,113,99,3,11,0,3225,0
+HTML,/docs/manual/mod/mod_isapi.html,mod_isapi.html,73,56,3,14,0,2717,0
+HTML,/docs/manual/mod/mod_log_agent.html,mod_log_agent.html,77,63,4,10,0,2365,0
+Expect,/modules/loggers/mod_log_config.exp,mod_log_config.exp,1,1,0,0,0,18,0
+HTML,/docs/manual/mod/mod_log_config.html,mod_log_config.html,450,402,6,42,0,15680,0
+HTML,/docs/manual/mod/mod_log_referer.html,mod_log_referer.html,117,97,5,15,0,3822,0
+Expect,/modules/http/mod_mime.exp,mod_mime.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_mime.html,mod_mime.html,538,468,8,62,0,18068,0
+Expect,/modules/metadata/mod_mime_magic.exp,mod_mime_magic.exp,1,1,0,0,0,18,0
+HTML,/docs/manual/mod/mod_mime_magic.html,mod_mime_magic.html,275,253,1,21,0,10346,0
+HTML,/docs/manual/mod/mod_mmap_static.html,mod_mmap_static.html,142,127,3,12,0,4949,0
+Expect,/modules/mappers/mod_negotiation.exp,mod_negotiation.exp,1,1,0,0,0,19,0
+HTML,/docs/manual/mod/mod_negotiation.html,mod_negotiation.html,201,168,4,29,0,7259,0
+HTML,/docs/manual/mod/mod_proxy.html,mod_proxy.html,1162,1037,10,115,0,39079,0
+Expect,/modules/mappers/mod_rewrite.exp,mod_rewrite.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_rewrite.html,mod_rewrite.html,1874,1661,7,206,0,69127,0
+Expect,/modules/metadata/mod_setenvif.exp,mod_setenvif.exp,1,1,0,0,0,16,0
+HTML,/docs/manual/mod/mod_setenvif.html,mod_setenvif.html,398,389,3,6,0,11501,0
+HTML,/docs/manual/mod/mod_so.html,mod_so.html,164,133,5,26,0,5732,0
+Expect,/modules/mappers/mod_speling.exp,mod_speling.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_speling.html,mod_speling.html,122,112,4,6,0,4384,0
+Expect,/modules/generators/mod_status.exp,mod_status.exp,1,1,0,0,0,14,0
+HTML,/docs/manual/mod/mod_status.html,mod_status.html,131,115,4,12,0,4389,0
+Expect,/modules/metadata/mod_unique_id.exp,mod_unique_id.exp,1,1,0,0,0,17,0
+HTML,/docs/manual/mod/mod_unique_id.html,mod_unique_id.html,180,154,3,23,0,8649,0
+Expect,/modules/mappers/mod_userdir.exp,mod_userdir.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_userdir.html,mod_userdir.html,123,110,4,9,0,4011,0
+Expect,/modules/metadata/mod_usertrack.exp,mod_usertrack.exp,1,1,0,0,0,17,0
+HTML,/docs/manual/mod/mod_usertrack.html,mod_usertrack.html,199,170,3,26,0,6530,0
+HTML,/docs/manual/mod/mod_vhost_alias.html,mod_vhost_alias.html,311,290,1,20,0,10010,0
+C,/server/mpm/mpmt_pthread/mpmt_pthread.c,mpmt_pthread.c,1794,1307,286,201,250,55113,0
+HTML,/docs/manual/vhosts/name-based.html,name-based.html,164,130,3,31,0,6462,0
+C Header,/srclib/expat-lite/nametab.h,nametab.h,150,150,0,0,0,7050,0
+C,/os/beos/os.c,os.c,75,49,14,12,9,1748,0
+C Header,/os/beos/os.h,os.h,100,24,66,10,0,3987,0
+HTML,/docs/manual/platform/perf-bsd44.html,perf-bsd44.html,254,183,3,68,0,7706,0
+HTML,/docs/manual/platform/perf-dec.html,perf-dec.html,285,227,3,55,0,12789,0
+HTML,/docs/manual/platform/perf-hp.html,perf-hp.html,122,88,2,32,0,3851,0
+HTML,/docs/manual/misc/perf-tuning.html,perf-tuning.html,871,857,1,13,0,39027,0
+HTML,/docs/manual/platform/perf.html,perf.html,175,138,3,34,0,5582,0
+C,/server/mpm/prefork/prefork.c,prefork.c,3095,2190,536,369,432,85073,0
+HTML,/docs/manual/process-model.html,process-model.html,68,51,3,14,0,2149,0
+HTML,/docs/manual/platform/readme-tpf.html,readme-tpf.html,205,189,0,16,0,6491,0
+C,/server/mpm/mpmt_pthread/scoreboard.c,scoreboard.c,656,470,101,85,108,18201,0
+C Header,/server/mpm/mpmt_pthread/scoreboard.h,scoreboard.h,232,106,104,22,0,8721,0
+C Header,/server/mpm/prefork/scoreboard.h,scoreboard.h,206,84,104,18,0,7800,0
+C Header,/server/mpm/spmt_os2/scoreboard.h,scoreboard.h,200,78,104,18,0,7654,0
+HTML,/docs/manual/sections.html,sections.html,170,136,3,31,0,5284,0
+HTML,/docs/manual/misc/security_tips.html,security_tips.html,232,203,3,26,0,7536,0
+C,/server/mpm/spmt_os2/spmt_os2.c,spmt_os2.c,1810,1259,315,236,242,51337,0
+HTML,/docs/manual/stopping.html,stopping.html,183,150,4,29,0,8286,0
+HTML,/docs/manual/suexec.html,suexec.html,518,482,3,33,0,20178,0
+C,/os/unix/unixd.c,unixd.c,265,155,85,25,48,8508,0
+C Header,/os/unix/unixd.h,unixd.h,82,19,57,6,0,3511,0
+HTML,/docs/manual/platform/unixware.html,unixware.html,62,45,3,14,0,2092,0
+C Header,/srclib/expat-lite/utf8tab.h,utf8tab.h,63,32,29,2,0,2919,0
+HTML,/docs/manual/vhosts/vhosts-in-depth.html,vhosts-in-depth.html,396,327,3,66,0,15843,0
+HTML,/docs/manual/vhosts/virtual-host.html,virtual-host.html,208,185,3,20,0,8027,0
+HTML,/docs/manual/platform/windows.html,windows.html,559,444,3,112,0,21074,0
+C Header,/srclib/expat-lite/xmldef.h,xmldef.h,63,21,31,11,0,2031,0
+C,/srclib/expat-lite/xmlparse.c,xmlparse.c,3256,3038,74,144,703,90201,0
+C Header,/srclib/expat-lite/xmlparse.h,xmlparse.h,482,185,209,88,0,18046,0
+C,/srclib/expat-lite/xmlrole.c,xmlrole.c,1113,1020,36,57,77,24138,0
+C Header,/srclib/expat-lite/xmlrole.h,xmlrole.h,111,73,29,9,0,3293,0
+C,/srclib/expat-lite/xmltok.c,xmltok.c,1527,1361,46,120,109,37036,0
+C Header,/srclib/expat-lite/xmltok.h,xmltok.h,307,195,66,46,0,10785,0
+C,/srclib/expat-lite/xmltok_impl.c,xmltok_impl.c,1746,1639,61,46,357,40506,0
+C Header,/srclib/expat-lite/xmltok_impl.h,xmltok_impl.h,71,40,29,2,0,1820,0
+C,/srclib/expat-lite/xmltok_ns.c,xmltok_ns.c,96,89,0,7,11,2421,0

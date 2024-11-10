@@ -1,0 +1,1284 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+Prolog,/modules/http/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/test/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/cache/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/include/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/echo/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/support/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/aaa/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/proxy/.indent.pro,.indent.pro,58,58,0,0,0,769,0
+Prolog,/modules/generators/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/os/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/metadata/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/loggers/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/filters/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/test/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/mappers/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/modules/experimental/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+Prolog,/server/.indent.pro,.indent.pro,54,54,0,0,0,701,0
+HTML,/docs/manual/developer/API.html,API.html,5,4,0,1,0,119,0
+XML,/docs/manual/developer/API.xml,API.xml,1238,1077,17,144,0,59581,0
+C,/support/win32/ApacheMonitor.c,ApacheMonitor.c,1671,1437,58,176,281,54961,0
+C Header,/support/win32/ApacheMonitor.h,ApacheMonitor.h,78,56,19,3,0,3375,0
+Windows Resource-Definition Script,/support/win32/ApacheMonitor.rc,ApacheMonitor.rc,103,77,15,11,0,4389,0
+License,/LICENSE,LICENSE,547,464,0,83,0,25852,0
+License,/docs/manual/LICENSE,LICENSE,202,169,0,33,0,11358,0
+Autoconf,/modules/lua/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/proxy/Makefile.in,Makefile.in,4,1,3,0,0,204,0
+Autoconf,/modules/arch/unix/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/modules/proxy/balancers/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/slotmem/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/metadata/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/modules/test/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/database/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/mappers/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/server/Makefile.in,Makefile.in,105,77,11,17,8,3980,0
+Autoconf,/modules/generators/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/server/mpm/winnt/Makefile.in,Makefile.in,1,1,0,0,0,39,0
+Autoconf,/server/mpm/event/Makefile.in,Makefile.in,1,1,0,0,0,39,0
+Autoconf,/os/Makefile.in,Makefile.in,4,2,0,2,0,61,0
+Autoconf,/modules/ldap/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/os/unix/Makefile.in,Makefile.in,5,3,0,2,0,96,0
+Autoconf,/modules/cluster/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/core/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/srclib/Makefile.in,Makefile.in,5,3,0,2,0,121,0
+Autoconf,/os/os2/Makefile.in,Makefile.in,5,3,0,2,0,99,0
+Autoconf,/modules/debugging/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/aaa/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/modules/ssl/Makefile.in,Makefile.in,20,1,17,2,0,845,0
+Autoconf,/modules/cache/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/modules/session/Makefile.in,Makefile.in,4,1,2,1,0,184,0
+Autoconf,/Makefile.in,Makefile.in,238,213,2,23,60,8963,0
+Autoconf,/support/Makefile.in,Makefile.in,75,59,0,16,5,2568,0
+Autoconf,/modules/filters/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/modules/loggers/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/modules/dav/main/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/Makefile.in,Makefile.in,6,3,0,3,0,103,0
+Autoconf,/server/mpm/worker/Makefile.in,Makefile.in,2,1,0,1,0,40,0
+Autoconf,/modules/experimental/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/os/win32/Makefile.in,Makefile.in,5,3,0,2,0,123,0
+Autoconf,/server/mpm/Makefile.in,Makefile.in,4,2,0,2,0,66,0
+Autoconf,/modules/arch/win32/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/dav/fs/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/modules/echo/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+Autoconf,/server/mpm/mpmt_os2/Makefile.in,Makefile.in,1,1,0,0,0,39,0
+Autoconf,/modules/dav/lock/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/server/mpm/prefork/Makefile.in,Makefile.in,1,1,0,0,0,39,0
+Autoconf,/server/mpm/simple/Makefile.in,Makefile.in,1,1,0,0,0,39,0
+Autoconf,/modules/examples/Makefile.in,Makefile.in,3,1,2,0,0,183,0
+Autoconf,/test/Makefile.in,Makefile.in,20,8,6,6,0,504,0
+Autoconf,/modules/http/Makefile.in,Makefile.in,3,1,0,2,0,41,0
+HTML,/docs/icons/README.html,README.html,815,764,0,51,0,36057,0
+C,/support/ab.c,ab.c,2306,1798,289,219,364,79044,0
+HTML,/docs/manual/programs/ab.html,ab.html,13,10,0,3,0,285,0
+XML,/docs/manual/programs/ab.xml,ab.xml,215,160,17,38,0,9668,0
+HTML,/docs/manual/rewrite/access.html,access.html,5,4,0,1,0,122,0
+XML,/docs/manual/rewrite/access.xml,access.xml,307,224,18,65,0,9918,0
+m4,/acinclude.m4,acinclude.m4,730,661,21,48,0,23515,0
+HTML,/docs/manual/rewrite/advanced.html,advanced.html,5,4,0,1,0,124,0
+XML,/docs/manual/rewrite/advanced.xml,advanced.xml,493,362,18,113,0,13636,0
+C Header,/modules/proxy/ajp.h,ajp.h,486,133,301,52,0,14924,0
+C,/modules/proxy/ajp_header.c,ajp_header.c,796,580,144,72,148,26315,0
+C Header,/modules/proxy/ajp_header.h,ajp_header.h,183,70,102,11,0,6504,0
+C,/modules/proxy/ajp_link.c,ajp_link.c,127,84,15,28,21,3691,0
+C,/modules/proxy/ajp_msg.c,ajp_msg.c,610,321,185,104,47,16063,0
+C,/modules/proxy/ajp_utils.c,ajp_utils.c,107,73,21,13,18,3603,0
+XML,/docs/manual/mod/allmodules.xml,allmodules.xml,115,113,1,1,0,4979,0
+XML,/docs/manual/style/xsl/util/allmodules.xml,allmodules.xml,12,12,0,0,0,544,0
+Forth,/docs/manual/mod/allmodules.xml.fr,allmodules.xml.fr,115,114,0,1,0,5090,0
+D,/ap.d,ap.d,102,97,3,2,0,2512,0
+C Header,/include/ap_compat.h,ap_compat.h,30,5,20,5,0,1075,0
+C Header,/include/ap_config.h,ap_config.h,266,84,156,26,7,9333,0
+Autoconf,/include/ap_config_layout.h.in,ap_config_layout.h.in,64,20,40,4,2,2784,0
+C Header,/include/ap_expr.h,ap_expr.h,271,75,164,32,0,10361,0
+C Header,/include/ap_listen.h,ap_listen.h,135,46,73,16,0,4316,0
+C Header,/include/ap_mmn.h,ap_mmn.h,328,14,305,9,3,19077,0
+C Header,/include/ap_mpm.h,ap_mpm.h,197,60,118,19,0,8661,0
+C Header,/include/ap_provider.h,ap_provider.h,86,24,50,12,0,3086,0
+C Header,/include/ap_regex.h,ap_regex.h,220,59,137,24,1,8481,0
+C,/os/win32/ap_regkey.c,ap_regkey.c,644,523,61,60,129,20675,0
+C Header,/include/ap_regkey.h,ap_regkey.h,219,66,131,22,1,9214,0
+C Header,/include/ap_release.h,ap_release.h,73,29,33,11,0,2796,0
+C Header,/include/ap_slotmem.h,ap_slotmem.h,175,44,116,15,0,6276,0
+C Header,/include/ap_socache.h,ap_socache.h,225,57,145,23,0,9357,0
+C Header,/include/apache_noprobes.h,apache_noprobes.h,344,325,15,4,0,15968,0
+D,/apache_probes.d,apache_probes.d,222,211,6,5,0,9907,0
+HTML,/docs/manual/programs/apachectl.html,apachectl.html,13,10,0,3,0,306,0
+Autoconf,/support/apachectl.in,apachectl.in,106,42,59,5,4,3417,0
+XML,/docs/manual/programs/apachectl.xml,apachectl.xml,158,101,17,40,0,6307,0
+HTML,/docs/manual/programs/apxs.html,apxs.html,13,10,0,3,0,291,0
+Autoconf,/support/apxs.in,apxs.in,789,587,112,90,94,23395,0
+XML,/docs/manual/programs/apxs.xml,apxs.xml,325,262,17,46,0,14172,0
+TeX,/docs/manual/style/latex/atbeginend.sty,atbeginend.sty,80,26,45,9,0,2582,0
+HTML,/docs/manual/howto/auth.html,auth.html,21,16,0,5,0,459,0
+Forth,/docs/manual/howto/auth.html.fr,auth.html.fr,668,582,0,86,1,38311,0
+XML,/docs/manual/howto/auth.xml,auth.xml,622,507,17,98,0,27039,0
+Forth,/docs/manual/howto/auth.xml.fr,auth.xml.fr,683,582,0,101,3,32609,0
+HTML,/docs/manual/rewrite/avoid.html,avoid.html,5,4,0,1,0,121,0
+XML,/docs/manual/rewrite/avoid.xml,avoid.xml,235,171,18,46,0,9617,0
+Plain Text,/modules/lua/docs/basic-configuration.txt,basic-configuration.txt,141,109,0,32,0,5651,0
+Shell,/build/binbuild.sh,binbuild.sh,206,166,20,20,82,7888,0
+HTML,/docs/manual/bind.html,bind.html,25,19,0,6,0,543,0
+Forth,/docs/manual/bind.html.fr,bind.html.fr,201,173,0,28,0,12794,0
+XML,/docs/manual/bind.xml,bind.xml,193,143,17,33,0,7841,0
+Forth,/docs/manual/bind.xml.fr,bind.xml.fr,204,169,0,35,2,9703,0
+HTML,/docs/error/include/bottom.html,bottom.html,12,10,1,1,0,273,0
+Shell,/build/bsd_makefile,bsd_makefile,34,10,20,4,5,1182,0
+AWK,/build/build-modules-c.awk,build-modules-c.awk,81,67,14,0,4,2706,0
+Properties File,/docs/manual/style/build.properties,build.properties,4,0,3,1,0,100,0
+Shell,/buildconf,buildconf,240,199,28,13,7,6805,0
+Shell,/build/buildinfo.sh,buildinfo.sh,171,125,39,7,15,5229,0
+Plain Text,/modules/lua/docs/building-from-subversion.txt,building-from-subversion.txt,72,49,0,23,0,2762,0
+C,/server/buildmark.c,buildmark.c,29,11,15,3,1,1080,0
+Shell,/build/pkg/buildpkg.sh,buildpkg.sh,94,59,20,15,3,2769,0
+C,/modules/http/byterange_filter.c,byterange_filter.c,393,274,68,51,61,12942,0
+C,/modules/cache/cache_cache.c,cache_cache.c,166,120,17,29,6,4930,0
+C Header,/modules/cache/cache_cache.h,cache_cache.h,111,31,71,9,0,3716,0
+C Header,/modules/cache/cache_common.h,cache_common.h,55,26,24,5,0,1936,0
+C Header,/modules/cache/cache_disk_common.h,cache_disk_common.h,68,29,31,8,0,2322,0
+C,/modules/cache/cache_hash.c,cache_hash.c,290,169,97,24,27,8761,0
+C Header,/modules/cache/cache_hash.h,cache_hash.h,157,24,114,19,0,5036,0
+C,/modules/cache/cache_pqueue.c,cache_pqueue.c,290,212,40,38,27,6875,0
+C Header,/modules/cache/cache_pqueue.h,cache_pqueue.h,168,41,106,21,0,4645,0
+C,/modules/cache/cache_storage.c,cache_storage.c,629,351,213,65,101,22609,0
+C Header,/modules/cache/cache_storage.h,cache_storage.h,61,19,34,8,0,1870,0
+C,/modules/cache/cache_util.c,cache_util.c,1181,759,297,125,265,41202,0
+C Header,/modules/cache/cache_util.h,cache_util.h,293,168,96,29,0,9981,0
+HTML,/docs/manual/caching.html,caching.html,13,10,0,3,0,297,0
+Forth,/docs/manual/caching.html.fr,caching.html.fr,720,570,0,150,0,41992,0
+XML,/docs/manual/caching.xml,caching.xml,673,534,17,122,0,30527,0
+Forth,/docs/manual/caching.xml.fr,caching.xml.fr,767,639,0,128,2,40473,0
+HTML,/docs/manual/howto/cgi.html,cgi.html,17,13,0,4,0,371,0
+Forth,/docs/manual/howto/cgi.html.fr,cgi.html.fr,614,490,0,124,0,32104,0
+XML,/docs/manual/howto/cgi.xml,cgi.xml,581,459,17,105,0,23959,0
+Forth,/docs/manual/howto/cgi.xml.fr,cgi.xml.fr,629,525,0,104,2,30557,0
+Perl,/test/check_chunked,check_chunked,58,29,25,4,3,1721,0
+Shell,/support/check_forensic,check_forensic,51,38,5,8,1,950,0
+C,/support/checkgid.c,checkgid.c,110,52,51,7,9,2938,0
+C,/server/mpm/winnt/child.c,child.c,1229,848,253,128,189,46079,0
+C,/modules/http/chunk_filter.c,chunk_filter.c,200,106,77,17,31,7204,0
+C,/test/cls.c,cls.c,182,140,28,14,59,4613,0
+Document Type Definition,/docs/manual/style/common.dtd,common.dtd,191,134,0,57,0,5435,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/common.xsl,common.xsl,1163,995,0,168,0,41946,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/latex/common.xsl,common.xsl,244,214,0,30,0,8487,0
+Shell,/build/config-stubs,config-stubs,27,9,15,3,2,669,0
+C,/server/config.c,config.c,2453,1670,352,431,447,78765,0
+m4,/server/config.m4,config.m4,15,9,0,6,0,327,0
+m4,/server/mpm/simple/config.m4,config.m4,13,13,0,0,0,575,0
+m4,/modules/proxy/config.m4,config.m4,74,59,4,11,0,3018,0
+m4,/os/os2/config.m4,config.m4,3,3,0,0,0,65,0
+m4,/modules/aaa/config.m4,config.m4,72,58,0,14,0,2993,0
+m4,/modules/core/config.m4,config.m4,66,53,0,13,0,1859,0
+m4,/modules/database/config.m4,config.m4,8,4,0,4,0,164,0
+m4,/modules/loggers/config.m4,config.m4,19,11,1,7,0,624,0
+m4,/server/mpm/worker/config.m4,config.m4,11,11,0,0,0,457,0
+m4,/modules/echo/config.m4,config.m4,9,5,0,4,0,222,0
+m4,/modules/session/config.m4,config.m4,50,38,2,10,0,1728,0
+m4,/server/mpm/prefork/config.m4,config.m4,7,7,0,0,0,229,0
+m4,/modules/lua/config.m4,config.m4,130,119,0,11,0,3459,0
+m4,/modules/test/config.m4,config.m4,13,8,0,5,0,497,0
+m4,/modules/arch/win32/config.m4,config.m4,9,5,0,4,0,241,0
+m4,/server/mpm/event/config.m4,config.m4,13,13,0,0,0,573,0
+m4,/modules/examples/config.m4,config.m4,9,6,0,3,0,360,0
+m4,/support/config.m4,config.m4,137,120,5,12,0,4449,0
+m4,/modules/metadata/config.m4,config.m4,24,18,0,6,0,925,0
+m4,/modules/cache/config.m4,config.m4,73,59,4,10,0,2166,0
+m4,/os/config.m4,config.m4,26,24,0,2,0,318,0
+m4,/modules/ssl/config.m4,config.m4,62,53,3,6,0,2075,0
+m4,/os/unix/config.m4,config.m4,7,5,0,2,0,160,0
+m4,/modules/filters/config.m4,config.m4,83,72,2,9,0,2958,0
+m4,/modules/experimental/config.m4,config.m4,4,2,0,2,0,58,0
+m4,/modules/debugging/config.m4,config.m4,7,4,0,3,0,218,0
+m4,/modules/http/config.m4,config.m4,20,15,0,5,0,1136,0
+m4,/server/mpm/winnt/config.m4,config.m4,10,10,0,0,0,214,0
+m4,/modules/ldap/config.m4,config.m4,18,13,0,5,0,523,0
+m4,/server/mpm/config.m4,config.m4,117,105,0,12,0,2896,0
+m4,/server/mpm/mpmt_os2/config.m4,config.m4,10,10,0,0,0,220,0
+m4,/modules/slotmem/config.m4,config.m4,10,6,0,4,0,341,0
+m4,/modules/proxy/balancers/config2.m4,config2.m4,8,6,0,2,0,479,0
+m4,/server/mpm/config2.m4,config2.m4,89,82,0,7,0,2927,0
+m4,/server/mpm/winnt/config3.m4,config3.m4,2,2,0,0,0,124,0
+m4,/server/mpm/event/config3.m4,config3.m4,11,9,0,2,0,349,0
+m4,/server/mpm/simple/config3.m4,config3.m4,3,3,0,0,0,173,0
+m4,/server/mpm/worker/config3.m4,config3.m4,5,4,0,1,0,180,0
+m4,/server/mpm/prefork/config3.m4,config3.m4,1,1,0,0,0,48,0
+m4,/modules/config5.m4,config5.m4,57,56,1,0,0,2133,0
+m4,/modules/generators/config5.m4,config5.m4,66,55,5,6,0,2444,0
+m4,/modules/arch/unix/config5.m4,config5.m4,25,19,0,6,0,692,0
+m4,/modules/dav/main/config5.m4,config5.m4,21,14,0,7,0,540,0
+m4,/modules/cluster/config5.m4,config5.m4,17,10,2,5,0,434,0
+m4,/server/mpm/mpmt_os2/config5.m4,config5.m4,3,3,0,0,0,112,0
+m4,/modules/dav/fs/config6.m4,config6.m4,23,15,2,6,0,582,0
+m4,/modules/dav/lock/config6.m4,config6.m4,17,10,2,5,0,453,0
+m4,/modules/mappers/config9.m4,config9.m4,19,14,0,5,0,832,0
+Lua,/modules/lua/test/htdocs/config_tests.lua,config_tests.lua,37,17,14,6,0,1204,0
+Autoconf,/build/config_vars.sh.in,config_vars.sh.in,76,44,26,6,2,2525,0
+HTML,/docs/manual/programs/configure.html,configure.html,13,10,0,3,0,306,0
+Autoconf,/configure.in,configure.in,742,524,98,120,51,24138,0
+XML,/docs/manual/programs/configure.xml,configure.xml,687,551,25,111,0,31223,0
+HTML,/docs/manual/configuring.html,configuring.html,25,19,0,6,0,585,0
+Forth,/docs/manual/configuring.html.fr,configuring.html.fr,214,189,0,25,0,15816,0
+XML,/docs/manual/configuring.xml,configuring.xml,224,198,17,9,0,10025,0
+Forth,/docs/manual/configuring.xml.fr,configuring.xml.fr,242,212,0,30,2,12458,0
+C,/server/connection.c,connection.c,191,95,71,25,18,6551,0
+HTML,/docs/manual/content-negotiation.html,content-negotiation.html,17,13,0,4,0,435,0
+XML,/docs/manual/content-negotiation.xml,content-negotiation.xml,668,535,17,116,0,27647,0
+Perl,/support/SHA1/convert-sha1.pl,convert-sha1.pl,36,21,6,9,6,934,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/convmap.xsl,convmap.xsl,71,58,0,13,0,2912,0
+C,/server/core.c,core.c,4235,3165,449,621,811,136169,0
+HTML,/docs/manual/mod/core.html,core.html,25,19,0,6,0,540,0
+Forth,/docs/manual/mod/core.html.fr,core.html.fr,4436,3892,0,544,1,247104,0
+Makefile,/os/os2/core.mk,core.mk,7,4,1,2,0,358,0
+XML,/docs/manual/mod/core.xml,core.xml,4093,3437,17,639,0,167968,0
+Forth,/docs/manual/mod/core.xml.fr,core.xml.fr,4499,3845,0,654,3,206836,0
+C,/server/core_filters.c,core_filters.c,850,605,163,82,199,29953,0
+Module-Definition,/os/os2/core_header.def,core_header.def,19,12,3,4,0,291,0
+HTML,/docs/manual/custom-error.html,custom-error.html,25,19,0,6,0,591,0
+Forth,/docs/manual/custom-error.html.fr,custom-error.html.fr,226,192,0,34,0,12559,0
+XML,/docs/manual/custom-error.xml,custom-error.xml,199,167,17,15,0,8227,0
+Forth,/docs/manual/custom-error.xml.fr,custom-error.xml.fr,212,167,0,45,2,9877,0
+C,/modules/dav/fs/dbm.c,dbm.c,751,460,146,145,88,22089,0
+HTML,/docs/manual/programs/dbmmanage.html,dbmmanage.html,13,10,0,3,0,306,0
+Autoconf,/support/dbmmanage.in,dbmmanage.in,312,226,34,52,46,8921,0
+XML,/docs/manual/programs/dbmmanage.xml,dbmmanage.xml,189,138,17,34,0,8226,0
+XML,/docs/manual/style/lang/de.xml,de.xml,143,83,40,20,0,6440,0
+HTML,/docs/manual/developer/debugging.html,debugging.html,5,4,0,1,0,125,0
+XML,/docs/manual/developer/debugging.xml,debugging.xml,194,148,17,29,0,7496,0
+Perl,/build/default.pl,default.pl,496,387,43,66,33,11115,0
+XML,/docs/manual/style/description.xml,description.xml,48,25,16,7,0,2027,0
+XML,/docs/manual/style/xsl/util/designations.xml,designations.xml,12,12,0,0,0,545,0
+HTML,/docs/manual/vhosts/details.html,details.html,17,13,0,4,0,387,0
+Forth,/docs/manual/vhosts/details.html.fr,details.html.fr,464,388,0,76,0,24396,0
+XML,/docs/manual/vhosts/details.xml,details.xml,419,324,17,78,0,17340,0
+Forth,/docs/manual/vhosts/details.xml.fr,details.xml.fr,452,374,0,78,2,21028,0
+HTML,/docs/manual/mod/directive-dict.html,directive-dict.html,17,13,0,4,0,415,0
+XML,/docs/manual/mod/directive-dict.xml,directive-dict.xml,289,210,17,62,0,11643,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/directiveindex.xsl,directiveindex.xsl,130,108,0,22,0,4885,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/latex/directiveindex.xsl,directiveindex.xsl,61,46,0,15,0,2149,0
+HTML,/docs/manual/mod/directives.html,directives.html,25,19,0,6,0,579,0
+XML,/docs/manual/mod/directives.xml,directives.xml,40,20,17,3,0,1557,0
+HTML,/docs/manual/dns-caveats.html,dns-caveats.html,21,16,0,5,0,494,0
+Forth,/docs/manual/dns-caveats.html.fr,dns-caveats.html.fr,209,186,0,23,0,11780,0
+XML,/docs/manual/dns-caveats.xml,dns-caveats.xml,187,143,17,27,0,7533,0
+Forth,/docs/manual/dns-caveats.xml.fr,dns-caveats.xml.fr,202,173,0,29,2,9239,0
+HTML,/docs/manual/developer/documenting.html,documenting.html,5,4,0,1,0,127,0
+XML,/docs/manual/developer/documenting.xml,documenting.xml,84,54,17,13,0,3253,0
+HTML,/docs/manual/dso.html,dso.html,21,16,0,5,0,454,0
+Forth,/docs/manual/dso.html.fr,dso.html.fr,319,285,0,34,0,19836,0
+XML,/docs/manual/dso.xml,dso.xml,294,235,17,42,0,13328,0
+Forth,/docs/manual/dso.xml.fr,dso.xml.fr,317,272,0,45,2,18253,0
+C,/os/bs2000/ebcdic.c,ebcdic.c,210,127,78,5,6,11741,0
+C Header,/os/bs2000/ebcdic.h,ebcdic.h,33,6,23,4,0,1307,0
+HTML,/docs/manual/platform/ebcdic.html,ebcdic.html,9,7,0,2,0,211,0
+XML,/docs/manual/platform/ebcdic.xml,ebcdic.xml,585,453,17,115,0,17939,0
+XML,/docs/manual/style/lang/en.xml,en.xml,143,84,39,20,0,6196,0
+HTML,/docs/manual/env.html,env.html,21,16,0,5,0,454,0
+Forth,/docs/manual/env.html.fr,env.html.fr,495,366,0,129,2,28615,0
+XML,/docs/manual/env.xml,env.xml,499,397,17,85,0,21241,0
+Forth,/docs/manual/env.xml.fr,env.xml.fr,526,443,0,83,4,25397,0
+Autoconf,/support/envvars-std.in,envvars-std.in,24,3,21,0,0,986,0
+C,/server/eoc_bucket.c,eoc_bucket.c,55,33,15,7,0,1731,0
+C,/server/eor_bucket.c,eor_bucket.c,102,60,30,12,5,3329,0
+C,/server/error_bucket.c,error_bucket.c,74,49,15,10,1,2335,0
+XML,/docs/manual/style/lang/es.xml,es.xml,143,85,39,19,0,6607,0
+C,/server/mpm/event/event.c,event.c,2857,1990,534,333,414,100438,0
+HTML,/docs/manual/mod/event.html,event.html,9,7,0,2,0,206,0
+Forth,/docs/manual/mod/event.html.fr,event.html.fr,144,133,0,11,0,9663,0
+XML,/docs/manual/mod/event.xml,event.xml,136,102,17,17,0,5942,0
+Forth,/docs/manual/mod/event.xml.fr,event.xml.fr,147,128,0,19,2,6943,0
+HTML,/docs/manual/vhosts/examples.html,examples.html,21,16,0,5,0,479,0
+Forth,/docs/manual/vhosts/examples.html.fr,examples.html.fr,686,594,0,92,0,28736,0
+XML,/docs/manual/vhosts/examples.xml,examples.xml,639,527,17,95,0,21138,0
+Forth,/docs/manual/vhosts/examples.xml.fr,examples.xml.fr,656,563,0,93,2,23070,0
+HTML,/docs/manual/expr.html,expr.html,5,4,0,1,0,120,0
+XML,/docs/manual/expr.xml,expr.xml,393,317,17,59,0,14065,0
+Document Type Definition,/docs/manual/style/faq.dtd,faq.dtd,35,26,0,9,0,1200,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/latex/faq.xsl,faq.xsl,43,33,0,10,0,1568,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/faq.xsl,faq.xsl,199,168,0,31,0,7490,0
+Shell,/build/fastgen.sh,fastgen.sh,89,59,19,11,7,2328,0
+C Header,/modules/proxy/fcgi_protocol.h,fcgi_protocol.h,107,54,37,16,0,3010,0
+C,/support/fcgistarter.c,fcgistarter.c,215,142,31,42,31,5781,0
+HTML,/docs/manual/programs/fcgistarter.html,fcgistarter.html,9,7,0,2,0,218,0
+XML,/docs/manual/programs/fcgistarter.xml,fcgistarter.xml,61,34,17,10,0,2053,0
+HTML,/docs/manual/vhosts/fd-limits.html,fd-limits.html,21,16,0,5,0,484,0
+Forth,/docs/manual/vhosts/fd-limits.html.fr,fd-limits.html.fr,143,120,0,23,0,8129,0
+XML,/docs/manual/vhosts/fd-limits.xml,fd-limits.xml,124,82,17,25,0,4624,0
+Forth,/docs/manual/vhosts/fd-limits.xml.fr,fd-limits.xml.fr,141,113,0,28,2,5995,0
+C,/server/mpm/worker/fdqueue.c,fdqueue.c,403,255,96,52,71,12900,0
+C,/server/mpm/event/fdqueue.c,fdqueue.c,464,297,103,64,72,14685,0
+C Header,/server/mpm/worker/fdqueue.h,fdqueue.h,73,42,23,8,0,2490,0
+C Header,/server/mpm/event/fdqueue.h,fdqueue.h,97,61,23,13,0,3120,0
+HTML,/docs/manual/filter.html,filter.html,25,19,0,6,0,555,0
+Forth,/docs/manual/filter.html.fr,filter.html.fr,174,159,0,15,0,13281,0
+XML,/docs/manual/filter.xml,filter.xml,170,135,17,18,0,7561,0
+Forth,/docs/manual/filter.xml.fr,filter.xml.fr,191,170,0,21,2,9353,0
+HTML,/docs/manual/developer/filters.html,filters.html,5,4,0,1,0,123,0
+Lua,/modules/lua/test/htdocs/filters.lua,filters.lua,7,4,1,2,0,124,0
+XML,/docs/manual/developer/filters.xml,filters.xml,209,165,17,27,0,10517,0
+Plain Text,/modules/lua/test/htdocs/find_me.txt,find_me.txt,1,1,0,0,0,14,0
+HTML,/docs/manual/rewrite/flags.html,flags.html,9,7,0,2,0,206,0
+Forth,/docs/manual/rewrite/flags.html.fr,flags.html.fr,707,605,0,102,0,36647,0
+XML,/docs/manual/rewrite/flags.xml,flags.xml,671,528,17,126,0,25852,0
+Forth,/docs/manual/rewrite/flags.xml.fr,flags.xml.fr,719,587,0,132,2,33693,0
+XML,/docs/manual/style/lang/fr.xml,fr.xml,144,73,52,19,0,6445,0
+C,/server/gen_test_char.c,gen_test_char.c,139,88,35,16,19,4644,0
+Shell,/build/get-version.sh,get-version.sh,59,27,29,3,2,2147,0
+HTML,/docs/manual/glossary.html,glossary.html,29,22,0,7,0,655,0
+Forth,/docs/manual/glossary.html.fr,glossary.html.fr,559,493,0,66,0,30426,0
+XML,/docs/manual/glossary.xml,glossary.xml,493,416,17,60,0,24347,0
+Forth,/docs/manual/glossary.xml.fr,glossary.xml.fr,572,498,0,74,2,29155,0
+HTML,/docs/manual/handler.html,handler.html,25,19,0,6,0,561,0
+Forth,/docs/manual/handler.html.fr,handler.html.fr,163,132,0,31,0,10504,0
+XML,/docs/manual/handler.xml,handler.xml,163,114,17,32,0,5957,0
+Forth,/docs/manual/handler.xml.fr,handler.xml.fr,170,135,0,35,2,7262,0
+Lua,/modules/lua/test/htdocs/headers.lua,headers.lua,6,6,0,0,0,128,0
+C Header,/include/heartbeat.h,heartbeat.h,55,20,28,7,0,1399,0
+Lua,/modules/lua/test/helpers.lua,helpers.lua,36,32,0,4,6,690,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/hhc.xsl,hhc.xsl,668,572,0,96,0,25795,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/hhp.xsl,hhp.xsl,316,270,0,46,0,14198,0
+HTML,/docs/manual/developer/hooks.html,hooks.html,5,4,0,1,0,121,0
+Lua,/modules/lua/test/htdocs/hooks.lua,hooks.lua,29,23,3,3,6,578,0
+XML,/docs/manual/developer/hooks.xml,hooks.xml,236,183,17,36,0,9131,0
+HTML,/docs/manual/rewrite/htaccess.html,htaccess.html,5,4,0,1,0,124,0
+HTML,/docs/manual/howto/htaccess.html,htaccess.html,21,16,0,5,0,485,0
+Forth,/docs/manual/howto/htaccess.html.fr,htaccess.html.fr,468,403,0,65,0,26893,0
+XML,/docs/manual/howto/htaccess.xml,htaccess.xml,450,353,17,80,0,19129,0
+XML,/docs/manual/rewrite/htaccess.xml,htaccess.xml,46,21,18,7,0,2028,0
+Forth,/docs/manual/howto/htaccess.xml.fr,htaccess.xml.fr,488,409,0,79,2,23310,0
+C,/support/htcacheclean.c,htcacheclean.c,1840,1469,154,217,473,63521,0
+HTML,/docs/manual/programs/htcacheclean.html,htcacheclean.html,13,10,0,3,0,315,0
+XML,/docs/manual/programs/htcacheclean.xml,htcacheclean.xml,210,162,17,31,0,9125,0
+C,/support/htdbm.c,htdbm.c,583,484,40,59,83,17475,0
+HTML,/docs/manual/programs/htdbm.html,htdbm.html,9,7,0,2,0,206,0
+XML,/docs/manual/programs/htdbm.xml,htdbm.xml,276,217,17,42,0,11369,0
+C,/support/htdigest.c,htdigest.c,293,223,29,41,45,8124,0
+HTML,/docs/manual/programs/htdigest.html,htdigest.html,13,10,0,3,0,303,0
+XML,/docs/manual/programs/htdigest.xml,htdigest.xml,74,45,17,12,0,3099,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/latex/html.xsl,html.xsl,323,291,0,32,0,9768,0
+Perl,/support/SHA1/htpasswd-sha1.pl,htpasswd-sha1.pl,22,5,13,4,1,729,0
+C,/support/htpasswd.c,htpasswd.c,653,484,117,52,116,20013,0
+HTML,/docs/manual/programs/htpasswd.html,htpasswd.html,13,10,0,3,0,303,0
+XML,/docs/manual/programs/htpasswd.xml,htpasswd.xml,219,164,17,38,0,9787,0
+C Header,/include/http_config.h,http_config.h,1269,394,743,132,7,49789,0
+C Header,/include/http_connection.h,http_connection.h,148,24,108,16,1,5538,0
+C,/modules/http/http_core.c,http_core.c,300,210,46,44,47,10269,0
+C Header,/include/http_core.h,http_core.h,797,255,417,125,3,26229,0
+C,/modules/http/http_etag.c,http_etag.c,221,136,66,19,23,7153,0
+C,/modules/http/http_filters.c,http_filters.c,1680,1120,374,186,310,56677,0
+C Header,/include/http_log.h,http_log.h,638,266,319,53,27,28021,0
+C Header,/include/http_main.h,http_main.h,77,21,46,10,0,2759,0
+C,/modules/http/http_protocol.c,http_protocol.c,1437,991,313,133,259,52239,0
+C Header,/include/http_protocol.h,http_protocol.h,680,113,486,81,1,23631,0
+C,/modules/http/http_request.c,http_request.c,707,613,71,23,29,24044,0
+C Header,/include/http_request.h,http_request.h,570,96,419,55,1,23378,0
+C Header,/include/http_vhost.h,http_vhost.h,119,23,82,14,0,4047,0
+Autoconf,/docs/conf/extra/httpd-autoindex.conf.in,httpd-autoindex.conf.in,93,36,45,12,0,2861,0
+Autoconf,/docs/conf/extra/httpd-dav.conf.in,httpd-dav.conf.in,48,19,22,7,0,1728,0
+Autoconf,/docs/conf/extra/httpd-default.conf.in,httpd-default.conf.in,75,9,57,9,0,2345,0
+Autoconf,/docs/conf/extra/httpd-info.conf.in,httpd-info.conf.in,36,10,22,4,0,1119,0
+Autoconf,/docs/conf/extra/httpd-languages.conf.in,httpd-languages.conf.in,141,75,62,4,0,5078,0
+Autoconf,/docs/conf/extra/httpd-manual.conf.in,httpd-manual.conf.in,31,16,10,5,0,936,0
+Autoconf,/docs/conf/extra/httpd-mpm.conf.in,httpd-mpm.conf.in,118,49,59,10,0,4357,0
+Autoconf,/docs/conf/extra/httpd-multilang-errordoc.conf.in,httpd-multilang-errordoc.conf.in,52,27,21,4,0,2192,0
+Autoconf,/docs/conf/extra/httpd-ssl.conf.in,httpd-ssl.conf.in,234,26,185,23,0,10554,0
+Autoconf,/docs/conf/extra/httpd-userdir.conf.in,httpd-userdir.conf.in,26,11,12,3,0,809,0
+Autoconf,/docs/conf/extra/httpd-vhosts.conf.in,httpd-vhosts.conf.in,46,16,23,7,0,1587,0
+Autoconf,/docs/conf/httpd.conf.in,httpd.conf.in,403,54,300,49,0,13345,0
+C Header,/include/httpd.h,httpd.h,1982,629,1110,243,19,67944,0
+HTML,/docs/manual/programs/httpd.html,httpd.html,13,10,0,3,0,294,0
+Windows Resource-Definition Script,/build/win32/httpd.rc,httpd.rc,88,67,15,6,0,2708,0
+Autoconf,/build/rpm/httpd.spec.in,httpd.spec.in,525,412,22,91,30,18179,0
+XML,/docs/manual/programs/httpd.xml,httpd.xml,202,126,17,59,0,7487,0
+C,/support/httxt2dbm.c,httxt2dbm.c,336,258,22,56,46,8240,0
+HTML,/docs/manual/programs/httxt2dbm.html,httxt2dbm.html,9,7,0,2,0,214,0
+XML,/docs/manual/programs/httxt2dbm.xml,httxt2dbm.xml,81,53,17,11,0,3000,0
+HTML,/docs/manual/misc/index.html,index.html,17,13,0,4,0,379,0
+HTML,/docs/manual/ssl/index.html,index.html,17,13,0,4,0,376,0
+HTML,/docs/manual/index.html,index.html,33,25,0,8,0,725,0
+HTML,/docs/manual/programs/index.html,index.html,17,13,0,4,0,379,0
+HTML,/docs/manual/mod/index.html,index.html,29,22,0,7,0,634,0
+HTML,/docs/manual/faq/index.html,index.html,13,10,0,3,0,291,0
+HTML,/docs/manual/howto/index.html,index.html,13,10,0,3,0,294,0
+HTML,/docs/manual/vhosts/index.html,index.html,25,19,0,6,0,549,0
+HTML,/docs/manual/platform/index.html,index.html,9,7,0,2,0,209,0
+HTML,/docs/manual/rewrite/index.html,index.html,13,10,0,3,0,291,0
+HTML,/docs/docroot/index.html,index.html,1,1,0,0,0,45,0
+HTML,/docs/manual/developer/index.html,index.html,5,4,0,1,0,121,0
+Forth,/docs/manual/index.html.fr,index.html.fr,105,105,0,0,0,8142,0
+Forth,/docs/manual/misc/index.html.fr,index.html.fr,86,74,0,12,0,4637,0
+Forth,/docs/manual/ssl/index.html.fr,index.html.fr,63,62,0,1,0,4490,0
+Forth,/docs/manual/faq/index.html.fr,index.html.fr,128,113,0,15,0,7818,0
+Forth,/docs/manual/mod/index.html.fr,index.html.fr,239,238,0,1,18,19884,0
+Forth,/docs/manual/rewrite/index.html.fr,index.html.fr,101,95,0,6,0,6573,0
+Forth,/docs/manual/vhosts/index.html.fr,index.html.fr,111,99,0,12,0,7613,0
+XML,/docs/manual/rewrite/index.xml,index.xml,91,59,17,15,0,4151,0
+XML,/docs/manual/platform/index.xml,index.xml,88,52,17,19,0,2718,0
+XML,/docs/manual/vhosts/index.xml,index.xml,106,71,17,18,0,4308,0
+XML,/docs/manual/misc/index.xml,index.xml,75,42,17,16,0,2523,0
+XML,/docs/manual/ssl/index.xml,index.xml,56,30,17,9,0,2041,0
+XML,/docs/manual/index.xml,index.xml,95,67,17,11,0,4299,0
+XML,/docs/manual/howto/index.xml,index.xml,116,78,17,21,0,4221,0
+XML,/docs/manual/programs/index.xml,index.xml,112,54,17,41,0,3128,0
+XML,/docs/manual/mod/index.xml,index.xml,37,18,17,2,0,1478,0
+XML,/docs/manual/developer/index.xml,index.xml,83,55,17,11,0,3747,0
+XML,/docs/manual/faq/index.xml,index.xml,114,77,17,20,0,4951,0
+Forth,/docs/manual/ssl/index.xml.fr,index.xml.fr,59,48,0,11,2,2381,0
+Forth,/docs/manual/misc/index.xml.fr,index.xml.fr,82,64,0,18,2,3127,0
+Forth,/docs/manual/vhosts/index.xml.fr,index.xml.fr,108,88,0,20,2,4744,0
+Forth,/docs/manual/rewrite/index.xml.fr,index.xml.fr,108,93,0,15,2,5431,0
+Forth,/docs/manual/mod/index.xml.fr,index.xml.fr,38,34,0,4,2,1640,0
+Forth,/docs/manual/faq/index.xml.fr,index.xml.fr,130,109,0,21,2,6255,0
+Forth,/docs/manual/index.xml.fr,index.xml.fr,95,82,0,13,2,4873,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/indexpage.xsl,indexpage.xsl,211,172,0,39,0,7118,0
+Autoconf,/build/install-bindist.sh.in,install-bindist.sh.in,176,141,24,11,25,5098,0
+HTML,/docs/manual/install.html,install.html,29,22,0,7,0,648,0
+Forth,/docs/manual/install.html.fr,install.html.fr,418,353,0,65,0,23570,0
+Shell,/build/install.sh,install.sh,123,72,41,10,14,3311,0
+XML,/docs/manual/install.xml,install.xml,391,298,17,76,0,16183,0
+Forth,/docs/manual/install.xml.fr,install.xml.fr,409,330,0,79,2,19831,0
+AWK,/build/installwinconf.awk,installwinconf.awk,239,213,13,13,26,11110,0
+Shell,/build/instdso.sh,instdso.sh,105,61,31,13,13,3089,0
+HTML,/docs/manual/rewrite/intro.html,intro.html,9,7,0,2,0,206,0
+Forth,/docs/manual/rewrite/intro.html.fr,intro.html.fr,351,308,0,43,0,20381,0
+XML,/docs/manual/rewrite/intro.xml,intro.xml,338,264,18,56,0,14202,0
+Forth,/docs/manual/rewrite/intro.xml.fr,intro.xml.fr,380,323,0,57,2,18275,0
+HTML,/docs/manual/invoking.html,invoking.html,29,22,0,7,0,655,0
+Forth,/docs/manual/invoking.html.fr,invoking.html.fr,164,150,0,14,0,11705,0
+XML,/docs/manual/invoking.xml,invoking.xml,142,102,17,23,0,6510,0
+Forth,/docs/manual/invoking.xml.fr,invoking.xml.fr,156,131,0,25,2,8312,0
+HTML,/docs/manual/vhosts/ip-based.html,ip-based.html,21,16,0,5,0,479,0
+Forth,/docs/manual/vhosts/ip-based.html.fr,ip-based.html.fr,194,171,0,23,0,11632,0
+XML,/docs/manual/vhosts/ip-based.xml,ip-based.xml,171,125,17,29,0,6974,0
+Forth,/docs/manual/vhosts/ip-based.xml.fr,ip-based.xml.fr,187,156,0,31,2,8299,0
+XML,/docs/manual/style/lang/ja.xml,ja.xml,141,81,40,20,0,6498,0
+Lua,/modules/lua/test/lib/kangaroo.lua,kangaroo.lua,19,4,14,1,0,856,0
+XML,/docs/manual/style/lang/ko.xml,ko.xml,146,80,45,21,0,6120,0
+XML,/docs/manual/style/lang-targets.xml,lang-targets.xml,262,197,41,24,0,11721,0
+Document Type Definition,/docs/manual/style/lang.dtd,lang.dtd,24,18,0,6,0,907,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/language.xsl,language.xsl,668,587,0,81,0,23804,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/latex/latex.xsl,latex.xsl,384,338,0,46,0,12706,0
+XML,/docs/manual/style/xsl/util/lf.xml,lf.xml,3,2,0,1,0,117,0
+XML,/docs/manual/style/xsl/util/li-end.xml,li-end.xml,1,1,0,0,0,82,0
+XML,/docs/manual/style/xsl/util/li-start.xml,li-start.xml,1,1,0,0,0,81,0
+C,/modules/arch/netware/libprews.c,libprews.c,80,48,26,6,0,2430,0
+Expect,/modules/proxy/libproxy.exp,libproxy.exp,1,1,0,0,0,13,0
+Makefile,/build/library.mk,library.mk,22,3,17,2,0,1060,0
+C Header,/modules/filters/libsed.h,libsed.h,175,126,19,30,0,4630,0
+HTML,/docs/manual/license.html,license.html,5,4,0,1,0,123,0
+XML,/docs/manual/license.xml,license.xml,240,186,17,37,0,12652,0
+Perl,/support/list_hooks.pl,list_hooks.pl,101,72,19,10,15,2905,0
+C,/server/listen.c,listen.c,723,508,126,89,162,23559,0
+C,/modules/dav/main/liveprop.c,liveprop.c,140,91,24,25,24,4381,0
+C,/modules/dav/fs/lock.c,lock.c,1444,940,299,205,205,46018,0
+C,/modules/dav/lock/locks.c,locks.c,1210,781,251,178,148,38369,0
+C Header,/modules/dav/lock/locks.h,locks.h,33,4,24,5,0,1122,0
+C,/server/log.c,log.c,1733,1314,214,205,271,53756,0
+Autoconf,/support/log_server_status.in,log_server_status.in,78,44,28,6,9,2590,0
+C,/support/logresolve.c,logresolve.c,328,199,90,39,45,10414,0
+HTML,/docs/manual/programs/logresolve.html,logresolve.html,13,10,0,3,0,309,0
+Autoconf,/support/logresolve.pl.in,logresolve.pl.in,225,110,85,30,21,6877,0
+XML,/docs/manual/programs/logresolve.xml,logresolve.xml,67,34,17,16,0,2380,0
+HTML,/docs/manual/logs.html,logs.html,21,16,0,5,0,459,0
+Forth,/docs/manual/logs.html.fr,logs.html.fr,752,618,0,134,0,43339,0
+XML,/docs/manual/logs.xml,logs.xml,750,694,17,39,0,31622,0
+Forth,/docs/manual/logs.xml.fr,logs.xml.fr,789,663,0,126,2,40732,0
+Makefile,/build/ltlib.mk,ltlib.mk,23,3,17,3,0,951,0
+C,/modules/lua/lua_apr.c,lua_apr.c,90,56,20,14,0,2526,0
+C Header,/modules/lua/lua_apr.h,lua_apr.h,25,6,16,3,0,1083,0
+C,/modules/lua/lua_config.c,lua_config.c,302,241,25,36,20,7821,0
+C Header,/modules/lua/lua_config.h,lua_config.h,31,10,16,5,0,1305,0
+C,/modules/lua/lua_request.c,lua_request.c,663,532,43,88,18,21033,0
+C Header,/modules/lua/lua_request.h,lua_request.h,41,18,16,7,0,1453,0
+C,/modules/lua/lua_vmprep.c,lua_vmprep.c,366,215,121,30,14,13419,0
+C Header,/modules/lua/lua_vmprep.h,lua_vmprep.h,142,60,55,27,0,4661,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/maf.xsl,maf.xsl,56,47,0,9,0,2012,0
+C,/server/main.c,main.c,762,567,72,123,73,24712,0
+AWK,/build/make_exports.awk,make_exports.awk,162,117,14,31,8,3716,0
+AWK,/build/make_nw_export.awk,make_nw_export.awk,95,59,23,13,0,2635,0
+Shell,/test/make_sni.sh,make_sni.sh,398,284,77,37,20,12529,0
+AWK,/build/make_var_export.awk,make_var_export.awk,75,51,18,6,13,1806,0
+CSS,/docs/manual/style/css/manual-chm.css,manual-chm.css,27,7,16,4,0,915,0
+CSS,/docs/manual/style/css/manual-loose-100pc.css,manual-loose-100pc.css,155,102,25,28,0,3065,0
+CSS,/docs/manual/style/css/manual-print.css,manual-print.css,717,485,123,109,0,13200,0
+CSS,/docs/manual/style/css/manual-zip-100pc.css,manual-zip-100pc.css,23,4,16,3,0,885,0
+CSS,/docs/manual/style/css/manual-zip.css,manual-zip.css,24,4,16,4,0,874,0
+CSS,/docs/manual/style/css/manual.css,manual.css,1026,724,144,158,0,18674,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/manual.de.xsl,manual.de.xsl,37,28,0,9,0,1724,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/manual.en.xsl,manual.en.xsl,37,28,0,9,0,1724,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/manual.es.xsl,manual.es.xsl,37,28,0,9,0,1724,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/manual.fr.xsl,manual.fr.xsl,37,28,0,9,0,1724,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/manual.ja.xsl,manual.ja.xsl,37,28,0,9,0,1714,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/manual.ko.xsl,manual.ko.xsl,37,28,0,9,0,1716,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/manual.pt-br.xsl,manual.pt-br.xsl,37,28,0,9,0,1730,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/manual.ru.xsl,manual.ru.xsl,37,28,0,9,0,1716,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/manual.tr.xsl,manual.tr.xsl,37,28,0,9,0,1714,0
+Document Type Definition,/docs/manual/style/manualpage.dtd,manualpage.dtd,27,21,0,6,0,1035,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/latex/manualpage.xsl,manualpage.xsl,35,25,0,10,0,1181,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/manualpage.xsl,manualpage.xsl,87,72,0,15,0,3259,0
+HTML,/docs/manual/vhosts/mass.html,mass.html,17,13,0,4,0,375,0
+Forth,/docs/manual/vhosts/mass.html.fr,mass.html.fr,466,424,0,42,0,22459,0
+XML,/docs/manual/vhosts/mass.xml,mass.xml,315,255,17,43,0,12144,0
+Forth,/docs/manual/vhosts/mass.xml.fr,mass.xml.fr,443,388,0,55,2,19129,0
+AWK,/build/mkconfNW.awk,mkconfNW.awk,152,124,14,14,3,5815,0
+Shell,/build/mkdir.sh,mkdir.sh,48,22,24,2,4,1660,0
+C,/modules/aaa/mod_access_compat.c,mod_access_compat.c,380,294,29,57,71,10461,0
+HTML,/docs/manual/mod/mod_access_compat.html,mod_access_compat.html,13,10,0,3,0,327,0
+Forth,/docs/manual/mod/mod_access_compat.html.fr,mod_access_compat.html.fr,483,430,0,53,0,27640,0
+XML,/docs/manual/mod/mod_access_compat.xml,mod_access_compat.xml,465,388,17,60,0,19349,0
+Forth,/docs/manual/mod/mod_access_compat.xml.fr,mod_access_compat.xml.fr,500,438,0,62,2,23894,0
+C,/modules/mappers/mod_actions.c,mod_actions.c,220,137,49,34,27,7221,0
+Expect,/modules/mappers/mod_actions.exp,mod_actions.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_actions.html,mod_actions.html,21,16,0,5,0,494,0
+Forth,/docs/manual/mod/mod_actions.html.fr,mod_actions.html.fr,179,166,0,13,0,11233,0
+XML,/docs/manual/mod/mod_actions.xml,mod_actions.xml,158,120,17,21,0,6440,0
+Forth,/docs/manual/mod/mod_actions.xml.fr,mod_actions.xml.fr,167,144,0,23,2,7570,0
+C,/modules/mappers/mod_alias.c,mod_alias.c,527,390,71,66,93,18264,0
+Expect,/modules/mappers/mod_alias.exp,mod_alias.exp,1,1,0,0,0,13,0
+HTML,/docs/manual/mod/mod_alias.html,mod_alias.html,21,16,0,5,0,484,0
+Forth,/docs/manual/mod/mod_alias.html.fr,mod_alias.html.fr,568,492,0,76,0,33578,0
+XML,/docs/manual/mod/mod_alias.xml,mod_alias.xml,536,427,17,92,0,21361,0
+Forth,/docs/manual/mod/mod_alias.xml.fr,mod_alias.xml.fr,572,480,0,92,2,24443,0
+C,/modules/aaa/mod_allowmethods.c,mod_allowmethods.c,140,83,35,22,11,3837,0
+HTML,/docs/manual/mod/mod_allowmethods.html,mod_allowmethods.html,5,4,0,1,0,132,0
+XML,/docs/manual/mod/mod_allowmethods.xml,mod_allowmethods.xml,85,45,26,14,0,2927,0
+C,/modules/generators/mod_asis.c,mod_asis.c,128,88,19,21,19,4100,0
+Expect,/modules/generators/mod_asis.exp,mod_asis.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_asis.html,mod_asis.html,17,13,0,4,0,391,0
+Forth,/docs/manual/mod/mod_asis.html.fr,mod_asis.html.fr,116,106,0,10,0,6686,0
+XML,/docs/manual/mod/mod_asis.xml,mod_asis.xml,96,63,17,16,0,3686,0
+Forth,/docs/manual/mod/mod_asis.xml.fr,mod_asis.xml.fr,99,81,0,18,2,4218,0
+C Header,/include/mod_auth.h,mod_auth.h,141,68,53,20,0,4525,0
+C,/modules/aaa/mod_auth_basic.c,mod_auth_basic.c,315,214,50,51,32,10527,0
+HTML,/docs/manual/mod/mod_auth_basic.html,mod_auth_basic.html,17,13,0,4,0,415,0
+Forth,/docs/manual/mod/mod_auth_basic.html.fr,mod_auth_basic.html.fr,145,138,0,7,0,10274,0
+XML,/docs/manual/mod/mod_auth_basic.xml,mod_auth_basic.xml,116,87,17,12,0,5038,0
+Forth,/docs/manual/mod/mod_auth_basic.xml.fr,mod_auth_basic.xml.fr,129,115,0,14,2,6047,0
+C,/modules/aaa/mod_auth_digest.c,mod_auth_digest.c,2103,1417,364,322,415,70264,0
+HTML,/docs/manual/mod/mod_auth_digest.html,mod_auth_digest.html,13,10,0,3,0,324,0
+Forth,/docs/manual/mod/mod_auth_digest.html.fr,mod_auth_digest.html.fr,364,335,0,29,0,24084,0
+XML,/docs/manual/mod/mod_auth_digest.xml,mod_auth_digest.xml,347,258,48,41,0,14619,0
+Forth,/docs/manual/mod/mod_auth_digest.xml.fr,mod_auth_digest.xml.fr,387,343,0,44,2,18936,0
+C,/modules/aaa/mod_auth_form.c,mod_auth_form.c,1223,827,239,157,201,45037,0
+HTML,/docs/manual/mod/mod_auth_form.html,mod_auth_form.html,5,4,0,1,0,129,0
+XML,/docs/manual/mod/mod_auth_form.xml,mod_auth_form.xml,688,567,17,104,0,31595,0
+C,/modules/aaa/mod_authn_anon.c,mod_authn_anon.c,215,136,53,26,23,6882,0
+HTML,/docs/manual/mod/mod_authn_anon.html,mod_authn_anon.html,13,10,0,3,0,321,0
+XML,/docs/manual/mod/mod_authn_anon.xml,mod_authn_anon.xml,208,176,17,15,0,7705,0
+C,/modules/aaa/mod_authn_core.c,mod_authn_core.c,380,254,59,67,21,13097,0
+HTML,/docs/manual/mod/mod_authn_core.html,mod_authn_core.html,9,7,0,2,0,224,0
+Forth,/docs/manual/mod/mod_authn_core.html.fr,mod_authn_core.html.fr,269,243,0,26,0,15213,0
+XML,/docs/manual/mod/mod_authn_core.xml,mod_authn_core.xml,243,193,17,33,0,9397,0
+Forth,/docs/manual/mod/mod_authn_core.xml.fr,mod_authn_core.xml.fr,260,223,0,37,2,10845,0
+C,/modules/aaa/mod_authn_dbd.c,mod_authn_dbd.c,295,254,21,20,56,11054,0
+HTML,/docs/manual/mod/mod_authn_dbd.html,mod_authn_dbd.html,5,4,0,1,0,129,0
+XML,/docs/manual/mod/mod_authn_dbd.xml,mod_authn_dbd.xml,195,158,17,20,0,8076,0
+C,/modules/aaa/mod_authn_dbm.c,mod_authn_dbm.c,218,156,23,39,17,6323,0
+HTML,/docs/manual/mod/mod_authn_dbm.html,mod_authn_dbm.html,13,10,0,3,0,318,0
+XML,/docs/manual/mod/mod_authn_dbm.xml,mod_authn_dbm.xml,126,92,17,17,0,5285,0
+C,/modules/aaa/mod_authn_file.c,mod_authn_file.c,192,140,18,34,25,5945,0
+HTML,/docs/manual/mod/mod_authn_file.html,mod_authn_file.html,17,13,0,4,0,415,0
+Forth,/docs/manual/mod/mod_authn_file.html.fr,mod_authn_file.html.fr,147,133,0,14,0,9758,0
+XML,/docs/manual/mod/mod_authn_file.xml,mod_authn_file.xml,121,86,17,18,0,4935,0
+Forth,/docs/manual/mod/mod_authn_file.xml.fr,mod_authn_file.xml.fr,135,115,0,20,2,6034,0
+C,/modules/aaa/mod_authn_socache.c,mod_authn_socache.c,431,345,50,36,58,15397,0
+HTML,/docs/manual/mod/mod_authn_socache.html,mod_authn_socache.html,5,4,0,1,0,133,0
+XML,/docs/manual/mod/mod_authn_socache.xml,mod_authn_socache.xml,188,153,16,19,0,8623,0
+C,/modules/aaa/mod_authnz_ldap.c,mod_authnz_ldap.c,1819,1363,178,278,237,68203,0
+HTML,/docs/manual/mod/mod_authnz_ldap.html,mod_authnz_ldap.html,9,7,0,2,0,226,0
+Forth,/docs/manual/mod/mod_authnz_ldap.html.fr,mod_authnz_ldap.html.fr,1501,1311,0,190,0,87305,0
+XML,/docs/manual/mod/mod_authnz_ldap.xml,mod_authnz_ldap.xml,1322,1096,18,208,0,56830,0
+Forth,/docs/manual/mod/mod_authnz_ldap.xml.fr,mod_authnz_ldap.xml.fr,1491,1282,0,209,2,64303,0
+C,/modules/aaa/mod_authz_core.c,mod_authz_core.c,1059,763,101,195,159,33736,0
+HTML,/docs/manual/mod/mod_authz_core.html,mod_authz_core.html,5,4,0,1,0,130,0
+XML,/docs/manual/mod/mod_authz_core.xml,mod_authz_core.xml,588,480,17,91,0,23660,0
+C,/modules/aaa/mod_authz_dbd.c,mod_authz_dbd.c,355,289,27,39,59,12511,0
+C Header,/modules/aaa/mod_authz_dbd.h,mod_authz_dbd.h,44,23,18,3,0,1974,0
+HTML,/docs/manual/mod/mod_authz_dbd.html,mod_authz_dbd.html,5,4,0,1,0,129,0
+XML,/docs/manual/mod/mod_authz_dbd.xml,mod_authz_dbd.xml,228,186,17,25,0,8980,0
+C,/modules/aaa/mod_authz_dbm.c,mod_authz_dbm.c,306,220,33,53,31,9745,0
+HTML,/docs/manual/mod/mod_authz_dbm.html,mod_authz_dbm.html,9,7,0,2,0,225,0
+XML,/docs/manual/mod/mod_authz_dbm.xml,mod_authz_dbm.xml,121,86,17,18,0,4787,0
+C,/modules/aaa/mod_authz_groupfile.c,mod_authz_groupfile.c,300,203,53,44,30,9464,0
+HTML,/docs/manual/mod/mod_authz_groupfile.html,mod_authz_groupfile.html,13,10,0,3,0,336,0
+XML,/docs/manual/mod/mod_authz_groupfile.xml,mod_authz_groupfile.xml,77,48,17,12,0,3113,0
+C,/modules/aaa/mod_authz_host.c,mod_authz_host.c,295,207,40,48,36,9238,0
+HTML,/docs/manual/mod/mod_authz_host.html,mod_authz_host.html,9,7,0,2,0,224,0
+Forth,/docs/manual/mod/mod_authz_host.html.fr,mod_authz_host.html.fr,192,158,0,34,0,9824,0
+XML,/docs/manual/mod/mod_authz_host.xml,mod_authz_host.xml,174,120,17,37,0,6496,0
+Forth,/docs/manual/mod/mod_authz_host.xml.fr,mod_authz_host.xml.fr,183,144,0,39,2,7854,0
+C,/modules/aaa/mod_authz_owner.c,mod_authz_owner.c,191,144,21,26,16,6902,0
+HTML,/docs/manual/mod/mod_authz_owner.html,mod_authz_owner.html,17,13,0,4,0,419,0
+Forth,/docs/manual/mod/mod_authz_owner.html.fr,mod_authz_owner.html.fr,162,151,0,11,0,9762,0
+XML,/docs/manual/mod/mod_authz_owner.xml,mod_authz_owner.xml,133,102,17,14,0,5947,0
+Forth,/docs/manual/mod/mod_authz_owner.xml.fr,mod_authz_owner.xml.fr,146,129,0,17,2,7090,0
+C,/modules/aaa/mod_authz_user.c,mod_authz_user.c,115,82,15,18,5,3573,0
+HTML,/docs/manual/mod/mod_authz_user.html,mod_authz_user.html,17,13,0,4,0,415,0
+Forth,/docs/manual/mod/mod_authz_user.html.fr,mod_authz_user.html.fr,61,59,0,2,0,4449,0
+XML,/docs/manual/mod/mod_authz_user.xml,mod_authz_user.xml,42,20,17,5,0,1781,0
+Forth,/docs/manual/mod/mod_authz_user.xml.fr,mod_authz_user.xml.fr,46,39,0,7,2,2067,0
+C,/modules/generators/mod_autoindex.c,mod_autoindex.c,2331,1815,322,194,660,78347,0
+Expect,/modules/generators/mod_autoindex.exp,mod_autoindex.exp,1,1,0,0,0,17,0
+HTML,/docs/manual/mod/mod_autoindex.html,mod_autoindex.html,21,16,0,5,0,504,0
+Forth,/docs/manual/mod/mod_autoindex.html.fr,mod_autoindex.html.fr,1077,929,0,148,0,62023,0
+XML,/docs/manual/mod/mod_autoindex.xml,mod_autoindex.xml,1040,862,21,157,0,43133,0
+Forth,/docs/manual/mod/mod_autoindex.xml.fr,mod_autoindex.xml.fr,1134,968,0,166,2,53595,0
+C,/modules/debugging/mod_bucketeer.c,mod_bucketeer.c,187,129,33,25,21,6018,0
+C,/modules/filters/mod_buffer.c,mod_buffer.c,342,199,83,60,45,11487,0
+HTML,/docs/manual/mod/mod_buffer.html,mod_buffer.html,9,7,0,2,0,216,0
+Forth,/docs/manual/mod/mod_buffer.html.fr,mod_buffer.html.fr,106,97,0,9,0,7037,0
+XML,/docs/manual/mod/mod_buffer.xml,mod_buffer.xml,91,61,17,13,0,3803,0
+Forth,/docs/manual/mod/mod_buffer.xml.fr,mod_buffer.xml.fr,99,84,0,15,2,4757,0
+C,/modules/cache/mod_cache.c,mod_cache.c,2425,1459,675,291,371,88637,0
+C Header,/modules/cache/mod_cache.h,mod_cache.h,191,94,72,25,0,7241,0
+HTML,/docs/manual/mod/mod_cache.html,mod_cache.html,17,13,0,4,0,395,0
+Forth,/docs/manual/mod/mod_cache.html.fr,mod_cache.html.fr,1158,1035,0,123,0,70129,0
+XML,/docs/manual/mod/mod_cache.xml,mod_cache.xml,1042,880,17,145,0,43318,0
+Forth,/docs/manual/mod/mod_cache.xml.fr,mod_cache.xml.fr,1148,1001,0,147,2,53637,0
+C,/modules/cache/mod_cache_disk.c,mod_cache_disk.c,1489,1058,205,226,209,50432,0
+C Header,/modules/cache/mod_cache_disk.h,mod_cache_disk.h,92,54,26,12,0,3345,0
+HTML,/docs/manual/mod/mod_cache_disk.html,mod_cache_disk.html,17,13,0,4,0,415,0
+Forth,/docs/manual/mod/mod_cache_disk.html.fr,mod_cache_disk.html.fr,282,256,0,26,0,18677,0
+XML,/docs/manual/mod/mod_cache_disk.xml,mod_cache_disk.xml,260,207,17,36,0,9971,0
+Forth,/docs/manual/mod/mod_cache_disk.xml.fr,mod_cache_disk.xml.fr,272,235,0,37,2,11834,0
+C,/modules/examples/mod_case_filter.c,mod_case_filter.c,139,91,26,22,5,4373,0
+C,/modules/examples/mod_case_filter_in.c,mod_case_filter_in.c,160,106,25,29,12,4711,0
+C,/modules/metadata/mod_cern_meta.c,mod_cern_meta.c,371,192,131,48,36,11649,0
+Expect,/modules/metadata/mod_cern_meta.exp,mod_cern_meta.exp,1,1,0,0,0,17,0
+HTML,/docs/manual/mod/mod_cern_meta.html,mod_cern_meta.html,9,7,0,2,0,225,0
+XML,/docs/manual/mod/mod_cern_meta.xml,mod_cern_meta.xml,120,86,17,17,0,4239,0
+C,/modules/generators/mod_cgi.c,mod_cgi.c,1281,932,166,183,200,42530,0
+Expect,/modules/generators/mod_cgi.exp,mod_cgi.exp,1,1,0,0,0,11,0
+C Header,/modules/generators/mod_cgi.h,mod_cgi.h,67,22,37,8,0,2500,0
+HTML,/docs/manual/mod/mod_cgi.html,mod_cgi.html,13,10,0,3,0,300,0
+XML,/docs/manual/mod/mod_cgi.xml,mod_cgi.xml,233,181,17,35,0,9524,0
+C,/modules/generators/mod_cgid.c,mod_cgid.c,1887,1369,261,257,303,62544,0
+Expect,/modules/generators/mod_cgid.exp,mod_cgid.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_cgid.html,mod_cgid.html,13,10,0,3,0,303,0
+XML,/docs/manual/mod/mod_cgid.xml,mod_cgid.xml,100,67,17,16,0,3868,0
+C,/modules/filters/mod_charset_lite.c,mod_charset_lite.c,1170,803,266,101,171,43709,0
+Expect,/modules/filters/mod_charset_lite.exp,mod_charset_lite.exp,1,1,0,0,0,20,0
+HTML,/docs/manual/mod/mod_charset_lite.html,mod_charset_lite.html,9,7,0,2,0,231,0
+XML,/docs/manual/mod/mod_charset_lite.xml,mod_charset_lite.xml,214,162,17,35,0,8538,0
+C Header,/include/mod_core.h,mod_core.h,95,28,50,17,0,3117,0
+C,/modules/dav/main/mod_dav.c,mod_dav.c,4943,3144,1017,782,1075,175334,0
+C Header,/modules/dav/main/mod_dav.h,mod_dav.h,2480,834,1310,336,1,91731,0
+HTML,/docs/manual/mod/mod_dav.html,mod_dav.html,13,10,0,3,0,300,0
+XML,/docs/manual/mod/mod_dav.xml,mod_dav.xml,256,203,17,36,0,10272,0
+C,/modules/dav/fs/mod_dav_fs.c,mod_dav_fs.c,108,68,20,20,1,3376,0
+HTML,/docs/manual/mod/mod_dav_fs.html,mod_dav_fs.html,13,10,0,3,0,309,0
+XML,/docs/manual/mod/mod_dav_fs.xml,mod_dav_fs.xml,87,53,20,14,0,3484,0
+C,/modules/dav/lock/mod_dav_lock.c,mod_dav_lock.c,104,64,20,20,1,3158,0
+HTML,/docs/manual/mod/mod_dav_lock.html,mod_dav_lock.html,9,7,0,2,0,220,0
+XML,/docs/manual/mod/mod_dav_lock.xml,mod_dav_lock.xml,92,61,17,14,0,3951,0
+C,/modules/database/mod_dbd.c,mod_dbd.c,992,738,94,160,127,29867,0
+C Header,/modules/database/mod_dbd.h,mod_dbd.h,123,57,50,16,0,4156,0
+HTML,/docs/manual/mod/mod_dbd.html,mod_dbd.html,5,4,0,1,0,123,0
+XML,/docs/manual/mod/mod_dbd.xml,mod_dbd.xml,297,244,17,36,0,11870,0
+C,/modules/filters/mod_deflate.c,mod_deflate.c,1410,961,254,195,245,51174,0
+Expect,/modules/filters/mod_deflate.exp,mod_deflate.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_deflate.html,mod_deflate.html,17,13,0,4,0,403,0
+Forth,/docs/manual/mod/mod_deflate.html.fr,mod_deflate.html.fr,412,370,0,42,0,23450,0
+XML,/docs/manual/mod/mod_deflate.xml,mod_deflate.xml,359,288,17,54,0,14327,0
+Forth,/docs/manual/mod/mod_deflate.xml.fr,mod_deflate.xml.fr,393,337,0,56,2,17092,0
+C,/modules/test/mod_dialup.c,mod_dialup.c,307,222,18,67,43,7965,0
+HTML,/docs/manual/mod/mod_dialup.html,mod_dialup.html,5,4,0,1,0,126,0
+XML,/docs/manual/mod/mod_dialup.xml,mod_dialup.xml,71,38,20,13,0,2647,0
+C,/modules/mappers/mod_dir.c,mod_dir.c,335,223,65,47,76,11126,0
+Expect,/modules/mappers/mod_dir.exp,mod_dir.exp,1,1,0,0,0,11,0
+HTML,/docs/manual/mod/mod_dir.html,mod_dir.html,21,16,0,5,0,474,0
+Forth,/docs/manual/mod/mod_dir.html.fr,mod_dir.html.fr,250,230,0,20,0,15162,0
+XML,/docs/manual/mod/mod_dir.xml,mod_dir.xml,204,164,17,23,0,8540,0
+Forth,/docs/manual/mod/mod_dir.xml.fr,mod_dir.xml.fr,232,206,0,26,2,10766,0
+C,/modules/debugging/mod_dumpio.c,mod_dumpio.c,248,165,47,36,23,8335,0
+HTML,/docs/manual/mod/mod_dumpio.html,mod_dumpio.html,9,7,0,2,0,216,0
+XML,/docs/manual/mod/mod_dumpio.xml,mod_dumpio.xml,98,63,17,18,0,3142,0
+C,/modules/echo/mod_echo.c,mod_echo.c,219,157,23,39,23,7067,0
+HTML,/docs/manual/mod/mod_echo.html,mod_echo.html,17,13,0,4,0,391,0
+Forth,/docs/manual/mod/mod_echo.html.fr,mod_echo.html.fr,76,72,0,4,0,5296,0
+XML,/docs/manual/mod/mod_echo.xml,mod_echo.xml,61,34,17,10,0,2062,0
+Forth,/docs/manual/mod/mod_echo.xml.fr,mod_echo.xml.fr,63,51,0,12,2,2269,0
+C,/modules/metadata/mod_env.c,mod_env.c,179,114,32,33,8,5394,0
+Expect,/modules/metadata/mod_env.exp,mod_env.exp,1,1,0,0,0,11,0
+HTML,/docs/manual/mod/mod_env.html,mod_env.html,21,16,0,5,0,474,0
+Forth,/docs/manual/mod/mod_env.html.fr,mod_env.html.fr,145,136,0,9,0,9472,0
+XML,/docs/manual/mod/mod_env.xml,mod_env.xml,113,80,17,16,0,4528,0
+Forth,/docs/manual/mod/mod_env.xml.fr,mod_env.xml.fr,122,105,0,17,2,5097,0
+HTML,/docs/manual/mod/mod_example.html,mod_example.html,9,7,0,2,0,221,0
+XML,/docs/manual/mod/mod_example.xml,mod_example.xml,141,99,17,25,0,5378,0
+C,/modules/examples/mod_example_hooks.c,mod_example_hooks.c,1523,527,869,127,25,57432,0
+C,/modules/examples/mod_example_ipc.c,mod_example_ipc.c,366,178,149,39,26,13394,0
+C,/modules/metadata/mod_expires.c,mod_expires.c,569,303,223,43,72,18276,0
+Expect,/modules/metadata/mod_expires.exp,mod_expires.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_expires.html,mod_expires.html,17,13,0,4,0,403,0
+Forth,/docs/manual/mod/mod_expires.html.fr,mod_expires.html.fr,255,230,0,25,0,15057,0
+XML,/docs/manual/mod/mod_expires.xml,mod_expires.xml,232,182,17,33,0,9418,0
+Forth,/docs/manual/mod/mod_expires.xml.fr,mod_expires.xml.fr,244,209,0,35,2,11410,0
+C,/modules/filters/mod_ext_filter.c,mod_ext_filter.c,965,769,83,113,171,30806,0
+Expect,/modules/filters/mod_ext_filter.exp,mod_ext_filter.exp,1,1,0,0,0,18,0
+HTML,/docs/manual/mod/mod_ext_filter.html,mod_ext_filter.html,13,10,0,3,0,321,0
+XML,/docs/manual/mod/mod_ext_filter.xml,mod_ext_filter.xml,361,296,17,48,0,14241,0
+C,/modules/cache/mod_file_cache.c,mod_file_cache.c,414,253,105,56,38,13574,0
+Expect,/modules/cache/mod_file_cache.exp,mod_file_cache.exp,1,1,0,0,0,18,0
+HTML,/docs/manual/mod/mod_file_cache.html,mod_file_cache.html,9,7,0,2,0,227,0
+XML,/docs/manual/mod/mod_file_cache.xml,mod_file_cache.xml,196,147,20,29,0,8927,0
+C,/modules/filters/mod_filter.c,mod_filter.c,725,574,75,76,123,23438,0
+HTML,/docs/manual/mod/mod_filter.html,mod_filter.html,5,4,0,1,0,126,0
+XML,/docs/manual/mod/mod_filter.xml,mod_filter.xml,491,403,17,71,0,21423,0
+C,/modules/metadata/mod_headers.c,mod_headers.c,923,655,161,107,167,29399,0
+Expect,/modules/metadata/mod_headers.exp,mod_headers.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_headers.html,mod_headers.html,17,13,0,4,0,403,0
+Forth,/docs/manual/mod/mod_headers.html.fr,mod_headers.html.fr,509,450,0,59,0,27137,0
+XML,/docs/manual/mod/mod_headers.xml,mod_headers.xml,454,364,17,73,0,19761,0
+Forth,/docs/manual/mod/mod_headers.xml.fr,mod_headers.xml.fr,501,425,0,76,2,25309,0
+C,/modules/cluster/mod_heartbeat.c,mod_heartbeat.c,228,169,15,44,33,6581,0
+HTML,/docs/manual/mod/mod_heartbeat.html,mod_heartbeat.html,5,4,0,1,0,129,0
+XML,/docs/manual/mod/mod_heartbeat.xml,mod_heartbeat.xml,47,23,17,7,0,1654,0
+C,/modules/cluster/mod_heartmonitor.c,mod_heartmonitor.c,908,737,54,117,119,28642,0
+HTML,/docs/manual/mod/mod_heartmonitor.html,mod_heartmonitor.html,5,4,0,1,0,132,0
+XML,/docs/manual/mod/mod_heartmonitor.xml,mod_heartmonitor.xml,59,33,17,9,0,2055,0
+C,/modules/metadata/mod_ident.c,mod_ident.c,344,210,79,55,41,10907,0
+Expect,/modules/metadata/mod_ident.exp,mod_ident.exp,1,1,0,0,0,13,0
+HTML,/docs/manual/mod/mod_ident.html,mod_ident.html,17,13,0,4,0,395,0
+Forth,/docs/manual/mod/mod_ident.html.fr,mod_ident.html.fr,114,108,0,6,0,7972,0
+XML,/docs/manual/mod/mod_ident.xml,mod_ident.xml,89,61,17,11,0,3637,0
+Forth,/docs/manual/mod/mod_ident.xml.fr,mod_ident.xml.fr,100,87,0,13,2,4436,0
+C,/modules/mappers/mod_imagemap.c,mod_imagemap.c,893,624,138,131,175,29722,0
+Expect,/modules/mappers/mod_imagemap.exp,mod_imagemap.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_imagemap.html,mod_imagemap.html,9,7,0,2,0,223,0
+XML,/docs/manual/mod/mod_imagemap.xml,mod_imagemap.xml,360,267,17,76,0,13530,0
+C,/modules/filters/mod_include.c,mod_include.c,4073,3703,175,195,206,128377,0
+Expect,/modules/filters/mod_include.exp,mod_include.exp,1,1,0,0,0,15,0
+C Header,/modules/filters/mod_include.h,mod_include.h,120,43,53,24,0,3986,0
+HTML,/docs/manual/mod/mod_include.html,mod_include.html,9,7,0,2,0,218,0
+XML,/docs/manual/mod/mod_include.xml,mod_include.xml,1017,825,23,169,0,43091,0
+C,/modules/generators/mod_info.c,mod_info.c,813,660,52,101,91,25940,0
+Expect,/modules/generators/mod_info.exp,mod_info.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_info.html,mod_info.html,17,13,0,4,0,391,0
+Forth,/docs/manual/mod/mod_info.html.fr,mod_info.html.fr,199,187,0,12,0,12051,0
+XML,/docs/manual/mod/mod_info.xml,mod_info.xml,171,134,17,20,0,7044,0
+Forth,/docs/manual/mod/mod_info.xml.fr,mod_info.xml.fr,185,163,0,22,2,8353,0
+C,/modules/arch/win32/mod_isapi.c,mod_isapi.c,1726,1182,361,183,283,64538,0
+C Header,/modules/arch/win32/mod_isapi.h,mod_isapi.h,271,145,100,26,0,11205,0
+HTML,/docs/manual/mod/mod_isapi.html,mod_isapi.html,9,7,0,2,0,217,0
+XML,/docs/manual/mod/mod_isapi.xml,mod_isapi.xml,327,261,17,49,0,13815,0
+C,/modules/proxy/balancers/mod_lbmethod_bybusyness.c,mod_lbmethod_bybusyness.c,139,83,25,31,18,4621,0
+HTML,/docs/manual/mod/mod_lbmethod_bybusyness.html,mod_lbmethod_bybusyness.html,5,4,0,1,0,139,0
+XML,/docs/manual/mod/mod_lbmethod_bybusyness.xml,mod_lbmethod_bybusyness.xml,58,31,17,10,0,2445,0
+C,/modules/proxy/balancers/mod_lbmethod_byrequests.c,mod_lbmethod_byrequests.c,175,81,80,14,15,6118,0
+HTML,/docs/manual/mod/mod_lbmethod_byrequests.html,mod_lbmethod_byrequests.html,5,4,0,1,0,139,0
+XML,/docs/manual/mod/mod_lbmethod_byrequests.xml,mod_lbmethod_byrequests.xml,218,174,17,27,0,6639,0
+C,/modules/proxy/balancers/mod_lbmethod_bytraffic.c,mod_lbmethod_bytraffic.c,142,83,46,13,15,5248,0
+HTML,/docs/manual/mod/mod_lbmethod_bytraffic.html,mod_lbmethod_bytraffic.html,5,4,0,1,0,138,0
+XML,/docs/manual/mod/mod_lbmethod_bytraffic.xml,mod_lbmethod_bytraffic.xml,73,45,17,11,0,2838,0
+C,/modules/proxy/balancers/mod_lbmethod_heartbeat.c,mod_lbmethod_heartbeat.c,487,351,46,90,51,14185,0
+HTML,/docs/manual/mod/mod_lbmethod_heartbeat.html,mod_lbmethod_heartbeat.html,5,4,0,1,0,138,0
+XML,/docs/manual/mod/mod_lbmethod_heartbeat.xml,mod_lbmethod_heartbeat.xml,52,28,17,7,0,2038,0
+C,/modules/proxy/examples/mod_lbmethod_rr.c,mod_lbmethod_rr.c,129,86,24,19,10,4205,0
+HTML,/docs/manual/mod/mod_ldap.html,mod_ldap.html,9,7,0,2,0,212,0
+Forth,/docs/manual/mod/mod_ldap.html.fr,mod_ldap.html.fr,825,742,0,83,0,48875,0
+XML,/docs/manual/mod/mod_ldap.xml,mod_ldap.xml,726,604,17,105,0,31223,0
+Forth,/docs/manual/mod/mod_ldap.xml.fr,mod_ldap.xml.fr,791,689,0,102,2,37157,0
+C,/modules/loggers/mod_log_config.c,mod_log_config.c,1703,1213,288,202,241,53697,0
+Expect,/modules/loggers/mod_log_config.exp,mod_log_config.exp,1,1,0,0,0,18,0
+C Header,/modules/loggers/mod_log_config.h,mod_log_config.h,74,25,40,9,0,2492,0
+HTML,/docs/manual/mod/mod_log_config.html,mod_log_config.html,17,13,0,4,0,415,0
+XML,/docs/manual/mod/mod_log_config.xml,mod_log_config.xml,532,462,17,53,0,22634,0
+C,/modules/loggers/mod_log_forensic.c,mod_log_forensic.c,289,203,33,53,25,7774,0
+Expect,/modules/loggers/mod_log_forensic.exp,mod_log_forensic.exp,1,1,0,0,0,20,0
+HTML,/docs/manual/mod/mod_log_forensic.html,mod_log_forensic.html,13,10,0,3,0,324,0
+XML,/docs/manual/mod/mod_log_forensic.xml,mod_log_forensic.xml,146,107,17,22,0,6206,0
+C,/modules/loggers/mod_logio.c,mod_logio.c,203,105,52,46,2,5775,0
+HTML,/docs/manual/mod/mod_logio.html,mod_logio.html,17,13,0,4,0,395,0
+XML,/docs/manual/mod/mod_logio.xml,mod_logio.xml,81,47,17,17,0,3043,0
+C,/modules/lua/mod_lua.c,mod_lua.c,1056,805,110,141,89,37217,0
+C Header,/modules/lua/mod_lua.h,mod_lua.h,151,88,35,28,0,4174,0
+HTML,/docs/manual/mod/mod_lua.html,mod_lua.html,5,4,0,1,0,123,0
+XML,/docs/manual/mod/mod_lua.xml,mod_lua.xml,654,553,17,84,0,20800,0
+C,/modules/http/mod_mime.c,mod_mime.c,1011,860,94,57,162,34587,0
+Expect,/modules/http/mod_mime.exp,mod_mime.exp,1,1,0,0,0,12,0
+HTML,/docs/manual/mod/mod_mime.html,mod_mime.html,9,7,0,2,0,212,0
+XML,/docs/manual/mod/mod_mime.xml,mod_mime.xml,990,842,17,131,0,43966,0
+C,/modules/metadata/mod_mime_magic.c,mod_mime_magic.c,2474,1889,395,190,278,73332,0
+Expect,/modules/metadata/mod_mime_magic.exp,mod_mime_magic.exp,1,1,0,0,0,18,0
+HTML,/docs/manual/mod/mod_mime_magic.html,mod_mime_magic.html,5,4,0,1,0,130,0
+XML,/docs/manual/mod/mod_mime_magic.xml,mod_mime_magic.xml,272,210,17,45,0,11046,0
+C,/modules/mappers/mod_negotiation.c,mod_negotiation.c,3233,1910,904,419,553,111453,0
+Expect,/modules/mappers/mod_negotiation.exp,mod_negotiation.exp,1,1,0,0,0,19,0
+HTML,/docs/manual/mod/mod_negotiation.html,mod_negotiation.html,13,10,0,3,0,321,0
+Forth,/docs/manual/mod/mod_negotiation.html.fr,mod_negotiation.html.fr,325,297,0,28,0,19188,0
+XML,/docs/manual/mod/mod_negotiation.xml,mod_negotiation.xml,287,233,17,37,0,12376,0
+Forth,/docs/manual/mod/mod_negotiation.xml.fr,mod_negotiation.xml.fr,307,268,0,39,2,15277,0
+C,/modules/arch/netware/mod_netware.c,mod_netware.c,204,136,32,36,22,6864,0
+C,/modules/experimental/mod_noloris.c,mod_noloris.c,237,170,45,22,24,8047,0
+C,/modules/arch/netware/mod_nw_ssl.c,mod_nw_ssl.c,1270,942,125,203,275,40628,0
+HTML,/docs/manual/mod/mod_nw_ssl.html,mod_nw_ssl.html,5,4,0,1,0,126,0
+XML,/docs/manual/mod/mod_nw_ssl.xml,mod_nw_ssl.xml,81,53,17,11,0,3140,0
+C,/modules/test/mod_optional_fn_export.c,mod_optional_fn_export.c,48,24,18,6,0,1466,0
+C Header,/modules/test/mod_optional_fn_export.h,mod_optional_fn_export.h,19,2,15,2,0,887,0
+C,/modules/test/mod_optional_fn_import.c,mod_optional_fn_import.c,55,30,18,7,1,1671,0
+C,/modules/test/mod_optional_hook_export.c,mod_optional_hook_export.c,44,24,15,5,0,1433,0
+C Header,/modules/test/mod_optional_hook_export.h,mod_optional_hook_export.h,24,5,15,4,0,995,0
+C,/modules/test/mod_optional_hook_import.c,mod_optional_hook_import.c,45,25,15,5,0,1404,0
+C,/modules/arch/unix/mod_privileges.c,mod_privileges.c,588,453,90,45,105,21337,0
+HTML,/docs/manual/mod/mod_privileges.html,mod_privileges.html,5,4,0,1,0,130,0
+XML,/docs/manual/mod/mod_privileges.xml,mod_privileges.xml,380,326,17,37,0,17992,0
+C,/modules/proxy/mod_proxy.c,mod_proxy.c,2515,1989,306,220,585,91645,0
+C Header,/modules/proxy/mod_proxy.h,mod_proxy.h,834,463,300,71,4,34412,0
+HTML,/docs/manual/mod/mod_proxy.html,mod_proxy.html,13,10,0,3,0,303,0
+Forth,/docs/manual/mod/mod_proxy.html.fr,mod_proxy.html.fr,1907,1719,0,188,0,110317,0
+XML,/docs/manual/mod/mod_proxy.xml,mod_proxy.xml,1686,1450,21,215,0,74919,0
+Forth,/docs/manual/mod/mod_proxy.xml.fr,mod_proxy.xml.fr,1902,1682,0,220,2,94367,0
+C,/modules/proxy/mod_proxy_ajp.c,mod_proxy_ajp.c,748,501,188,59,122,29043,0
+HTML,/docs/manual/mod/mod_proxy_ajp.html,mod_proxy_ajp.html,9,7,0,2,0,222,0
+XML,/docs/manual/mod/mod_proxy_ajp.xml,mod_proxy_ajp.xml,547,504,17,26,0,23828,0
+C,/modules/proxy/mod_proxy_balancer.c,mod_proxy_balancer.c,1045,781,175,89,197,39605,0
+HTML,/docs/manual/mod/mod_proxy_balancer.html,mod_proxy_balancer.html,9,7,0,2,0,232,0
+XML,/docs/manual/mod/mod_proxy_balancer.xml,mod_proxy_balancer.xml,333,277,23,33,0,15547,0
+C,/modules/proxy/mod_proxy_connect.c,mod_proxy_connect.c,536,363,105,68,75,18044,0
+HTML,/docs/manual/mod/mod_proxy_connect.html,mod_proxy_connect.html,9,7,0,2,0,230,0
+XML,/docs/manual/mod/mod_proxy_connect.xml,mod_proxy_connect.xml,81,53,17,11,0,3464,0
+C,/modules/proxy/mod_proxy_fcgi.c,mod_proxy_fcgi.c,1011,729,100,182,145,31230,0
+HTML,/docs/manual/mod/mod_proxy_fcgi.html,mod_proxy_fcgi.html,5,4,0,1,0,130,0
+XML,/docs/manual/mod/mod_proxy_fcgi.xml,mod_proxy_fcgi.xml,99,67,17,15,0,4251,0
+C,/modules/proxy/mod_proxy_fdpass.c,mod_proxy_fdpass.c,302,215,23,64,47,8292,0
+C Header,/modules/proxy/mod_proxy_fdpass.h,mod_proxy_fdpass.h,41,11,23,7,0,1241,0
+HTML,/docs/manual/mod/mod_proxy_fdpass.html,mod_proxy_fdpass.html,5,4,0,1,0,132,0
+XML,/docs/manual/mod/mod_proxy_fdpass.xml,mod_proxy_fdpass.xml,58,33,17,8,0,2591,0
+C,/modules/proxy/mod_proxy_ftp.c,mod_proxy_ftp.c,2041,1352,458,231,554,78054,0
+HTML,/docs/manual/mod/mod_proxy_ftp.html,mod_proxy_ftp.html,5,4,0,1,0,129,0
+XML,/docs/manual/mod/mod_proxy_ftp.xml,mod_proxy_ftp.xml,215,169,17,29,0,9601,0
+C,/modules/proxy/mod_proxy_http.c,mod_proxy_http.c,2187,1410,567,210,403,86653,0
+HTML,/docs/manual/mod/mod_proxy_http.html,mod_proxy_http.html,9,7,0,2,0,224,0
+Forth,/docs/manual/mod/mod_proxy_http.html.fr,mod_proxy_http.html.fr,147,144,0,3,0,9073,0
+XML,/docs/manual/mod/mod_proxy_http.xml,mod_proxy_http.xml,117,92,17,8,0,5772,0
+Forth,/docs/manual/mod/mod_proxy_http.xml.fr,mod_proxy_http.xml.fr,134,124,0,10,2,7067,0
+C,/modules/proxy/mod_proxy_scgi.c,mod_proxy_scgi.c,627,453,76,98,78,19671,0
+HTML,/docs/manual/mod/mod_proxy_scgi.html,mod_proxy_scgi.html,5,4,0,1,0,130,0
+XML,/docs/manual/mod/mod_proxy_scgi.xml,mod_proxy_scgi.xml,148,110,17,21,0,5824,0
+C,/modules/filters/mod_ratelimit.c,mod_ratelimit.c,313,234,23,56,43,9394,0
+C Header,/modules/filters/mod_ratelimit.h,mod_ratelimit.h,51,26,19,6,2,2301,0
+HTML,/docs/manual/mod/mod_ratelimit.html,mod_ratelimit.html,5,4,0,1,0,129,0
+XML,/docs/manual/mod/mod_ratelimit.xml,mod_ratelimit.xml,52,23,20,9,0,1936,0
+C,/modules/filters/mod_reflector.c,mod_reflector.c,232,149,33,50,29,7032,0
+HTML,/docs/manual/mod/mod_reflector.html,mod_reflector.html,5,4,0,1,0,129,0
+XML,/docs/manual/mod/mod_reflector.xml,mod_reflector.xml,83,57,17,9,0,3210,0
+C,/modules/metadata/mod_remoteip.c,mod_remoteip.c,489,371,68,50,88,17771,0
+HTML,/docs/manual/mod/mod_remoteip.html,mod_remoteip.html,9,7,0,2,0,220,0
+Forth,/docs/manual/mod/mod_remoteip.html.fr,mod_remoteip.html.fr,322,294,0,28,0,20760,0
+XML,/docs/manual/mod/mod_remoteip.xml,mod_remoteip.xml,254,194,17,43,0,11738,0
+Forth,/docs/manual/mod/mod_remoteip.xml.fr,mod_remoteip.xml.fr,301,257,0,44,2,14682,0
+C,/modules/filters/mod_reqtimeout.c,mod_reqtimeout.c,587,445,54,88,116,18596,0
+HTML,/docs/manual/mod/mod_reqtimeout.html,mod_reqtimeout.html,5,4,0,1,0,130,0
+XML,/docs/manual/mod/mod_reqtimeout.xml,mod_reqtimeout.xml,156,109,17,30,0,5639,0
+C,/modules/filters/mod_request.c,mod_request.c,612,426,110,76,117,20964,0
+C Header,/include/mod_request.h,mod_request.h,114,30,67,17,0,3618,0
+HTML,/docs/manual/mod/mod_request.html,mod_request.html,9,7,0,2,0,218,0
+XML,/docs/manual/mod/mod_request.xml,mod_request.xml,86,57,17,12,0,3863,0
+C,/modules/mappers/mod_rewrite.c,mod_rewrite.c,5018,3968,581,469,616,158993,0
+Expect,/modules/mappers/mod_rewrite.exp,mod_rewrite.exp,1,1,0,0,0,15,0
+C Header,/modules/mappers/mod_rewrite.h,mod_rewrite.h,40,8,26,6,0,1340,0
+HTML,/docs/manual/mod/mod_rewrite.html,mod_rewrite.html,9,7,0,2,0,218,0
+Forth,/docs/manual/mod/mod_rewrite.html.fr,mod_rewrite.html.fr,1419,1232,0,187,0,65916,0
+XML,/docs/manual/mod/mod_rewrite.xml,mod_rewrite.xml,1342,1128,17,197,0,54378,0
+Forth,/docs/manual/mod/mod_rewrite.xml.fr,mod_rewrite.xml.fr,1453,1250,0,203,2,66314,0
+C,/modules/filters/mod_sed.c,mod_sed.c,539,393,107,39,84,18162,0
+HTML,/docs/manual/mod/mod_sed.html,mod_sed.html,9,7,0,2,0,210,0
+Forth,/docs/manual/mod/mod_sed.html.fr,mod_sed.html.fr,176,168,0,8,0,10199,0
+XML,/docs/manual/mod/mod_sed.xml,mod_sed.xml,144,112,17,15,0,5855,0
+Forth,/docs/manual/mod/mod_sed.xml.fr,mod_sed.xml.fr,162,145,0,17,2,6861,0
+C,/modules/proxy/mod_serf.c,mod_serf.c,1163,887,75,201,164,33579,0
+C Header,/modules/proxy/mod_serf.h,mod_serf.h,109,34,66,9,1,3440,0
+C,/modules/session/mod_session.c,mod_session.c,639,414,139,86,75,20740,0
+C Header,/modules/session/mod_session.h,mod_session.h,182,71,94,17,0,6643,0
+HTML,/docs/manual/mod/mod_session.html,mod_session.html,5,4,0,1,0,127,0
+XML,/docs/manual/mod/mod_session.xml,mod_session.xml,406,318,17,71,0,17217,0
+C,/modules/session/mod_session_cookie.c,mod_session_cookie.c,276,176,62,38,31,9037,0
+HTML,/docs/manual/mod/mod_session_cookie.html,mod_session_cookie.html,5,4,0,1,0,134,0
+XML,/docs/manual/mod/mod_session_cookie.xml,mod_session_cookie.xml,163,116,17,30,0,6648,0
+C,/modules/session/mod_session_crypto.c,mod_session_crypto.c,643,488,71,84,93,21159,0
+HTML,/docs/manual/mod/mod_session_crypto.html,mod_session_crypto.html,5,4,0,1,0,134,0
+XML,/docs/manual/mod/mod_session_crypto.xml,mod_session_crypto.xml,164,113,17,34,0,6610,0
+C,/modules/session/mod_session_dbd.c,mod_session_dbd.c,629,436,103,90,86,20496,0
+HTML,/docs/manual/mod/mod_session_dbd.html,mod_session_dbd.html,5,4,0,1,0,131,0
+XML,/docs/manual/mod/mod_session_dbd.xml,mod_session_dbd.xml,332,252,17,63,0,13835,0
+C,/modules/metadata/mod_setenvif.c,mod_setenvif.c,717,483,176,58,97,25816,0
+Expect,/modules/metadata/mod_setenvif.exp,mod_setenvif.exp,1,1,0,0,0,16,0
+HTML,/docs/manual/mod/mod_setenvif.html,mod_setenvif.html,21,16,0,5,0,499,0
+Forth,/docs/manual/mod/mod_setenvif.html.fr,mod_setenvif.html.fr,359,320,0,39,3,20716,0
+XML,/docs/manual/mod/mod_setenvif.xml,mod_setenvif.xml,329,261,17,51,0,12861,0
+Forth,/docs/manual/mod/mod_setenvif.xml.fr,mod_setenvif.xml.fr,344,293,0,51,5,15599,0
+C,/modules/slotmem/mod_slotmem_plain.c,mod_slotmem_plain.c,302,226,30,46,45,8292,0
+HTML,/docs/manual/mod/mod_slotmem_plain.html,mod_slotmem_plain.html,5,4,0,1,0,133,0
+XML,/docs/manual/mod/mod_slotmem_plain.xml,mod_slotmem_plain.xml,79,44,17,18,0,3478,0
+C,/modules/slotmem/mod_slotmem_shm.c,mod_slotmem_shm.c,657,513,74,70,117,18103,0
+HTML,/docs/manual/mod/mod_slotmem_shm.html,mod_slotmem_shm.html,5,4,0,1,0,131,0
+XML,/docs/manual/mod/mod_slotmem_shm.xml,mod_slotmem_shm.xml,92,57,17,18,0,4231,0
+C,/modules/core/mod_so.c,mod_so.c,433,231,138,64,38,14713,0
+C Header,/modules/core/mod_so.h,mod_so.h,38,7,25,6,0,1227,0
+HTML,/docs/manual/mod/mod_so.html,mod_so.html,21,16,0,5,0,469,0
+Forth,/docs/manual/mod/mod_so.html.fr,mod_so.html.fr,213,189,0,24,0,12518,0
+XML,/docs/manual/mod/mod_so.xml,mod_so.xml,180,131,17,32,0,7107,0
+Forth,/docs/manual/mod/mod_so.xml.fr,mod_so.xml.fr,197,163,0,34,2,9329,0
+C,/modules/cache/mod_socache_dbm.c,mod_socache_dbm.c,587,445,71,71,90,19300,0
+C,/modules/cache/mod_socache_dc.c,mod_socache_dc.c,190,135,32,23,9,7119,0
+C,/modules/cache/mod_socache_memcache.c,mod_socache_memcache.c,326,238,28,60,33,9684,0
+C,/modules/cache/mod_socache_shmcb.c,mod_socache_shmcb.c,1027,721,198,108,92,40985,0
+C,/modules/mappers/mod_speling.c,mod_speling.c,531,296,164,71,82,18920,0
+Expect,/modules/mappers/mod_speling.exp,mod_speling.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_speling.html,mod_speling.html,13,10,0,3,0,312,0
+XML,/docs/manual/mod/mod_speling.xml,mod_speling.xml,135,93,18,24,0,4792,0
+C,/modules/ssl/mod_ssl.c,mod_ssl.c,578,392,102,84,26,20657,0
+C Header,/modules/ssl/mod_ssl.h,mod_ssl.h,67,15,42,10,0,2548,0
+HTML,/docs/manual/mod/mod_ssl.html,mod_ssl.html,5,4,0,1,0,123,0
+XML,/docs/manual/mod/mod_ssl.xml,mod_ssl.xml,1881,1681,18,182,0,85517,0
+C,/modules/generators/mod_status.c,mod_status.c,844,671,78,95,111,30799,0
+Expect,/modules/generators/mod_status.exp,mod_status.exp,1,1,0,0,0,14,0
+C Header,/modules/generators/mod_status.h,mod_status.h,64,27,31,6,0,2441,0
+HTML,/docs/manual/mod/mod_status.html,mod_status.html,21,16,0,5,0,489,0
+Forth,/docs/manual/mod/mod_status.html.fr,mod_status.html.fr,148,127,0,21,0,8281,0
+XML,/docs/manual/mod/mod_status.xml,mod_status.xml,125,81,17,27,0,4426,0
+Forth,/docs/manual/mod/mod_status.xml.fr,mod_status.xml.fr,130,101,0,29,2,5391,0
+C,/modules/filters/mod_substitute.c,mod_substitute.c,598,393,164,41,98,23076,0
+HTML,/docs/manual/mod/mod_substitute.html,mod_substitute.html,5,4,0,1,0,130,0
+XML,/docs/manual/mod/mod_substitute.xml,mod_substitute.xml,119,85,17,17,0,4819,0
+C,/modules/generators/mod_suexec.c,mod_suexec.c,139,86,32,21,6,4396,0
+C Header,/modules/generators/mod_suexec.h,mod_suexec.h,33,5,24,4,0,1057,0
+HTML,/docs/manual/mod/mod_suexec.html,mod_suexec.html,17,13,0,4,0,399,0
+XML,/docs/manual/mod/mod_suexec.xml,mod_suexec.xml,70,40,17,13,0,2497,0
+C,/modules/metadata/mod_unique_id.c,mod_unique_id.c,415,183,187,45,22,16390,0
+Expect,/modules/metadata/mod_unique_id.exp,mod_unique_id.exp,1,1,0,0,0,17,0
+HTML,/docs/manual/mod/mod_unique_id.html,mod_unique_id.html,17,13,0,4,0,411,0
+Forth,/docs/manual/mod/mod_unique_id.html.fr,mod_unique_id.html.fr,244,224,0,20,0,14813,0
+XML,/docs/manual/mod/mod_unique_id.xml,mod_unique_id.xml,204,162,18,24,0,10260,0
+Forth,/docs/manual/mod/mod_unique_id.xml.fr,mod_unique_id.xml.fr,229,203,0,26,2,14161,0
+C,/modules/arch/unix/mod_unixd.c,mod_unixd.c,402,313,41,48,67,11949,0
+C Header,/modules/arch/unix/mod_unixd.h,mod_unixd.h,41,11,23,7,0,1115,0
+HTML,/docs/manual/mod/mod_unixd.html,mod_unixd.html,9,7,0,2,0,214,0
+XML,/docs/manual/mod/mod_unixd.xml,mod_unixd.xml,161,120,17,24,0,6402,0
+C,/modules/mappers/mod_userdir.c,mod_userdir.c,369,204,122,43,66,12110,0
+Expect,/modules/mappers/mod_userdir.exp,mod_userdir.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_userdir.html,mod_userdir.html,17,13,0,4,0,403,0
+XML,/docs/manual/mod/mod_userdir.xml,mod_userdir.xml,171,121,17,33,0,6326,0
+C,/modules/metadata/mod_usertrack.c,mod_usertrack.c,453,293,95,65,66,14976,0
+Expect,/modules/metadata/mod_usertrack.exp,mod_usertrack.exp,1,1,0,0,0,17,0
+HTML,/docs/manual/mod/mod_usertrack.html,mod_usertrack.html,5,4,0,1,0,129,0
+XML,/docs/manual/mod/mod_usertrack.xml,mod_usertrack.xml,225,169,17,39,0,7143,0
+C,/modules/metadata/mod_version.c,mod_version.c,313,193,75,45,65,8640,0
+Expect,/modules/metadata/mod_version.exp,mod_version.exp,1,1,0,0,0,15,0
+HTML,/docs/manual/mod/mod_version.html,mod_version.html,13,10,0,3,0,312,0
+XML,/docs/manual/mod/mod_version.xml,mod_version.xml,138,105,17,16,0,5088,0
+C,/modules/mappers/mod_vhost_alias.c,mod_vhost_alias.c,457,341,75,41,103,13125,0
+Expect,/modules/mappers/mod_vhost_alias.exp,mod_vhost_alias.exp,1,1,0,0,0,19,0
+HTML,/docs/manual/mod/mod_vhost_alias.html,mod_vhost_alias.html,9,7,0,2,0,226,0
+XML,/docs/manual/mod/mod_vhost_alias.xml,mod_vhost_alias.xml,307,229,17,61,0,11146,0
+C,/modules/core/mod_watchdog.c,mod_watchdog.c,713,519,139,55,118,27044,0
+C Header,/modules/core/mod_watchdog.h,mod_watchdog.h,220,84,112,24,0,7684,0
+C,/modules/arch/win32/mod_win32.c,mod_win32.c,560,411,101,48,160,19505,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/util/modtrans.xsl,modtrans.xsl,44,34,0,10,0,1458,0
+HTML,/docs/manual/mod/module-dict.html,module-dict.html,17,13,0,4,0,403,0
+XML,/docs/manual/mod/module-dict.xml,module-dict.xml,107,65,17,25,0,3981,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/moduleindex.xsl,moduleindex.xsl,333,291,0,42,0,13723,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/latex/moduleindex.xsl,moduleindex.xsl,218,173,0,45,0,8117,0
+C,/os/netware/modules.c,modules.c,117,91,19,7,0,3174,0
+C,/os/win32/modules.c,modules.c,56,31,19,6,0,1673,0
+HTML,/docs/manual/developer/modules.html,modules.html,9,7,0,2,0,210,0
+XML,/docs/manual/developer/modules.xml,modules.xml,282,209,17,56,0,10619,0
+Document Type Definition,/docs/manual/style/modulesynopsis.dtd,modulesynopsis.dtd,76,49,0,27,0,2196,0
+Lua,/modules/lua/test/moonunit.lua,moonunit.lua,52,33,14,5,8,1625,0
+HTML,/docs/manual/mpm.html,mpm.html,29,22,0,7,0,620,0
+Forth,/docs/manual/mpm.html.fr,mpm.html.fr,163,145,0,18,0,10536,0
+XML,/docs/manual/mpm.xml,mpm.xml,134,91,17,26,0,5873,0
+Forth,/docs/manual/mpm.xml.fr,mpm.xml.fr,148,120,0,28,2,7469,0
+C,/server/mpm_common.c,mpm_common.c,393,294,36,63,56,11243,0
+C Header,/include/mpm_common.h,mpm_common.h,346,96,197,53,0,12058,0
+HTML,/docs/manual/mod/mpm_common.html,mpm_common.html,17,13,0,4,0,396,0
+XML,/docs/manual/mod/mpm_common.xml,mpm_common.xml,744,630,17,97,0,32694,0
+C Header,/server/mpm/netware/mpm_default.h,mpm_default.h,116,39,58,19,0,3272,0
+C Header,/server/mpm/prefork/mpm_default.h,mpm_default.h,69,21,37,11,0,2021,0
+C Header,/server/mpm/winnt/mpm_default.h,mpm_default.h,89,28,49,12,0,2786,0
+C Header,/server/mpm/mpmt_os2/mpm_default.h,mpm_default.h,68,21,36,11,0,1943,0
+C Header,/server/mpm/worker/mpm_default.h,mpm_default.h,73,24,37,12,0,2097,0
+C Header,/server/mpm/event/mpm_default.h,mpm_default.h,74,24,37,13,0,2095,0
+C,/server/mpm/netware/mpm_netware.c,mpm_netware.c,1357,981,197,179,182,44077,0
+HTML,/docs/manual/mod/mpm_netware.html,mpm_netware.html,5,4,0,1,0,127,0
+XML,/docs/manual/mod/mpm_netware.xml,mpm_netware.xml,108,80,17,11,0,4610,0
+C,/server/mpm_unix.c,mpm_unix.c,919,659,135,125,147,26739,0
+C,/server/mpm/winnt/mpm_winnt.c,mpm_winnt.c,1758,1172,407,179,252,64819,0
+C Header,/server/mpm/winnt/mpm_winnt.h,mpm_winnt.h,93,44,26,23,0,2874,0
+HTML,/docs/manual/mod/mpm_winnt.html,mpm_winnt.html,13,10,0,3,0,303,0
+XML,/docs/manual/mod/mpm_winnt.xml,mpm_winnt.xml,64,41,17,6,0,2561,0
+C,/server/mpm/mpmt_os2/mpmt_os2.c,mpmt_os2.c,637,427,73,137,67,19254,0
+HTML,/docs/manual/mod/mpmt_os2.html,mpmt_os2.html,5,4,0,1,0,124,0
+XML,/docs/manual/mod/mpmt_os2.xml,mpmt_os2.xml,73,48,17,8,0,3085,0
+C,/server/mpm/mpmt_os2/mpmt_os2_child.c,mpmt_os2_child.c,482,337,41,104,72,14956,0
+HTML,/docs/manual/vhosts/name-based.html,name-based.html,25,19,0,6,0,579,0
+Forth,/docs/manual/vhosts/name-based.html.fr,name-based.html.fr,235,213,0,22,0,15661,0
+XML,/docs/manual/vhosts/name-based.xml,name-based.xml,210,164,17,29,0,10422,0
+Forth,/docs/manual/vhosts/name-based.xml.fr,name-based.xml.fr,241,210,0,31,2,11466,0
+XML,/docs/manual/style/xsl/util/nbsp.xml,nbsp.xml,3,2,0,1,0,151,0
+HTML,/docs/manual/platform/netware.html,netware.html,9,7,0,2,0,213,0
+XML,/docs/manual/platform/netware.xml,netware.xml,662,484,17,161,0,27002,0
+HTML,/docs/manual/developer/new_api_2_4.html,new_api_2_4.html,5,4,0,1,0,127,0
+XML,/docs/manual/developer/new_api_2_4.xml,new_api_2_4.xml,288,237,16,35,0,11777,0
+HTML,/docs/manual/new_features_2_0.html,new_features_2_0.html,33,25,0,8,0,816,0
+Forth,/docs/manual/new_features_2_0.html.fr,new_features_2_0.html.fr,260,208,0,52,0,16761,0
+XML,/docs/manual/new_features_2_0.xml,new_features_2_0.xml,234,160,17,57,0,9683,0
+Forth,/docs/manual/new_features_2_0.xml.fr,new_features_2_0.xml.fr,247,188,0,59,2,13256,0
+HTML,/docs/manual/new_features_2_2.html,new_features_2_2.html,21,16,0,5,0,525,0
+Forth,/docs/manual/new_features_2_2.html.fr,new_features_2_2.html.fr,305,266,0,39,0,18792,0
+XML,/docs/manual/new_features_2_2.xml,new_features_2_2.xml,266,204,18,44,0,12074,0
+Forth,/docs/manual/new_features_2_2.xml.fr,new_features_2_2.xml.fr,294,251,0,43,2,15780,0
+HTML,/docs/manual/new_features_2_4.html,new_features_2_4.html,9,7,0,2,0,228,0
+Forth,/docs/manual/new_features_2_4.html.fr,new_features_2_4.html.fr,213,176,0,37,0,12500,0
+XML,/docs/manual/new_features_2_4.xml,new_features_2_4.xml,191,134,17,40,0,7837,0
+Forth,/docs/manual/new_features_2_4.xml.fr,new_features_2_4.xml.fr,212,170,0,42,2,9860,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/nroff.xsl,nroff.xsl,448,389,0,59,0,17126,0
+C,/server/mpm/winnt/nt_eventlog.c,nt_eventlog.c,173,119,28,26,21,5600,0
+AWK,/build/nw_ver.awk,nw_ver.awk,48,27,15,6,13,1766,0
+C,/os/bs2000/os.c,os.c,145,79,37,29,13,3983,0
+C Header,/os/os2/os.h,os.h,40,8,27,5,0,1375,0
+C Header,/os/unix/os.h,os.h,52,13,31,8,0,1667,0
+C Header,/os/win32/os.h,os.h,137,62,48,27,1,4455,0
+C Header,/os/netware/os.h,os.h,57,13,34,10,0,2098,0
+C Header,/os/bs2000/os.h,os.h,40,6,27,7,0,1372,0
+HTML,/docs/manual/programs/other.html,other.html,13,10,0,3,0,294,0
+Lua,/modules/lua/test/htdocs/other.lua,other.lua,21,5,14,2,0,876,0
+XML,/docs/manual/programs/other.xml,other.xml,69,39,17,13,0,2854,0
+HTML,/docs/manual/developer/output-filters.html,output-filters.html,5,4,0,1,0,130,0
+XML,/docs/manual/developer/output-filters.xml,output-filters.xml,504,399,17,88,0,20371,0
+HTML,/docs/manual/misc/password_encryptions.html,password_encryptions.html,5,4,0,1,0,136,0
+XML,/docs/manual/misc/password_encryptions.xml,password_encryptions.xml,211,150,17,44,0,7753,0
+HTML,/docs/manual/platform/perf-hp.html,perf-hp.html,9,7,0,2,0,213,0
+XML,/docs/manual/platform/perf-hp.xml,perf-hp.xml,113,74,17,22,0,4838,0
+HTML,/docs/manual/misc/perf-tuning.html,perf-tuning.html,17,13,0,4,0,403,0
+Forth,/docs/manual/misc/perf-tuning.html.fr,perf-tuning.html.fr,1073,866,0,207,26,56916,0
+XML,/docs/manual/misc/perf-tuning.xml,perf-tuning.xml,1052,855,17,180,0,44747,0
+Forth,/docs/manual/misc/perf-tuning.xml.fr,perf-tuning.xml.fr,1109,927,0,182,28,57725,0
+Autoconf,/support/phf_abuse_log.cgi.in,phf_abuse_log.cgi.in,38,9,25,4,2,1562,0
+Autoconf,/build/pkg/pkginfo.in,pkginfo.in,11,10,0,1,0,227,0
+C,/server/mpm/event/pod.c,pod.c,113,73,22,18,14,3012,0
+C,/server/mpm/worker/pod.c,pod.c,113,73,22,18,14,3016,0
+C Header,/server/mpm/worker/pod.h,pod.h,58,27,23,8,0,1810,0
+C Header,/server/mpm/event/pod.h,pod.h,59,28,23,8,0,1793,0
+C Header,/os/netware/pre_nw.h,pre_nw.h,73,24,34,15,1,1933,0
+C,/server/mpm/prefork/prefork.c,prefork.c,1526,1037,304,185,213,52655,0
+HTML,/docs/manual/mod/prefork.html,prefork.html,17,13,0,4,0,384,0
+XML,/docs/manual/mod/prefork.xml,prefork.xml,182,146,17,19,0,8688,0
+Makefile,/build/program.mk,program.mk,23,4,17,2,0,1032,0
+C,/modules/dav/main/props.c,props.c,1122,614,339,169,184,38824,0
+C,/server/protocol.c,protocol.c,1743,1132,355,256,301,58103,0
+C,/server/provider.c,provider.c,165,110,19,36,19,5737,0
+C,/modules/dav/main/providers.c,providers.c,58,34,15,9,0,2129,0
+HTML,/docs/manual/rewrite/proxy.html,proxy.html,5,4,0,1,0,121,0
+XML,/docs/manual/rewrite/proxy.xml,proxy.xml,104,66,18,20,0,3922,0
+C,/modules/proxy/proxy_util.c,proxy_util.c,2825,2097,442,286,610,92947,0
+XML,/docs/manual/style/lang/pt-br.xml,pt-br.xml,141,69,52,20,0,6318,0
+HTML,/docs/manual/howto/public_html.html,public_html.html,21,16,0,5,0,494,0
+Forth,/docs/manual/howto/public_html.html.fr,public_html.html.fr,214,178,0,36,0,12259,0
+XML,/docs/manual/howto/public_html.xml,public_html.xml,198,140,17,41,0,7155,0
+Forth,/docs/manual/howto/public_html.xml.fr,public_html.xml.fr,213,170,0,43,2,8544,0
+HTML,/docs/manual/mod/quickreference.html,quickreference.html,25,19,0,6,0,603,0
+XML,/docs/manual/mod/quickreference.xml,quickreference.xml,40,19,17,4,0,1757,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/latex/quickreference.xsl,quickreference.xsl,144,116,0,28,0,5187,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/quickreference.xsl,quickreference.xsl,333,308,0,25,0,13154,0
+C,/modules/filters/regexp.c,regexp.c,599,485,38,76,155,15185,0
+C Header,/modules/filters/regexp.h,regexp.h,111,71,27,13,0,3687,0
+HTML,/docs/manual/misc/relevant_standards.html,relevant_standards.html,9,7,0,2,0,235,0
+XML,/docs/manual/misc/relevant_standards.xml,relevant_standards.xml,199,132,17,50,0,7608,0
+HTML,/docs/manual/rewrite/remapping.html,remapping.html,5,4,0,1,0,125,0
+XML,/docs/manual/rewrite/remapping.xml,remapping.xml,618,460,18,140,0,18786,0
+C,/modules/dav/fs/repos.c,repos.c,2254,1469,415,370,363,76809,0
+C Header,/modules/dav/fs/repos.h,repos.h,84,35,31,18,0,3388,0
+C,/server/request.c,request.c,2179,1341,573,265,422,80909,0
+HTML,/docs/manual/developer/request.html,request.html,5,4,0,1,0,123,0
+XML,/docs/manual/developer/request.xml,request.xml,220,173,17,30,0,10290,0
+Forth,/docs/manual/rewrite/rewrite_guide.html.fr,rewrite_guide.html.fr,870,692,0,178,1,34872,0
+Forth,/docs/manual/rewrite/rewrite_guide.xml.fr,rewrite_guide.xml.fr,863,676,0,187,3,30897,0
+Forth,/docs/manual/rewrite/rewrite_guide_advanced.html.fr,rewrite_guide_advanced.html.fr,1377,1128,0,249,9,54240,0
+Forth,/docs/manual/rewrite/rewrite_guide_advanced.xml.fr,rewrite_guide_advanced.xml.fr,1374,1117,0,257,11,51958,0
+HTML,/docs/manual/rewrite/rewritemap.html,rewritemap.html,5,4,0,1,0,126,0
+XML,/docs/manual/rewrite/rewritemap.xml,rewritemap.xml,449,353,17,79,0,16940,0
+C,/support/rotatelogs.c,rotatelogs.c,581,420,113,48,105,18622,0
+HTML,/docs/manual/programs/rotatelogs.html,rotatelogs.html,13,10,0,3,0,309,0
+XML,/docs/manual/programs/rotatelogs.xml,rotatelogs.xml,219,165,17,37,0,8888,0
+XML,/docs/manual/style/lang/ru.xml,ru.xml,138,76,43,19,0,5996,0
+Autoconf,/build/rules.mk.in,rules.mk.in,233,156,37,40,43,7069,0
+Plain Text,/modules/lua/docs/running-developer-tests.txt,running-developer-tests.txt,16,14,0,2,0,521,0
+C,/server/scoreboard.c,scoreboard.c,633,482,66,85,103,19309,0
+C Header,/include/scoreboard.h,scoreboard.h,230,125,77,28,0,8252,0
+HTML,/docs/manual/sections.html,sections.html,21,16,0,5,0,479,0
+Forth,/docs/manual/sections.html.fr,sections.html.fr,556,485,0,71,1,31965,0
+XML,/docs/manual/sections.xml,sections.xml,544,454,17,73,0,22059,0
+Forth,/docs/manual/sections.xml.fr,sections.xml.fr,593,516,0,77,3,27379,0
+HTML,/docs/manual/misc/security_tips.html,security_tips.html,17,13,0,4,0,411,0
+Forth,/docs/manual/misc/security_tips.html.fr,security_tips.html.fr,472,383,0,89,0,25890,0
+XML,/docs/manual/misc/security_tips.xml,security_tips.xml,445,329,17,99,0,18432,0
+Forth,/docs/manual/misc/security_tips.xml.fr,security_tips.xml.fr,461,364,0,97,2,22707,0
+C Header,/modules/filters/sed.h,sed.h,61,36,19,6,0,1446,0
+C,/modules/filters/sed0.c,sed0.c,1026,833,76,117,303,28457,0
+C,/modules/filters/sed1.c,sed1.c,1018,791,113,114,242,27748,0
+HTML,/docs/manual/server-wide.html,server-wide.html,21,16,0,5,0,494,0
+Forth,/docs/manual/server-wide.html.fr,server-wide.html.fr,118,102,0,16,0,10460,0
+XML,/docs/manual/server-wide.xml,server-wide.xml,136,99,17,20,0,5540,0
+Forth,/docs/manual/server-wide.xml.fr,server-wide.xml.fr,140,118,0,22,2,6420,0
+C,/server/mpm/winnt/service.c,service.c,963,643,165,155,130,32589,0
+Lua,/modules/lua/test/htdocs/simple.lua,simple.lua,4,4,0,0,0,79,0
+C,/server/mpm/simple/simple_api.c,simple_api.c,277,211,18,48,20,8044,0
+C,/server/mpm/simple/simple_children.c,simple_children.c,162,108,31,23,30,4808,0
+C Header,/server/mpm/simple/simple_children.h,simple_children.h,28,6,15,7,0,1082,0
+C,/server/mpm/simple/simple_core.c,simple_core.c,78,42,18,18,2,2291,0
+C,/server/mpm/simple/simple_event.c,simple_event.c,101,62,17,22,6,3218,0
+C Header,/server/mpm/simple/simple_event.h,simple_event.h,60,28,23,9,0,1914,0
+C,/server/mpm/simple/simple_io.c,simple_io.c,297,203,42,52,44,9910,0
+C Header,/server/mpm/simple/simple_io.h,simple_io.h,26,6,15,5,0,1044,0
+C,/server/mpm/simple/simple_run.c,simple_run.c,342,247,33,62,44,9957,0
+C Header,/server/mpm/simple/simple_run.h,simple_run.h,29,7,15,7,0,1041,0
+C Header,/server/mpm/simple/simple_types.h,simple_types.h,132,87,21,24,0,3307,0
+Document Type Definition,/docs/manual/style/sitemap.dtd,sitemap.dtd,38,28,0,10,0,1335,0
+HTML,/docs/manual/sitemap.html,sitemap.html,29,22,0,7,0,648,0
+Forth,/docs/manual/sitemap.html.fr,sitemap.html.fr,322,321,0,1,0,21949,0
+XML,/docs/manual/sitemap.xml,sitemap.xml,176,142,17,17,0,7971,0
+Forth,/docs/manual/sitemap.xml.fr,sitemap.xml.fr,196,177,0,19,2,9122,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/sitemap.xsl,sitemap.xsl,242,208,0,34,0,8644,0
+HTML,/docs/error/include/spacer.html,spacer.html,2,2,0,0,0,9,0
+Makefile,/build/special.mk,special.mk,36,12,17,7,1,1276,0
+Autoconf,/support/split-logfile.in,split-logfile.in,67,14,52,1,3,2386,0
+HTML,/docs/manual/howto/ssi.html,ssi.html,17,13,0,4,0,371,0
+Forth,/docs/manual/howto/ssi.html.fr,ssi.html.fr,490,408,0,82,1,25963,0
+XML,/docs/manual/howto/ssi.xml,ssi.xml,480,381,17,82,0,18905,0
+Forth,/docs/manual/howto/ssi.xml.fr,ssi.xml.fr,492,408,0,84,3,22850,0
+HTML,/docs/manual/ssl/ssl_compat.html,ssl_compat.html,9,7,0,2,0,216,0
+Forth,/docs/manual/ssl/ssl_compat.html.fr,ssl_compat.html.fr,232,215,0,17,0,20378,0
+XML,/docs/manual/ssl/ssl_compat.xml,ssl_compat.xml,261,199,17,45,0,17031,0
+Forth,/docs/manual/ssl/ssl_compat.xml.fr,ssl_compat.xml.fr,265,218,0,47,2,18992,0
+C,/modules/ssl/ssl_engine_config.c,ssl_engine_config.c,1645,1257,86,302,183,46699,0
+C,/modules/ssl/ssl_engine_dh.c,ssl_engine_dh.c,210,66,129,15,7,6501,0
+C,/modules/ssl/ssl_engine_init.c,ssl_engine_init.c,1467,1023,216,228,188,44706,0
+C,/modules/ssl/ssl_engine_io.c,ssl_engine_io.c,1875,1179,454,242,288,64650,0
+C,/modules/ssl/ssl_engine_kernel.c,ssl_engine_kernel.c,2259,1359,590,310,333,80219,0
+C,/modules/ssl/ssl_engine_log.c,ssl_engine_log.c,156,88,46,22,12,5343,0
+C,/modules/ssl/ssl_engine_mutex.c,ssl_engine_mutex.c,111,65,31,15,18,3640,0
+C,/modules/ssl/ssl_engine_ocsp.c,ssl_engine_ocsp.c,281,195,40,46,57,9622,0
+C,/modules/ssl/ssl_engine_pphrase.c,ssl_engine_pphrase.c,801,499,223,79,117,30492,0
+C,/modules/ssl/ssl_engine_rand.c,ssl_engine_rand.c,177,106,51,20,30,5745,0
+C,/modules/ssl/ssl_engine_vars.c,ssl_engine_vars.c,1029,790,125,114,336,34295,0
+HTML,/docs/manual/ssl/ssl_faq.html,ssl_faq.html,9,7,0,2,0,210,0
+Forth,/docs/manual/ssl/ssl_faq.html.fr,ssl_faq.html.fr,930,811,0,119,0,48942,0
+XML,/docs/manual/ssl/ssl_faq.xml,ssl_faq.xml,837,725,21,91,0,40625,0
+Forth,/docs/manual/ssl/ssl_faq.xml.fr,ssl_faq.xml.fr,928,835,0,93,2,46552,0
+HTML,/docs/manual/ssl/ssl_howto.html,ssl_howto.html,9,7,0,2,0,214,0
+Forth,/docs/manual/ssl/ssl_howto.html.fr,ssl_howto.html.fr,337,284,0,53,0,16790,0
+XML,/docs/manual/ssl/ssl_howto.xml,ssl_howto.xml,306,240,19,47,0,11943,0
+Forth,/docs/manual/ssl/ssl_howto.xml.fr,ssl_howto.xml.fr,337,287,0,50,2,14564,0
+HTML,/docs/manual/ssl/ssl_intro.html,ssl_intro.html,13,10,0,3,0,303,0
+Forth,/docs/manual/ssl/ssl_intro.html.fr,ssl_intro.html.fr,705,595,0,110,0,38543,0
+XML,/docs/manual/ssl/ssl_intro.xml,ssl_intro.xml,683,587,22,74,0,32096,0
+Forth,/docs/manual/ssl/ssl_intro.xml.fr,ssl_intro.xml.fr,733,656,0,77,2,41214,0
+C Header,/modules/ssl/ssl_private.h,ssl_private.h,807,517,177,113,21,27538,0
+C,/modules/ssl/ssl_scache.c,ssl_scache.c,235,146,49,40,25,7415,0
+C Header,/modules/ssl/ssl_toolkit_compat.h,ssl_toolkit_compat.h,314,202,43,69,5,9142,0
+C,/modules/ssl/ssl_util.c,ssl_util.c,540,385,84,71,75,15278,0
+C,/modules/ssl/ssl_util_ocsp.c,ssl_util_ocsp.c,308,217,42,49,53,10028,0
+C,/modules/ssl/ssl_util_ssl.c,ssl_util_ssl.c,565,391,106,68,115,15794,0
+C Header,/modules/ssl/ssl_util_ssl.h,ssl_util_ssl.h,102,46,45,11,0,4046,0
+C,/modules/ssl/ssl_util_stapling.c,ssl_util_stapling.c,688,522,83,83,127,22092,0
+C,/modules/dav/main/std_liveprop.c,std_liveprop.c,226,160,37,29,21,7614,0
+HTML,/docs/manual/stopping.html,stopping.html,29,22,0,7,0,655,0
+Forth,/docs/manual/stopping.html.fr,stopping.html.fr,274,246,0,28,0,17752,0
+XML,/docs/manual/stopping.xml,stopping.xml,231,176,17,38,0,10956,0
+Forth,/docs/manual/stopping.xml.fr,stopping.xml.fr,264,224,0,40,2,14312,0
+C,/support/suexec.c,suexec.c,631,409,161,61,98,17911,0
+C Header,/support/suexec.h,suexec.h,109,25,72,12,0,3730,0
+HTML,/docs/manual/programs/suexec.html,suexec.html,13,10,0,3,0,297,0
+HTML,/docs/manual/suexec.html,suexec.html,21,16,0,5,0,469,0
+Forth,/docs/manual/suexec.html.fr,suexec.html.fr,664,558,0,106,0,30505,0
+XML,/docs/manual/suexec.xml,suexec.xml,609,476,17,116,0,23158,0
+XML,/docs/manual/programs/suexec.xml,suexec.xml,58,30,17,11,0,2303,0
+Forth,/docs/manual/suexec.xml.fr,suexec.xml.fr,657,542,0,115,2,29843,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/latex/synopsis.xsl,synopsis.xsl,350,300,0,50,0,11006,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/synopsis.xsl,synopsis.xsl,522,468,0,54,0,20131,0
+Shell,/build/sysv_makefile,sysv_makefile,34,10,20,4,5,1182,0
+XML,/docs/manual/style/xsl/util/tab.xml,tab.xml,3,2,0,1,0,117,0
+Plain Text,/test/tcpdumpscii.txt,tcpdumpscii.txt,50,42,0,8,0,1229,0
+HTML,/docs/manual/rewrite/tech.html,tech.html,9,7,0,2,0,204,0
+Forth,/docs/manual/rewrite/tech.html.fr,tech.html.fr,178,167,0,11,0,11926,0
+XML,/docs/manual/rewrite/tech.xml,tech.xml,172,135,17,20,0,8490,0
+Forth,/docs/manual/rewrite/tech.xml.fr,tech.xml.fr,187,165,0,22,2,11161,0
+C,/test/test-writev.c,test-writev.c,101,60,33,8,10,3162,0
+Lua,/modules/lua/test/htdocs/test.lua,test.lua,129,85,21,23,7,2990,0
+Lua,/modules/lua/test/test.lua,test.lua,126,98,14,14,10,4647,0
+C,/test/test_find.c,test_find.c,78,38,30,10,2,2219,0
+C,/test/test_limits.c,test_limits.c,200,125,55,20,46,5928,0
+C,/test/test_parser.c,test_parser.c,75,36,30,9,3,2122,0
+C,/test/test_select.c,test_select.c,46,19,23,4,2,1461,0
+HTML,/docs/manual/developer/thread_safety.html,thread_safety.html,5,4,0,1,0,129,0
+XML,/docs/manual/developer/thread_safety.xml,thread_safety.xml,287,250,19,18,0,13489,0
+C,/test/time-sem.c,time-sem.c,591,425,91,75,80,14754,0
+HTML,/docs/error/include/top.html,top.html,21,13,7,1,0,826,0
+XML,/docs/manual/style/lang/tr.xml,tr.xml,143,81,43,19,0,6342,0
+Extensible Stylesheet Language Transformations,/docs/manual/style/xsl/typemap.xsl,typemap.xsl,82,67,0,15,0,3197,0
+XML,/docs/manual/style/xsl/util/ul-end.xml,ul-end.xml,1,1,0,0,0,82,0
+XML,/docs/manual/style/xsl/util/ul-start.xml,ul-start.xml,1,1,0,0,0,81,0
+C,/os/unix/unixd.c,unixd.c,550,378,108,64,64,16409,0
+C Header,/os/unix/unixd.h,unixd.h,116,66,34,16,4,3400,0
+HTML,/docs/manual/upgrading.html,upgrading.html,9,7,0,2,0,214,0
+Forth,/docs/manual/upgrading.html.fr,upgrading.html.fr,309,249,0,60,0,17728,0
+XML,/docs/manual/upgrading.xml,upgrading.xml,278,213,17,48,0,11599,0
+Forth,/docs/manual/upgrading.xml.fr,upgrading.xml.fr,316,264,0,52,2,14817,0
+HTML,/docs/manual/urlmapping.html,urlmapping.html,21,16,0,5,0,489,0
+Forth,/docs/manual/urlmapping.html.fr,urlmapping.html.fr,348,307,0,41,0,24701,0
+XML,/docs/manual/urlmapping.xml,urlmapping.xml,357,284,18,55,0,16182,0
+Forth,/docs/manual/urlmapping.xml.fr,urlmapping.xml.fr,367,312,0,55,2,19456,0
+C,/server/util.c,util.c,2257,1811,246,200,415,63551,0
+C,/modules/dav/main/util.c,util.c,2110,1225,593,292,389,77446,0
+C,/server/util_cfgtree.c,util_cfgtree.c,46,24,18,4,6,1563,0
+C Header,/include/util_cfgtree.h,util_cfgtree.h,98,25,60,13,0,3157,0
+C,/server/util_charset.c,util_charset.c,42,8,28,6,0,1533,0
+C Header,/include/util_charset.h,util_charset.h,55,15,30,10,0,1692,0
+C,/server/util_cookies.c,util_cookies.c,287,165,82,40,25,8959,0
+C Header,/include/util_cookies.h,util_cookies.h,138,31,91,16,0,4613,0
+C,/server/util_debug.c,util_debug.c,202,143,25,34,14,5826,0
+C,/server/util_ebcdic.c,util_ebcdic.c,113,80,15,18,9,3242,0
+C Header,/include/util_ebcdic.h,util_ebcdic.h,84,22,46,16,0,2310,0
+C,/server/util_expr_eval.c,util_expr_eval.c,1387,1216,40,131,177,42673,0
+C,/server/util_expr_parse.c,util_expr_parse.c,2056,1383,333,340,207,58263,0
+C Header,/server/util_expr_parse.h,util_expr_parse.h,104,52,35,17,1,2913,0
+Happy,/server/util_expr_parse.y,util_expr_parse.y,211,178,0,33,0,7473,0
+C Header,/server/util_expr_private.h,util_expr_private.h,133,73,42,18,0,4417,0
+C,/server/util_expr_scan.c,util_expr_scan.c,2631,1778,462,391,156,72408,0
+LEX,/server/util_expr_scan.l,util_expr_scan.l,363,262,61,40,0,8220,0
+C,/server/util_filter.c,util_filter.c,636,485,76,75,97,20826,0
+C Header,/include/util_filter.h,util_filter.h,602,131,408,63,1,24609,0
+C,/modules/ldap/util_ldap.c,util_ldap.c,2974,2028,568,378,510,103227,0
+C Header,/include/util_ldap.h,util_ldap.h,390,141,205,44,3,17847,0
+C,/modules/ldap/util_ldap_cache.c,util_ldap_cache.c,462,363,33,66,52,13095,0
+C Header,/modules/ldap/util_ldap_cache.h,util_ldap_cache.h,204,113,58,33,0,8291,0
+C,/modules/ldap/util_ldap_cache_mgr.c,util_ldap_cache_mgr.c,876,684,91,101,132,29930,0
+C,/modules/dav/main/util_lock.c,util_lock.c,788,437,244,107,129,27904,0
+C,/server/util_md5.c,util_md5.c,172,68,82,22,4,6232,0
+C Header,/include/util_md5.h,util_md5.h,76,14,52,10,0,2382,0
+C,/server/util_mutex.c,util_mutex.c,497,372,55,70,94,14631,0
+C Header,/include/util_mutex.h,util_mutex.h,221,86,119,16,2,9207,0
+C,/os/netware/util_nw.c,util_nw.c,112,76,21,15,0,3221,0
+C,/os/os2/util_os2.c,util_os2.c,39,21,15,3,0,1351,0
+C,/server/util_pcre.c,util_pcre.c,228,118,70,40,30,7362,0
+C,/server/util_regex.c,util_regex.c,210,157,43,10,39,7074,0
+C,/server/util_script.c,util_script.c,786,580,115,91,182,25116,0
+C Header,/include/util_script.h,util_script.h,150,33,101,16,0,5818,0
+C,/server/util_time.c,util_time.c,306,189,88,29,24,10833,0
+C Header,/include/util_time.h,util_time.h,117,24,76,17,0,4090,0
+C,/os/win32/util_win32.c,util_win32.c,147,102,25,20,18,4404,0
+C,/server/util_xml.c,util_xml.c,137,87,22,28,14,4121,0
+C Header,/include/util_xml.h,util_xml.h,52,12,31,9,0,1393,0
+C,/server/vhost.c,vhost.c,1118,716,269,133,203,35610,0
+HTML,/docs/manual/rewrite/vhosts.html,vhosts.html,5,4,0,1,0,122,0
+XML,/docs/manual/rewrite/vhosts.xml,vhosts.xml,211,188,17,6,0,7900,0
+HTML,/docs/manual/platform/win_compiling.html,win_compiling.html,9,7,0,2,0,225,0
+XML,/docs/manual/platform/win_compiling.xml,win_compiling.xml,416,317,17,82,0,19155,0
+HTML,/docs/manual/platform/windows.html,windows.html,9,7,0,2,0,213,0
+XML,/docs/manual/platform/windows.xml,windows.xml,805,758,17,30,0,35090,0
+C,/support/win32/wintty.c,wintty.c,374,298,43,33,85,13295,0
+C,/server/mpm/worker/worker.c,worker.c,2364,1638,470,256,348,86234,0
+HTML,/docs/manual/mod/worker.html,worker.html,17,13,0,4,0,380,0
+XML,/docs/manual/mod/worker.xml,worker.xml,188,154,17,17,0,9055,0
+Plain Text,/modules/lua/docs/writing-handlers.txt,writing-handlers.txt,49,41,0,8,0,1801,0
