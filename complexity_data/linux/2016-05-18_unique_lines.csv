@@ -1,0 +1,85 @@
+Language,Provider,Filename,Lines,Code,Comments,Blanks,Complexity,Bytes,ULOC
+Makefile,/drivers/staging/greybus/tools/Android.mk,Android.mk,10,6,0,4,0,179,7
+License,/drivers/staging/greybus/LICENSE,LICENSE,339,281,0,58,0,18026,282
+Makefile,/drivers/staging/greybus/tools/Makefile,Makefile,31,24,0,7,0,548,25
+Makefile,/drivers/staging/greybus/Makefile,Makefile,144,115,9,20,2,3808,120
+C,/drivers/staging/greybus/arche-apb-ctrl.c,arche-apb-ctrl.c,459,323,58,78,60,11437,267
+C,/drivers/staging/greybus/arche-platform.c,arche-platform.c,759,535,97,127,72,21614,426
+C Header,/drivers/staging/greybus/arche_platform.h,arche_platform.h,32,17,9,6,0,801,26
+C,/drivers/staging/greybus/audio_apbridgea.c,audio_apbridgea.c,213,161,9,43,0,6417,97
+C Header,/drivers/staging/greybus/audio_apbridgea.h,audio_apbridgea.h,174,106,43,25,0,6106,111
+C,/drivers/staging/greybus/audio_codec.c,audio_codec.c,1272,1072,51,149,151,32448,589
+C Header,/drivers/staging/greybus/audio_codec.h,audio_codec.h,285,222,31,32,0,8679,220
+C,/drivers/staging/greybus/audio_gb.c,audio_gb.c,268,201,8,59,8,6961,132
+C,/drivers/staging/greybus/audio_manager.c,audio_manager.c,184,134,13,37,8,3869,103
+C Header,/drivers/staging/greybus/audio_manager.h,audio_manager.h,83,30,40,13,0,1980,50
+C,/drivers/staging/greybus/audio_manager_module.c,audio_manager_module.c,258,192,21,45,4,7245,165
+C Header,/drivers/staging/greybus/audio_manager_private.h,audio_manager_private.h,28,11,9,8,0,637,20
+C,/drivers/staging/greybus/audio_manager_sysfs.c,audio_manager_sysfs.c,102,73,7,22,12,2273,61
+C,/drivers/staging/greybus/audio_module.c,audio_module.c,403,298,35,70,26,10651,259
+C,/drivers/staging/greybus/audio_topology.c,audio_topology.c,1033,874,37,122,100,28467,516
+C,/drivers/staging/greybus/bootrom.c,bootrom.c,466,316,61,89,31,12153,262
+C Header,/drivers/staging/greybus/bootrom.h,bootrom.h,16,5,8,3,0,254,13
+C,/drivers/staging/greybus/bundle.c,bundle.c,161,105,22,34,9,3554,97
+C Header,/drivers/staging/greybus/bundle.h,bundle.h,41,22,10,9,0,841,32
+C,/drivers/staging/greybus/camera.c,camera.c,980,748,58,174,99,23645,526
+Perl,/drivers/staging/greybus/scripts/checkpatch.pl,checkpatch.pl,5993,4858,512,623,955,176690,3896
+C,/drivers/staging/greybus/connection.c,connection.c,716,498,76,142,68,17613,340
+C Header,/drivers/staging/greybus/connection.h,connection.h,118,85,8,25,0,3192,82
+C,/drivers/staging/greybus/control.c,control.c,346,264,11,71,16,8536,186
+C Header,/drivers/staging/greybus/control.h,control.h,51,34,8,9,0,1654,42
+C,/drivers/staging/greybus/core.c,core.c,304,232,19,53,47,6706,185
+C,/drivers/staging/greybus/debugfs.c,debugfs.c,31,17,8,6,0,511,21
+C,/drivers/staging/greybus/Documentation/es1_ap_desc.c,es1_ap_desc.c,70,54,8,8,0,2494,53
+C,/drivers/staging/greybus/es2.c,es2.c,1304,952,130,222,124,31910,692
+C,/drivers/staging/greybus/Documentation/firmware/firmware.c,firmware.c,146,106,8,32,14,3736,89
+C Header,/drivers/staging/greybus/firmware.h,firmware.h,28,13,10,5,0,851,23
+C,/drivers/staging/greybus/fw-core.c,fw-core.c,253,196,16,41,21,6341,148
+C,/drivers/staging/greybus/fw-download.c,fw-download.c,467,321,57,89,30,12481,260
+C,/drivers/staging/greybus/fw-management.c,fw-management.c,676,477,72,127,66,17736,354
+C Header,/drivers/staging/greybus/gb-camera.h,gb-camera.h,65,39,16,10,0,1733,51
+C,/drivers/staging/greybus/gpbridge.c,gpbridge.c,330,252,13,65,27,7899,191
+C Header,/drivers/staging/greybus/gpbridge.h,gpbridge.h,71,43,15,13,0,2008,52
+C,/drivers/staging/greybus/gpio.c,gpio.c,760,583,57,120,54,19742,406
+C Header,/drivers/staging/greybus/greybus.h,greybus.h,158,106,20,32,8,4195,108
+C Header,/drivers/staging/greybus/greybus_firmware.h,greybus_firmware.h,105,40,53,12,0,4192,76
+C Header,/drivers/staging/greybus/greybus_id.h,greybus_id.h,26,15,4,7,0,551,20
+C Header,/drivers/staging/greybus/greybus_manifest.h,greybus_manifest.h,174,101,59,14,0,4715,133
+C Header,/drivers/staging/greybus/greybus_protocols.h,greybus_protocols.h,2148,1520,292,336,0,60888,1397
+C Header,/drivers/staging/greybus/greybus_trace.h,greybus_trace.h,175,87,47,41,1,4161,89
+C,/drivers/staging/greybus/hd.c,hd.c,228,165,22,41,23,5016,137
+C Header,/drivers/staging/greybus/hd.h,hd.h,81,57,11,13,0,2597,67
+C,/drivers/staging/greybus/hid.c,hid.c,517,390,26,101,44,12119,298
+C,/drivers/staging/greybus/i2c.c,i2c.c,334,239,36,59,25,8062,204
+C,/drivers/staging/greybus/interface.c,interface.c,709,478,104,127,53,16823,364
+C Header,/drivers/staging/greybus/interface.h,interface.h,58,39,8,11,0,1458,47
+C Header,/drivers/staging/greybus/kernel_ver.h,kernel_ver.h,316,213,47,56,15,7460,191
+Python,/drivers/staging/greybus/tools/lbtest,lbtest,168,112,39,17,20,6137,140
+C,/drivers/staging/greybus/legacy.c,legacy.c,259,183,18,58,18,5423,146
+C Header,/drivers/staging/greybus/legacy.h,legacy.h,16,5,8,3,0,259,13
+C,/drivers/staging/greybus/light.c,light.c,1297,999,56,242,103,32145,637
+C,/drivers/staging/greybus/loopback.c,loopback.c,1341,1084,61,196,126,35198,803
+C,/drivers/staging/greybus/tools/loopback_test.c,loopback_test.c,991,803,23,165,105,24700,575
+C,/drivers/staging/greybus/manifest.c,manifest.c,528,330,124,74,53,14554,345
+C Header,/drivers/staging/greybus/manifest.h,manifest.h,16,5,8,3,0,303,13
+C,/drivers/staging/greybus/module.c,module.c,224,161,16,47,16,4807,126
+C Header,/drivers/staging/greybus/module.h,module.h,34,18,8,8,0,700,26
+C,/drivers/staging/greybus/operation.c,operation.c,1185,714,308,163,112,34012,702
+C Header,/drivers/staging/greybus/operation.h,operation.h,198,126,37,35,0,5909,134
+C,/drivers/staging/greybus/power_supply.c,power_supply.c,854,661,39,154,84,20905,454
+C,/drivers/staging/greybus/protocol.c,protocol.c,201,137,26,38,26,4659,124
+C Header,/drivers/staging/greybus/protocol.h,protocol.h,75,47,15,13,0,1998,54
+C,/drivers/staging/greybus/pwm.c,pwm.c,269,203,9,57,14,6402,145
+C,/drivers/staging/greybus/raw.c,raw.c,381,282,27,72,31,8507,226
+C,/drivers/staging/greybus/sdio.c,sdio.c,840,697,17,126,75,20426,508
+Plain Text,/drivers/staging/greybus/scripts/spelling.txt,spelling.txt,1072,1072,0,0,0,21841,1071
+C,/drivers/staging/greybus/spi.c,spi.c,75,51,8,16,4,1622,51
+C,/drivers/staging/greybus/spilib.c,spilib.c,535,398,35,102,71,13367,345
+C Header,/drivers/staging/greybus/spilib.h,spilib.h,18,6,8,4,0,368,14
+C,/drivers/staging/greybus/svc.c,svc.c,1580,1220,65,295,112,40402,716
+C Header,/drivers/staging/greybus/svc.h,svc.h,99,76,8,15,0,3294,82
+C,/drivers/staging/greybus/svc_watchdog.c,svc_watchdog.c,195,141,19,35,14,4327,117
+JSON,/tags.json,tags.json,8919011,8919011,0,0,0,2137976879,8919012
+C,/drivers/staging/greybus/uart.c,uart.c,841,683,15,143,93,20371,500
+C,/drivers/staging/greybus/usb.c,usb.c,255,190,19,46,12,5832,161
+C,/drivers/staging/greybus/vibrator.c,vibrator.c,228,168,20,40,15,5268,147
